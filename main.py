@@ -29,11 +29,18 @@ tank_image = pygame.transform.scale(tank_image, (CELL_SIZE, CELL_SIZE))
 background_image = pygame.image.load("fon.jpg")
 background_image = pygame.transform.scale(background_image, (WINDOW_SIZE, WINDOW_SIZE))
 
+# Загрузка изображения пельменей
+pelmeni_image = pygame.image.load("pelmeni.png")
+pelmeni_image = pygame.transform.scale(pelmeni_image, (CELL_SIZE // 2, CELL_SIZE // 2))
+
 # Параметры снарядов
 bullets = []
 bullet_speed = 1
 last_direction = [0, 0]  # Направление последнего движения танка
 
+# Переменная для хранения ввода текста
+input_text = ""
+pelmeni_mode = False  # Флаг для переключения на пельмени
 
 def generate_walls():
     """Генерация стен, гарантируя, что танк сможет выехать"""
@@ -83,6 +90,18 @@ while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_BACKSPACE:
+                # Удаление последнего символа при нажатии BACKSPACE
+                input_text = input_text[:-1]
+            elif event.key == pygame.K_RETURN:
+                # Если нажата клавиша Enter, проверяем введенный текст
+                if input_text.upper() == "PELMENI":
+                    pelmeni_mode = True
+                input_text = ""  # Очистить текст после обработки
+            else:
+                # Добавляем символ в строку ввода
+                input_text += event.unicode
 
     keys = pygame.key.get_pressed()
     grid[tank_pos[0], tank_pos[1]] = 0
@@ -121,7 +140,7 @@ while running:
 
         # Проверяем, что пуля не вышла за пределы
         if not (0 <= bullet[0][0] < GRID_SIZE and 0 <= bullet[0][1] < GRID_SIZE):
-            bullets.remove(bullet)  # Удаляем пулю, если она выходит за пределы поля
+            bullets.remove(bullet)  # Удаляем пулю, если она выходит за пределы
 
         # Проверяем столкновение с стеной
         elif grid[bullet[0][0], bullet[0][1]] == WALL:
@@ -140,8 +159,11 @@ while running:
 
     # Отрисовка снарядов
     for bullet in bullets:
-        pygame.draw.rect(window, YELLOW,
-                         (bullet[0][1] * CELL_SIZE, bullet[0][0] * CELL_SIZE, CELL_SIZE // 4, CELL_SIZE // 4))
+        if pelmeni_mode:
+            # Если пельмени, рисуем их
+            window.blit(pelmeni_image, (bullet[0][1] * CELL_SIZE, bullet[0][0] * CELL_SIZE))
+        else:
+            pygame.draw.rect(window, YELLOW, (bullet[0][1] * CELL_SIZE, bullet[0][0] * CELL_SIZE, CELL_SIZE // 4, CELL_SIZE // 4))
 
     pygame.display.flip()
     pygame.time.delay(100)
