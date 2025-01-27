@@ -54,12 +54,13 @@ while running:
         last_direction = [0, 1]
         moved = True
 
-    if moved and keys[pygame.K_f]:
+    grid[tank_pos[0], tank_pos[1]] = 1
+
+    # Проверка на нажатие клавиши "F" для выстрела
+    if keys[pygame.K_f]:
         # Создание снаряда, который будет двигаться в последнем направлении
         bullet_pos = tank_pos.copy()
         bullets.append([bullet_pos, last_direction])
-
-    grid[tank_pos[0], tank_pos[1]] = 1
 
     # Обновление позиции снарядов
     for bullet in bullets:
