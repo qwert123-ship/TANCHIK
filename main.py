@@ -28,7 +28,7 @@ background_image = pygame.transform.scale(background_image, (WINDOW_SIZE, WINDOW
 
 # Параметры снарядов
 bullets = []
-bullet_speed = 5
+bullet_speed = 1
 last_direction = [0, 0]  # Направление последнего движения танка
 
 running = True
