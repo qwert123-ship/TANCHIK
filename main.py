@@ -7,13 +7,13 @@ from ai import AI_Tank
 pygame.init()
 
 WINDOW_SIZE = 500
-GRID_SIZE = 10
+GRID_SIZE = int(input("размер поля: "))
 CELL_SIZE = WINDOW_SIZE // GRID_SIZE
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 YELLOW = (0, 255, 0)
 WALL = 2
-hp = 3
+hp = int(input("Количество хп: "))
 
 window = pygame.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
 pygame.display.set_caption("Танчики")
