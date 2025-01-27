@@ -1,18 +1,20 @@
+
 import pygame
 import numpy as np
 import random
 from collections import deque
 from ai import AI_Tank
 
+print("WASD - ходьба, P - создание нового бота, O - пельмень-мод, J - старт ии")
+
 pygame.init()
 
 WINDOW_SIZE = 500
-GRID_SIZE = int(input("размер поля: "))
+from peremennie import GRID_SIZE, WALL, bullet_speed
 CELL_SIZE = WINDOW_SIZE // GRID_SIZE
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 YELLOW = (0, 255, 0)
-WALL = 2
 hp = int(input("Количество хп: "))
 
 window = pygame.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
@@ -27,6 +29,10 @@ grid[tank_pos[0], tank_pos[1]] = 1  # Танк на старте
 tank_image = pygame.image.load("serozhenka.png")
 tank_image = pygame.transform.scale(tank_image, (CELL_SIZE, CELL_SIZE))
 
+# Загрузка изображения для танков ИИ
+ai_tank_image = pygame.image.load("sereozhaai.png")
+ai_tank_image = pygame.transform.scale(ai_tank_image, (CELL_SIZE, CELL_SIZE))
+
 # Загрузка фона
 background_image = pygame.image.load("fon.jpg")
 background_image = pygame.transform.scale(background_image, (WINDOW_SIZE, WINDOW_SIZE))
@@ -37,14 +43,13 @@ pelmeni_image = pygame.transform.scale(pelmeni_image, (CELL_SIZE // 2, CELL_SIZE
 
 # Параметры снарядов
 bullets = []
-bullet_speed = 1
 last_direction = [0, 0]  # Направление последнего движения танка
 
 # Переменная для хранения ввода текста
 input_text = ""
 pelmeni_mode = False # Флаг для переключения на пельмени
 ai_mode = False  # Флаг для режима ИИ
-ai_tanks = []  # Список для танков ИИ
+ai_tanks = [AI_Tank(grid, [1, 1], 1), AI_Tank(grid, [GRID_SIZE - 2, GRID_SIZE - 2], 2)]
 
 def generate_walls():
     """Генерация стен, гарантируя, что танк сможет выехать"""
@@ -85,12 +90,29 @@ def is_reachable(fgrid, start_pos):
     # Если есть хотя бы одна непосещенная клетка, значит путь есть
     return np.any(visited)
 
+def check_collision(pos, exclude_tank=None):
+    """
+    Проверяет, находится ли заданная позиция на танке (ИИ или игроке).
+    :param pos: Позиция для проверки.
+    :param exclude_tank: Исключить танк из проверки (например, если танк сам проверяет свою позицию).
+    :return: True, если столкновение есть, иначе False.
+    """
+    # Проверяем столкновение с игроком
+    if pos == tank_pos:
+        return True
+
+    # Проверяем столкновение с другими ИИ-танками
+    for ai_tank in ai_tanks:
+        if ai_tank != exclude_tank and ai_tank.pos == pos:
+            return True
+
+    return False
 
 # Генерация стен
 grid = generate_walls()
 
 # Создание танков ИИ
-ai_tanks = [AI_Tank(grid, [1, 1], 1), AI_Tank(grid, [GRID_SIZE - 2, GRID_SIZE - 2], 2)]  # Пример двух ИИ-танков
+ai_tanks = [AI_Tank(grid, [1, 1], 1), AI_Tank(grid, [GRID_SIZE - 2, GRID_SIZE - 2], 2)]
 
 running = True
 while running:
@@ -100,6 +122,16 @@ while running:
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_j:  # Нажатие "J" для включения/выключения режима ИИ
                 ai_mode = not ai_mode  # Переключаем режим ИИ
+            elif event.key == pygame.K_p:  # Добавление нового ИИ-танка при нажатии P
+                # Генерация случайной позиции для нового ИИ-танка
+                while True:
+                    x = random.randint(0, GRID_SIZE - 1)
+                    y = random.randint(0, GRID_SIZE - 1)
+                    if grid[x, y] != WALL and grid[x, y] != 1:  # Убедиться, что это не стена и не место танка игрока
+                        break
+                # Создание нового танка ИИ
+                new_tank = AI_Tank(grid, [x, y], len(ai_tanks) + 1)
+                ai_tanks.append(new_tank)  # Добавление нового танка в список
             if event.key == pygame.K_BACKSPACE:
                 # Удаление последнего символа при нажатии BACKSPACE
                 input_text = input_text[:-1]
@@ -111,26 +143,31 @@ while running:
                     input_text = ""  # Очистить текст после обработки, понадобится в будущем для чит-команд
 
 
+
     keys = pygame.key.get_pressed()
     grid[tank_pos[0], tank_pos[1]] = 0
     moved = False
 
     if keys[pygame.K_w] and tank_pos[0] > 0 and grid[tank_pos[0] - 1, tank_pos[1]] != WALL:
-        tank_pos[0] -= 1
-        last_direction = [-1, 0]
-        moved = True
+        if not check_collision([tank_pos[0] - 1, tank_pos[1]]):
+            tank_pos[0] -= 1
+            last_direction = [-1, 0]
+            moved = True
     if keys[pygame.K_s] and tank_pos[0] < GRID_SIZE - 1 and grid[tank_pos[0] + 1, tank_pos[1]] != WALL:
-        tank_pos[0] += 1
-        last_direction = [1, 0]
-        moved = True
+        if not check_collision([tank_pos[0] + 1, tank_pos[1]]):
+            tank_pos[0] += 1
+            last_direction = [1, 0]
+            moved = True
     if keys[pygame.K_a] and tank_pos[1] > 0 and grid[tank_pos[0], tank_pos[1] - 1] != WALL:
-        tank_pos[1] -= 1
-        last_direction = [0, -1]
-        moved = True
+        if not check_collision([tank_pos[0], tank_pos[1] - 1]):
+            tank_pos[1] -= 1
+            last_direction = [0, -1]
+            moved = True
     if keys[pygame.K_d] and tank_pos[1] < GRID_SIZE - 1 and grid[tank_pos[0], tank_pos[1] + 1] != WALL:
-        tank_pos[1] += 1
-        last_direction = [0, 1]
-        moved = True
+        if not check_collision([tank_pos[0], tank_pos[1] + 1]):
+            tank_pos[1] += 1
+            last_direction = [0, 1]
+            moved = True
 
     grid[tank_pos[0], tank_pos[1]] = 1
 
@@ -143,7 +180,7 @@ while running:
     # Если включен режим ИИ, обновляем движение ИИ-танков
     if ai_mode:
         for ai_tank in ai_tanks:
-            ai_tank.update(bullets, bullet_speed)
+            ai_tank.update(bullets, bullet_speed)  # Каждый ИИ-танк стреляет и двигается
 
     # Обновление позиции снарядов
     for bullet in bullets[:]:
@@ -200,7 +237,16 @@ while running:
 
     # Отрисовка ИИ-танков
     for ai_tank in ai_tanks:
-        window.blit(tank_image, (ai_tank.pos[1] * CELL_SIZE, ai_tank.pos[0] * CELL_SIZE))
+        window.blit(ai_tank_image, (ai_tank.pos[1] * CELL_SIZE, ai_tank.pos[0] * CELL_SIZE))
+
+    if GRID_SIZE >= 100:
+        print("суссище, меньше 100 ставь")
+        pygame.quit()
+        quit()
+
+    if hp >= 20:
+        print("читер")
+        quit()
 
     pygame.display.flip()
     pygame.time.delay(100)
