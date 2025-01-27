@@ -108,7 +108,7 @@ while running:
                 if event.key == pygame.K_o:  # Нажатие "O" для включения/выключения режима пельменей
                     pelmeni_mode = not pelmeni_mode  # Переключаем режим пельменей
                 if event.key == pygame.K_BACKSPACE:
-                    input_text = ""  # Очистить текст после обработки
+                    input_text = ""  # Очистить текст после обработки, понадобится в будущем для чит-команд
 
 
     keys = pygame.key.get_pressed()
