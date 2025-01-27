@@ -3,7 +3,7 @@ import numpy as np
 
 pygame.init()
 
-WINDOW_SIZE = 500
+WINDOW_SIZE = 600
 GRID_SIZE = 10
 CELL_SIZE = WINDOW_SIZE // GRID_SIZE
 WHITE = (255, 255, 255)
