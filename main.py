@@ -22,9 +22,13 @@ grid[tank_pos[0], tank_pos[1]] = 1
 tank_image = pygame.image.load("serozhenka.png")
 tank_image = pygame.transform.scale(tank_image, (CELL_SIZE, CELL_SIZE))
 
+# Загрузка фона
+background_image = pygame.image.load("fon.jpg")
+background_image = pygame.transform.scale(background_image, (WINDOW_SIZE, WINDOW_SIZE))
+
 # Параметры снарядов
 bullets = []
-bullet_speed = 1
+bullet_speed = 5
 last_direction = [0, 0]  # Направление последнего движения танка
 
 running = True
@@ -72,7 +76,7 @@ while running:
                0 <= bullet[0][0] < GRID_SIZE and 0 <= bullet[0][1] < GRID_SIZE]
 
     # Отрисовка
-    window.fill(BLACK)  # Установить черный фон
+    window.blit(background_image, (0, 0))  # Отображаем фон
 
     # Отрисовка сетки
     for row in range(GRID_SIZE):
@@ -89,4 +93,3 @@ while running:
     pygame.time.delay(100)
 
 pygame.quit()
-
