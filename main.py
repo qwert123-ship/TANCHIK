@@ -13,6 +13,7 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 YELLOW = (0, 255, 0)
 WALL = 2
+hp = 3
 
 window = pygame.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
 pygame.display.set_caption("Танчики")
@@ -49,7 +50,7 @@ def generate_walls():
     """Генерация стен, гарантируя, что танк сможет выехать"""
     # Заполнение поля случайными стенами
     grid_copy = np.zeros((GRID_SIZE, GRID_SIZE))
-    num_walls = GRID_SIZE * GRID_SIZE // 1000  # НУ 1000 БУДЕТ НЕТ СТЕН ИЧО
+    num_walls = GRID_SIZE * GRID_SIZE // 5  # НУ 1000 БУДЕТ НЕТ СТЕН ИЧО
 
     for _ in range(num_walls):
         x = random.randint(0, GRID_SIZE - 1)
@@ -150,9 +151,13 @@ while running:
         bullet[0][0] += bullet[1][0] * bullet_speed
         bullet[0][1] += bullet[1][1] * bullet_speed
 
+
         # Проверяем, что пуля не вышла за пределы
         if not (0 <= bullet[0][0] < GRID_SIZE and 0 <= bullet[0][1] < GRID_SIZE):
             bullets.remove(bullet)  # Удаляем пулю, если она выходит за пределы
+        # Проверка столкновения с стеной
+        elif grid[bullet[0][0], bullet[0][1]] == WALL:
+            bullets.remove(bullet)  # Удаляем пулю, если она столкнулась со стеной
 
         else:
             # Проверка столкновения с игроком
@@ -160,6 +165,11 @@ while running:
                 if grid[bullet[0][0], bullet[0][1]] == 1:  # Если пуля попала в игрока
                     grid[bullet[0][0], bullet[0][1]] = 0  # Удаляем танк игрока
                     # Можете добавить сюда логику для уменьшения здоровья игрока или окончания игры
+                    if tank_pos == bullet[0]:
+                        hp -= 1  # Уменьшаем здоровье танка
+                        if hp <= 0:
+                            print("Вы проиграли")
+                            pygame.quit()
 
             # Проверка столкновений с танками ИИ
             for ai_tank in ai_tanks:

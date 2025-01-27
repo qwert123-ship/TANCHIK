@@ -29,7 +29,7 @@ class AI_Tank:
     def update(self, bullets, bullet_speed):
         """Обновляем состояние ИИ-танка: движение и стрельба"""
         self.move()
-        if random.random() < 1:  # 10% шанс на выстрел
+        if random.random() < 1:  # 100% шанс на выстрел
             self.shoot(bullets, bullet_speed)
 
     def check_collision_with_bullet(self, bullet):
