@@ -85,6 +85,6 @@ while running:
                          (bullet[0][1] * CELL_SIZE, bullet[0][0] * CELL_SIZE, CELL_SIZE // 4, CELL_SIZE // 4))
 
     pygame.display.flip()
-    pygame.time.delay(100)
+    pygame.time.delay(180)
 
 pygame.quit()
