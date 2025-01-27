@@ -2,6 +2,7 @@ import pygame
 import numpy as np
 import random
 from collections import deque
+from ai import AI_Tank
 
 pygame.init()
 
@@ -40,13 +41,15 @@ last_direction = [0, 0]  # Направление последнего движ�
 
 # Переменная для хранения ввода текста
 input_text = ""
-pelmeni_mode = False  # Флаг для переключения на пельмени
+pelmeni_mode = False # Флаг для переключения на пельмени
+ai_mode = False  # Флаг для режима ИИ
+ai_tanks = []  # Список для танков ИИ
 
 def generate_walls():
     """Генерация стен, гарантируя, что танк сможет выехать"""
     # Заполнение поля случайными стенами
     grid_copy = np.zeros((GRID_SIZE, GRID_SIZE))
-    num_walls = GRID_SIZE * GRID_SIZE // 4  # Например, 25% клеток заполним стенами
+    num_walls = GRID_SIZE * GRID_SIZE // 1000  # НУ 1000 БУДЕТ НЕТ СТЕН ИЧО
 
     for _ in range(num_walls):
         x = random.randint(0, GRID_SIZE - 1)
@@ -85,23 +88,27 @@ def is_reachable(fgrid, start_pos):
 # Генерация стен
 grid = generate_walls()
 
+# Создание танков ИИ
+ai_tanks = [AI_Tank(grid, [1, 1], 1), AI_Tank(grid, [GRID_SIZE - 2, GRID_SIZE - 2], 2)]  # Пример двух ИИ-танков
+
 running = True
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
         elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_j:  # Нажатие "J" для включения/выключения режима ИИ
+                ai_mode = not ai_mode  # Переключаем режим ИИ
             if event.key == pygame.K_BACKSPACE:
                 # Удаление последнего символа при нажатии BACKSPACE
                 input_text = input_text[:-1]
-            elif event.key == pygame.K_RETURN:
+            elif event.key == pygame.K_o:
                 # Если нажата клавиша Enter, проверяем введенный текст
-                if input_text.upper() == "PELMENI":
-                    pelmeni_mode = True
-                input_text = ""  # Очистить текст после обработки
-            else:
-                # Добавляем символ в строку ввода
-                input_text += event.unicode
+                if event.key == pygame.K_o:  # Нажатие "O" для включения/выключения режима пельменей
+                    pelmeni_mode = not pelmeni_mode  # Переключаем режим пельменей
+                if event.key == pygame.K_BACKSPACE:
+                    input_text = ""  # Очистить текст после обработки
+
 
     keys = pygame.key.get_pressed()
     grid[tank_pos[0], tank_pos[1]] = 0
@@ -132,6 +139,11 @@ while running:
         bullet_pos = tank_pos.copy()
         bullets.append([bullet_pos, last_direction])
 
+    # Если включен режим ИИ, обновляем движение ИИ-танков
+    if ai_mode:
+        for ai_tank in ai_tanks:
+            ai_tank.update(bullets, bullet_speed)
+
     # Обновление позиции снарядов
     for bullet in bullets[:]:
         # Двигаем пулю в направлении ее движения
@@ -142,9 +154,20 @@ while running:
         if not (0 <= bullet[0][0] < GRID_SIZE and 0 <= bullet[0][1] < GRID_SIZE):
             bullets.remove(bullet)  # Удаляем пулю, если она выходит за пределы
 
-        # Проверяем столкновение с стеной
-        elif grid[bullet[0][0], bullet[0][1]] == WALL:
-            bullets.remove(bullet)  # Удаляем пулю, если она столкнулась с стеной
+        else:
+            # Проверка столкновения с игроком
+            if 0 <= bullet[0][0] < GRID_SIZE and 0 <= bullet[0][1] < GRID_SIZE:
+                if grid[bullet[0][0], bullet[0][1]] == 1:  # Если пуля попала в игрока
+                    grid[bullet[0][0], bullet[0][1]] = 0  # Удаляем танк игрока
+                    # Можете добавить сюда логику для уменьшения здоровья игрока или окончания игры
+
+            # Проверка столкновений с танками ИИ
+            for ai_tank in ai_tanks:
+                if ai_tank.check_collision_with_bullet(bullet):
+                    bullets.remove(bullet)  # Удаляем пулю при попадании
+                    if ai_tank.health <= 0:
+                        ai_tanks.remove(ai_tank)  # Удаляем танк ИИ, если его здоровье 0
+                    break
 
     # Отрисовка
     window.blit(background_image, (0, 0))  # Отображаем фон
@@ -164,6 +187,10 @@ while running:
             window.blit(pelmeni_image, (bullet[0][1] * CELL_SIZE, bullet[0][0] * CELL_SIZE))
         else:
             pygame.draw.rect(window, YELLOW, (bullet[0][1] * CELL_SIZE, bullet[0][0] * CELL_SIZE, CELL_SIZE // 4, CELL_SIZE // 4))
+
+    # Отрисовка ИИ-танков
+    for ai_tank in ai_tanks:
+        window.blit(tank_image, (ai_tank.pos[1] * CELL_SIZE, ai_tank.pos[0] * CELL_SIZE))
 
     pygame.display.flip()
     pygame.time.delay(100)
