@@ -10,7 +10,7 @@ GRID_SIZE = 10
 CELL_SIZE = WINDOW_SIZE // GRID_SIZE
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
-YELLOW = (255, 255, 0)
+YELLOW = (0, 255, 0)
 WALL = 2
 
 window = pygame.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
@@ -34,6 +34,7 @@ bullets = []
 bullet_speed = 1
 last_direction = [0, 0]  # Направление последнего движения танка
 
+
 def generate_walls():
     """Генерация стен, гарантируя, что танк сможет выехать"""
     # Заполнение поля случайными стенами
@@ -43,7 +44,7 @@ def generate_walls():
     for _ in range(num_walls):
         x = random.randint(0, GRID_SIZE - 1)
         y = random.randint(0, GRID_SIZE - 1)
-        if (x != tank_pos[0] or y != tank_pos[1]):  # Не ставить стену на танке
+        if x != tank_pos[0] or y != tank_pos[1]:  # Не ставить стену на танке
             grid_copy[x, y] = WALL
 
     # Проверяем, что есть путь от танка до других клеток
@@ -52,7 +53,8 @@ def generate_walls():
 
     return grid_copy
 
-def is_reachable(grid, start_pos):
+
+def is_reachable(fgrid, start_pos):
     """Проверка, что есть путь от стартовой позиции до других клеток"""
     visited = np.zeros_like(grid)
     queue = deque([start_pos])
@@ -71,6 +73,7 @@ def is_reachable(grid, start_pos):
 
     # Если есть хотя бы одна непосещенная клетка, значит путь есть
     return np.any(visited)
+
 
 # Генерация стен
 grid = generate_walls()
