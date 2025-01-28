@@ -91,12 +91,13 @@ last_direction = [0, 0]  # Направление последнего движ�
 input_text = ""
 pelmeni_mode = False # Флаг для переключения на пельмени
 ai_mode = False  # Флаг для режима ИИ
+battle_mode = False
 
 def generate_walls():
     """Генерация стен, гарантируя, что танк сможет выехать"""
     # Заполнение поля случайными стенами
     grid_copy = np.zeros((GRID_SIZE, GRID_SIZE))
-    num_walls = GRID_SIZE * GRID_SIZE // 5  # НУ 1000 БУДЕТ НЕТ СТЕН ИЧО
+    num_walls = GRID_SIZE * GRID_SIZE // 4  # НУ 1000 БУДЕТ НЕТ СТЕН ИЧО
 
     for _ in range(num_walls):
         x = random.randint(0, GRID_SIZE - 1)
@@ -182,6 +183,8 @@ while running:
                     pelmeni_mode = not pelmeni_mode  # Переключаем режим пельменей
                 if event.key == pygame.K_BACKSPACE:
                     input_text = ""  # Очистить текст после обработки, понадобится в будущем для чит-команд
+                if event.key == pygame.K_i:  # Нажатие "O" для включения/выключения режима пельменей
+                    pelmeni_mode = not battle_mode  # Переключаем режим пельменей
 
 
 
@@ -290,6 +293,6 @@ while running:
         quit()
 
     pygame.display.flip()
-    pygame.time.delay(100)
+    pygame.time.delay(140)
 
 pygame.quit()
