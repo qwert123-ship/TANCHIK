@@ -1,16 +1,15 @@
 <Attributes Version="37">
- <Attr name="AMDSuperRes" value="3"/>
  <Attr name="ActiveSkin/0" value="|normal|0=|normal|0"/>
- <Attr name="ActiveSkin/1" value="1865 carbine|normal|0=1865 carbine|normal|0"/>
- <Attr name="ActiveSkin/10" value="auto 4|normal|0=auto 4|normal|0"/>
+ <Attr name="ActiveSkin/1" value="1865 carbine|normal|0=legendary 1865 carbine - b - lap of luxury|normal|0"/>
+ <Attr name="ActiveSkin/10" value="auto 4|normal|0=legendary auto 4 - a - clown show|normal|0"/>
  <Attr name="ActiveSkin/100" value="drilling_medium_fullmetaljacket|normal|0=drilling_medium_fullmetaljacket|normal|0"/>
  <Attr name="ActiveSkin/101" value="drilling_medium_high_velocity|normal|0=drilling_medium_high_velocity|normal|0"/>
  <Attr name="ActiveSkin/102" value="drilling_shell_flechette|normal|0=drilling_shell_flechette|normal|0"/>
  <Attr name="ActiveSkin/103" value="drilling_shell_pennyshot|normal|0=drilling_shell_pennyshot|normal|0"/>
  <Attr name="ActiveSkin/104" value="drilling_shell_slug|normal|0=drilling_shell_slug|normal|0"/>
  <Attr name="ActiveSkin/105" value="dusks third eye charm 064|normal|0=dusks third eye charm 064|normal|0"/>
- <Attr name="ActiveSkin/106" value="dusters|normal|0=dusters|normal|0"/>
- <Attr name="ActiveSkin/107" value="dynamite bundle|normal|0=legendary dynamite bundle - b - salted earth|normal|0"/>
+ <Attr name="ActiveSkin/106" value="dusters|normal|0=legendary dusters - d - monongahela bruiser|normal|0"/>
+ <Attr name="ActiveSkin/107" value="dynamite bundle|normal|0=dynamite bundle|normal|0"/>
  <Attr name="ActiveSkin/108" value="dynamite stick|normal|0=dynamite stick|normal|0"/>
  <Attr name="ActiveSkin/109" value="dynamite stick waterproof|normal|0=dynamite stick waterproof|normal|0"/>
  <Attr name="ActiveSkin/11" value="auto 5|normal|0=auto 5|normal|0"/>
@@ -36,388 +35,390 @@
  <Attr name="ActiveSkin/128" value="epic mothers prize charm 046|normal|0=epic mothers prize charm 046|normal|0"/>
  <Attr name="ActiveSkin/129" value="epic omamori charm 069|normal|0=epic omamori charm 069|normal|0"/>
  <Attr name="ActiveSkin/13" value="auto_5_shell_pennyshot|normal|0=auto_5_shell_pennyshot|normal|0"/>
- <Attr name="ActiveSkin/130" value="epic siege bond charm 039|normal|0=epic siege bond charm 039|normal|0"/>
- <Attr name="ActiveSkin/131" value="epic splintered crook charm 058|normal|0=epic splintered crook charm 058|normal|0"/>
- <Attr name="ActiveSkin/132" value="epic times pour charm 053|normal|0=epic times pour charm 053|normal|0"/>
- <Attr name="ActiveSkin/133" value="epic wakes whistle charm 055|normal|0=epic wakes whistle charm 055|normal|0"/>
- <Attr name="ActiveSkin/134" value="epic waster honor charm 060|normal|0=epic waster honor charm 060|normal|0"/>
- <Attr name="ActiveSkin/135" value="epic whittled fang charm 056|normal|0=epic whittled fang charm 056|normal|0"/>
- <Attr name="ActiveSkin/136" value="eventide timepiece charm 050|normal|0=eventide timepiece charm 050|normal|0"/>
- <Attr name="ActiveSkin/137" value="ewes horn charm 021|normal|0=ewes horn charm 021|normal|0"/>
- <Attr name="ActiveSkin/138" value="eye gouger charm 040|normal|0=eye gouger charm 040|normal|0"/>
- <Attr name="ActiveSkin/139" value="fated chance charm 003|normal|0=fated chance charm 003|normal|0"/>
+ <Attr name="ActiveSkin/130" value="epic scaled peak charm 061|normal|0=epic scaled peak charm 061|normal|0"/>
+ <Attr name="ActiveSkin/131" value="epic siege bond charm 039|normal|0=epic siege bond charm 039|normal|0"/>
+ <Attr name="ActiveSkin/132" value="epic splintered crook charm 058|normal|0=epic splintered crook charm 058|normal|0"/>
+ <Attr name="ActiveSkin/133" value="epic times pour charm 053|normal|0=epic times pour charm 053|normal|0"/>
+ <Attr name="ActiveSkin/134" value="epic wakes whistle charm 055|normal|0=epic wakes whistle charm 055|normal|0"/>
+ <Attr name="ActiveSkin/135" value="epic waster honor charm 060|normal|0=epic waster honor charm 060|normal|0"/>
+ <Attr name="ActiveSkin/136" value="epic whittled fang charm 056|normal|0=epic whittled fang charm 056|normal|0"/>
+ <Attr name="ActiveSkin/137" value="eventide timepiece charm 050|normal|0=eventide timepiece charm 050|normal|0"/>
+ <Attr name="ActiveSkin/138" value="ewes horn charm 021|normal|0=ewes horn charm 021|normal|0"/>
+ <Attr name="ActiveSkin/139" value="eye gouger charm 040|normal|0=eye gouger charm 040|normal|0"/>
  <Attr name="ActiveSkin/14" value="auto_5_shell_slug|normal|0=auto_5_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/140" value="ferrymans coin charm 009|normal|0=ferrymans coin charm 009|normal|0"/>
- <Attr name="ActiveSkin/141" value="fire beetle|normal|0=fire beetle|normal|0"/>
- <Attr name="ActiveSkin/142" value="fire bomb|normal|0=fire bomb|normal|0"/>
- <Attr name="ActiveSkin/143" value="fire bomb fireball|normal|0=legendary fire bomb fireball - a - 100 proof|normal|0"/>
- <Attr name="ActiveSkin/144" value="fire bomb water|normal|0=fire bomb water|normal|0"/>
- <Attr name="ActiveSkin/145" value="first aid kit|normal|0=legendary first aid kit - i - the show must go on|normal|0"/>
- <Attr name="ActiveSkin/146" value="flare pistol|normal|0=flare pistol|normal|0"/>
- <Attr name="ActiveSkin/147" value="flash bomb|normal|0=flash bomb|normal|0"/>
- <Attr name="ActiveSkin/148" value="frag bomb|normal|0=frag bomb|normal|0"/>
- <Attr name="ActiveSkin/149" value="freedoms grant charm 051|normal|0=freedoms grant charm 051|normal|0"/>
- <Attr name="ActiveSkin/15" value="baseball bat|normal|0=baseball bat|normal|0"/>
- <Attr name="ActiveSkin/150" value="frontier 73c|normal|0=frontier 73c|normal|0"/>
- <Attr name="ActiveSkin/151" value="frontier 73c marksman|normal|0=frontier 73c marksman|normal|0"/>
- <Attr name="ActiveSkin/152" value="frontier 73c silencer|normal|0=legendary frontier 73c silencer - a - filibuster|normal|0"/>
- <Attr name="ActiveSkin/153" value="frontier_73c_compact_fullmetaljacket|normal|0=frontier_73c_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/154" value="frontier_73c_compact_high_velocity|normal|0=frontier_73c_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/155" value="frontier_73c_compact_incendiary|normal|0=frontier_73c_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/156" value="frontier_73c_compact_poison|normal|0=frontier_73c_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/157" value="frontier_73c_compact_subsonic|normal|0=frontier_73c_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/158" value="fusees|normal|0=fusees|normal|0"/>
- <Attr name="ActiveSkin/159" value="gagged weeper charm 028|normal|0=gagged weeper charm 028|normal|0"/>
+ <Attr name="ActiveSkin/140" value="fated chance charm 003|normal|0=fated chance charm 003|normal|0"/>
+ <Attr name="ActiveSkin/141" value="ferrymans coin charm 009|normal|0=ferrymans coin charm 009|normal|0"/>
+ <Attr name="ActiveSkin/142" value="fire beetle|normal|0=fire beetle|normal|0"/>
+ <Attr name="ActiveSkin/143" value="fire bomb|normal|0=fire bomb|normal|0"/>
+ <Attr name="ActiveSkin/144" value="fire bomb fireball|normal|0=fire bomb fireball|normal|0"/>
+ <Attr name="ActiveSkin/145" value="fire bomb water|normal|0=legendary fire bomb water - b - fiery froth|normal|0"/>
+ <Attr name="ActiveSkin/146" value="first aid kit|normal|0=legendary first aid kit - h - dying breath|normal|0"/>
+ <Attr name="ActiveSkin/147" value="flare pistol|normal|0=legendary flare pistol - a - rising sun|normal|0"/>
+ <Attr name="ActiveSkin/148" value="flash bomb|normal|0=flash bomb|normal|0"/>
+ <Attr name="ActiveSkin/149" value="frag bomb|normal|0=frag bomb|normal|0"/>
+ <Attr name="ActiveSkin/15" value="baseball bat|normal|0=legendary baseball bat - a - death knell|normal|0"/>
+ <Attr name="ActiveSkin/150" value="freedoms grant charm 051|normal|0=freedoms grant charm 051|normal|0"/>
+ <Attr name="ActiveSkin/151" value="frontier 73c|normal|0=frontier 73c|normal|0"/>
+ <Attr name="ActiveSkin/152" value="frontier 73c marksman|normal|0=legendary frontier 73c marksman - f - bayou phoenix|normal|0"/>
+ <Attr name="ActiveSkin/153" value="frontier 73c silencer|normal|0=legendary frontier 73c silencer - h - vagrant|normal|0"/>
+ <Attr name="ActiveSkin/154" value="frontier_73c_compact_fullmetaljacket|normal|0=frontier_73c_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/155" value="frontier_73c_compact_high_velocity|normal|0=frontier_73c_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/156" value="frontier_73c_compact_incendiary|normal|0=frontier_73c_compact_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/157" value="frontier_73c_compact_poison|normal|0=frontier_73c_compact_poison|normal|0"/>
+ <Attr name="ActiveSkin/158" value="frontier_73c_compact_subsonic|normal|0=frontier_73c_compact_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/159" value="fusees|normal|0=legendary fusees - b - calavera torch|normal|0"/>
  <Attr name="ActiveSkin/16" value="bear trap|normal|0=bear trap|normal|0"/>
- <Attr name="ActiveSkin/160" value="gator eye charm 019|normal|0=gator eye charm 019|normal|0"/>
- <Attr name="ActiveSkin/161" value="gift of peace charm 083|normal|0=gift of peace charm 083|normal|0"/>
- <Attr name="ActiveSkin/162" value="grave brush charm 054|normal|0=grave brush charm 054|normal|0"/>
- <Attr name="ActiveSkin/163" value="halloween charm 008|normal|0=halloween charm 008|normal|0"/>
- <Attr name="ActiveSkin/164" value="hand crossbow|normal|0=legendary hand crossbow - a - steel sprung|normal|0"/>
- <Attr name="ActiveSkin/165" value="handcrossbow_special_compactbolt_chaos|normal|0=handcrossbow_special_compactbolt_chaos|normal|0"/>
- <Attr name="ActiveSkin/166" value="handcrossbow_special_compactbolt_choke|normal|0=handcrossbow_special_compactbolt_choke|normal|0"/>
- <Attr name="ActiveSkin/167" value="handcrossbow_special_compactbolt_dragon|normal|0=handcrossbow_special_compactbolt_dragon|normal|0"/>
- <Attr name="ActiveSkin/168" value="handcrossbow_special_compactbolt_poison|normal|0=handcrossbow_special_compactbolt_poison|normal|0"/>
- <Attr name="ActiveSkin/169" value="handcrossbow_special_compactbolt_revive|normal|0=handcrossbow_special_compactbolt_revive|normal|0"/>
+ <Attr name="ActiveSkin/160" value="gagged weeper charm 028|normal|0=gagged weeper charm 028|normal|0"/>
+ <Attr name="ActiveSkin/161" value="gator eye charm 019|normal|0=gator eye charm 019|normal|0"/>
+ <Attr name="ActiveSkin/162" value="gift of peace charm 083|normal|0=gift of peace charm 083|normal|0"/>
+ <Attr name="ActiveSkin/163" value="grave brush charm 054|normal|0=grave brush charm 054|normal|0"/>
+ <Attr name="ActiveSkin/164" value="halloween charm 008|normal|0=halloween charm 008|normal|0"/>
+ <Attr name="ActiveSkin/165" value="hand crossbow|normal|0=legendary hand crossbow - a - steel sprung|normal|0"/>
+ <Attr name="ActiveSkin/166" value="handcrossbow_special_compactbolt_chaos|normal|0=handcrossbow_special_compactbolt_chaos|normal|0"/>
+ <Attr name="ActiveSkin/167" value="handcrossbow_special_compactbolt_choke|normal|0=handcrossbow_special_compactbolt_choke|normal|0"/>
+ <Attr name="ActiveSkin/168" value="handcrossbow_special_compactbolt_dragon|normal|0=handcrossbow_special_compactbolt_dragon|normal|0"/>
+ <Attr name="ActiveSkin/169" value="handcrossbow_special_compactbolt_poison|normal|0=handcrossbow_special_compactbolt_poison|normal|0"/>
  <Attr name="ActiveSkin/17" value="berthier 1892|normal|0=berthier 1892|normal|0"/>
- <Attr name="ActiveSkin/170" value="hares breadth charm 012|normal|0=hares breadth charm 012|normal|0"/>
- <Attr name="ActiveSkin/171" value="hay effigy charm 004|normal|0=hay effigy charm 004|normal|0"/>
- <Attr name="ActiveSkin/172" value="heavy knife|normal|0=heavy knife|normal|0"/>
- <Attr name="ActiveSkin/173" value="heras gift charm 018|normal|0=heras gift charm 018|normal|0"/>
- <Attr name="ActiveSkin/174" value="hive bomb|normal|0=hive bomb|normal|0"/>
- <Attr name="ActiveSkin/175" value="hunting bow|normal|0=hunting bow|normal|0"/>
- <Attr name="ActiveSkin/176" value="hunting_bow_special_concertina|normal|0=hunting_bow_special_concertina|normal|0"/>
- <Attr name="ActiveSkin/177" value="hunting_bow_special_frag|normal|0=hunting_bow_special_frag|normal|0"/>
- <Attr name="ActiveSkin/178" value="hunting_bow_special_poison|normal|0=hunting_bow_special_poison|normal|0"/>
- <Attr name="ActiveSkin/179" value="infantry 73l|normal|0=infantry 73l|normal|0"/>
- <Attr name="ActiveSkin/18" value="berthier 1892 deadeye|normal|0=berthier 1892 deadeye|normal|0"/>
- <Attr name="ActiveSkin/180" value="infantry 73l bayonet|normal|0=infantry 73l bayonet|normal|0"/>
- <Attr name="ActiveSkin/181" value="infantry 73l sniper|normal|0=infantry 73l sniper|normal|0"/>
- <Attr name="ActiveSkin/182" value="infantry_73l_compact_fullmetaljacket|normal|0=infantry_73l_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/183" value="infantry_73l_compact_high_velocity|normal|0=infantry_73l_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/184" value="infantry_73l_compact_incendiary|normal|0=infantry_73l_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/185" value="infantry_73l_compact_poison|normal|0=infantry_73l_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/186" value="infantry_73l_compact_subsonic|normal|0=infantry_73l_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/187" value="iron arrowhead charm 001|normal|0=iron arrowhead charm 001|normal|0"/>
- <Attr name="ActiveSkin/188" value="iron glue charm 080|normal|0=iron glue charm 080|normal|0"/>
- <Attr name="ActiveSkin/189" value="jade moon charm 084|normal|0=jade moon charm 084|normal|0"/>
- <Attr name="ActiveSkin/19" value="berthier 1892 marksman|normal|0=berthier 1892 marksman|normal|0"/>
- <Attr name="ActiveSkin/190" value="jeweled scarab charm 042|normal|0=jeweled scarab charm 042|normal|0"/>
- <Attr name="ActiveSkin/191" value="katana|normal|0=legendary katana - b - ancestors wrath|normal|0"/>
- <Attr name="ActiveSkin/192" value="kings sigil charm 077|normal|0=kings sigil charm 077|normal|0"/>
- <Attr name="ActiveSkin/193" value="knife|normal|0=legendary knife - i - risen relic|normal|0"/>
- <Attr name="ActiveSkin/194" value="krag|normal|0=krag|normal|0"/>
- <Attr name="ActiveSkin/195" value="krag bayonet|normal|0=krag bayonet|normal|0"/>
- <Attr name="ActiveSkin/196" value="krag silencer|normal|0=krag silencer|normal|0"/>
- <Attr name="ActiveSkin/197" value="krag sniper|normal|0=krag sniper|normal|0"/>
- <Attr name="ActiveSkin/198" value="krag_long_fullmetaljacket|normal|0=krag_long_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/199" value="krag_long_incendiary|normal|0=krag_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/170" value="handcrossbow_special_compactbolt_revive|normal|0=handcrossbow_special_compactbolt_revive|normal|0"/>
+ <Attr name="ActiveSkin/171" value="hares breadth charm 012|normal|0=hares breadth charm 012|normal|0"/>
+ <Attr name="ActiveSkin/172" value="hay effigy charm 004|normal|0=hay effigy charm 004|normal|0"/>
+ <Attr name="ActiveSkin/173" value="heavy knife|normal|0=legendary heavy knife - d - yuchang|normal|0"/>
+ <Attr name="ActiveSkin/174" value="heras gift charm 018|normal|0=heras gift charm 018|normal|0"/>
+ <Attr name="ActiveSkin/175" value="hive bomb|normal|0=hive bomb|normal|0"/>
+ <Attr name="ActiveSkin/176" value="hunting bow|normal|0=legendary hunting bow - f - eye taker|normal|0"/>
+ <Attr name="ActiveSkin/177" value="hunting_bow_special_concertina|normal|0=hunting_bow_special_concertina|normal|0"/>
+ <Attr name="ActiveSkin/178" value="hunting_bow_special_frag|normal|0=hunting_bow_special_frag|normal|0"/>
+ <Attr name="ActiveSkin/179" value="hunting_bow_special_poison|normal|0=hunting_bow_special_poison|normal|0"/>
+ <Attr name="ActiveSkin/18" value="berthier 1892 deadeye|normal|0=legendary berthier 1892 deadeye - a - witch trial|normal|0"/>
+ <Attr name="ActiveSkin/180" value="infantry 73l|normal|0=legendary infantry 73l - aa - curtain call|normal|0"/>
+ <Attr name="ActiveSkin/181" value="infantry 73l bayonet|normal|0=infantry 73l bayonet|normal|0"/>
+ <Attr name="ActiveSkin/182" value="infantry 73l sniper|normal|0=legendary infantry 73l sniper - aa - curtain call sniper|normal|0"/>
+ <Attr name="ActiveSkin/183" value="infantry_73l_compact_fullmetaljacket|normal|0=infantry_73l_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/184" value="infantry_73l_compact_high_velocity|normal|0=infantry_73l_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/185" value="infantry_73l_compact_incendiary|normal|0=infantry_73l_compact_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/186" value="infantry_73l_compact_poison|normal|0=infantry_73l_compact_poison|normal|0"/>
+ <Attr name="ActiveSkin/187" value="infantry_73l_compact_subsonic|normal|0=infantry_73l_compact_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/188" value="iron arrowhead charm 001|normal|0=iron arrowhead charm 001|normal|0"/>
+ <Attr name="ActiveSkin/189" value="iron glue charm 080|normal|0=iron glue charm 080|normal|0"/>
+ <Attr name="ActiveSkin/19" value="berthier 1892 marksman|normal|0=legendary berthier 1892 marksman - a - pallbearers crutch|normal|0"/>
+ <Attr name="ActiveSkin/190" value="jade moon charm 084|normal|0=jade moon charm 084|normal|0"/>
+ <Attr name="ActiveSkin/191" value="jeweled scarab charm 042|normal|0=jeweled scarab charm 042|normal|0"/>
+ <Attr name="ActiveSkin/192" value="katana|normal|0=legendary katana - b - ancestors wrath|normal|0"/>
+ <Attr name="ActiveSkin/193" value="kings sigil charm 077|normal|0=kings sigil charm 077|normal|0"/>
+ <Attr name="ActiveSkin/194" value="knife|normal|0=legendary knife - j - life taker|normal|0"/>
+ <Attr name="ActiveSkin/195" value="krag|normal|0=krag|normal|0"/>
+ <Attr name="ActiveSkin/196" value="krag bayonet|normal|0=krag bayonet|normal|0"/>
+ <Attr name="ActiveSkin/197" value="krag silencer|normal|0=legendary krag silencer - a - ophidian eye|normal|0"/>
+ <Attr name="ActiveSkin/198" value="krag sniper|normal|0=krag sniper|normal|0"/>
+ <Attr name="ActiveSkin/199" value="krag_long_fullmetaljacket|normal|0=krag_long_fullmetaljacket|normal|0"/>
  <Attr name="ActiveSkin/2" value="1865 carbine aperture|normal|0=1865 carbine aperture|normal|0"/>
  <Attr name="ActiveSkin/20" value="berthier 1892 riposte|normal|0=berthier 1892 riposte|normal|0"/>
- <Attr name="ActiveSkin/200" value="krag_long_subsonic|normal|0=krag_long_subsonic|normal|0"/>
- <Attr name="ActiveSkin/201" value="lebel 1886|normal|0=lebel 1886|normal|0"/>
- <Attr name="ActiveSkin/202" value="lebel 1886 aperture|normal|0=lebel 1886 aperture|normal|0"/>
- <Attr name="ActiveSkin/203" value="lebel 1886 marksman|normal|0=lebel 1886 marksman|normal|0"/>
- <Attr name="ActiveSkin/204" value="lebel 1886 talon|normal|0=lebel 1886 talon|normal|0"/>
- <Attr name="ActiveSkin/205" value="lebel_long_incendiary|normal|0=lebel_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/206" value="lebel_long_spitzer|normal|0=lebel_long_spitzer|normal|0"/>
- <Attr name="ActiveSkin/207" value="legendary argent crown charm 041|normal|0=legendary argent crown charm 041|normal|0"/>
- <Attr name="ActiveSkin/208" value="legendary boreal point charm 049|normal|0=legendary boreal point charm 049|normal|0"/>
- <Attr name="ActiveSkin/209" value="legendary defiled ornament charm 047|normal|0=legendary defiled ornament charm 047|normal|0"/>
+ <Attr name="ActiveSkin/200" value="krag_long_incendiary|normal|0=krag_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/201" value="krag_long_subsonic|normal|0=krag_long_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/202" value="lebel 1886|normal|0=lebel 1886|normal|0"/>
+ <Attr name="ActiveSkin/203" value="lebel 1886 aperture|normal|0=lebel 1886 aperture|normal|0"/>
+ <Attr name="ActiveSkin/204" value="lebel 1886 marksman|normal|0=lebel 1886 marksman|normal|0"/>
+ <Attr name="ActiveSkin/205" value="lebel 1886 talon|normal|0=lebel 1886 talon|normal|0"/>
+ <Attr name="ActiveSkin/206" value="lebel_long_incendiary|normal|0=lebel_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/207" value="lebel_long_spitzer|normal|0=lebel_long_spitzer|normal|0"/>
+ <Attr name="ActiveSkin/208" value="legendary argent crown charm 041|normal|0=legendary argent crown charm 041|normal|0"/>
+ <Attr name="ActiveSkin/209" value="legendary boreal point charm 049|normal|0=legendary boreal point charm 049|normal|0"/>
  <Attr name="ActiveSkin/21" value="berthier_long_incendiary|normal|0=berthier_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/210" value="legendary eventide timepiece charm 050|normal|0=legendary eventide timepiece charm 050|normal|0"/>
- <Attr name="ActiveSkin/211" value="legendary ewes horn charm 021|normal|0=legendary ewes horn charm 021|normal|0"/>
- <Attr name="ActiveSkin/212" value="legendary pans head charm 015|normal|0=legendary pans head charm 015|normal|0"/>
- <Attr name="ActiveSkin/213" value="legendary selenes lock charm 011|normal|0=legendary selenes lock charm 011|normal|0"/>
- <Attr name="ActiveSkin/214" value="legendary serpent moon memento charm 016|normal|0=legendary serpent moon memento charm 016|normal|0"/>
- <Attr name="ActiveSkin/215" value="legendary tarnished wing charm 013|normal|0=legendary tarnished wing charm 013|normal|0"/>
- <Attr name="ActiveSkin/216" value="lemat|normal|0=lemat|normal|0"/>
- <Attr name="ActiveSkin/217" value="lemat carbine|normal|0=lemat carbine|normal|0"/>
- <Attr name="ActiveSkin/218" value="lemat carbine marksman|normal|0=legendary lemat carbine marksman - a - sullied and sworn|normal|0"/>
- <Attr name="ActiveSkin/219" value="lemat haymaker|normal|0=lemat haymaker|normal|0"/>
+ <Attr name="ActiveSkin/210" value="legendary defiled ornament charm 047|normal|0=legendary defiled ornament charm 047|normal|0"/>
+ <Attr name="ActiveSkin/211" value="legendary eventide timepiece charm 050|normal|0=legendary eventide timepiece charm 050|normal|0"/>
+ <Attr name="ActiveSkin/212" value="legendary ewes horn charm 021|normal|0=legendary ewes horn charm 021|normal|0"/>
+ <Attr name="ActiveSkin/213" value="legendary pans head charm 015|normal|0=legendary pans head charm 015|normal|0"/>
+ <Attr name="ActiveSkin/214" value="legendary selenes lock charm 011|normal|0=legendary selenes lock charm 011|normal|0"/>
+ <Attr name="ActiveSkin/215" value="legendary serpent moon memento charm 016|normal|0=legendary serpent moon memento charm 016|normal|0"/>
+ <Attr name="ActiveSkin/216" value="legendary tarnished wing charm 013|normal|0=legendary tarnished wing charm 013|normal|0"/>
+ <Attr name="ActiveSkin/217" value="lemat|normal|0=legendary lemat - c - last resort|normal|0"/>
+ <Attr name="ActiveSkin/218" value="lemat carbine|normal|0=legendary lemat carbine - a - obituary|normal|0"/>
+ <Attr name="ActiveSkin/219" value="lemat carbine marksman|normal|0=legendary lemat carbine marksman - a - sullied and sworn|normal|0"/>
  <Attr name="ActiveSkin/22" value="berthier_long_spitzer|normal|0=berthier_long_spitzer|normal|0"/>
- <Attr name="ActiveSkin/220" value="lemat_compact_fullmetaljacket|normal|0=lemat_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/221" value="lemat_compact_incendiary|normal|0=lemat_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/222" value="lemat_haymaker_long_fullmetaljacket|normal|0=lemat_haymaker_long_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/223" value="lemat_haymaker_long_poison|normal|0=lemat_haymaker_long_poison|normal|0"/>
- <Attr name="ActiveSkin/224" value="lemat_haymaker_shell_dragonbreath|normal|0=lemat_haymaker_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/225" value="lemat_haymaker_shell_slug|normal|0=lemat_haymaker_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/226" value="lemat_haymaker_shell_starshell|normal|0=lemat_haymaker_shell_starshell|normal|0"/>
- <Attr name="ActiveSkin/227" value="lemat_shell_dragonbreath|normal|0=lemat_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/228" value="lemat_shell_slug|normal|0=lemat_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/229" value="lemat_shell_starshell|normal|0=lemat_shell_starshell|normal|0"/>
+ <Attr name="ActiveSkin/220" value="lemat haymaker|normal|0=legendary lemat haymaker - a - crimson varnish|normal|0"/>
+ <Attr name="ActiveSkin/221" value="lemat_compact_fullmetaljacket|normal|0=lemat_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/222" value="lemat_compact_incendiary|normal|0=lemat_compact_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/223" value="lemat_haymaker_long_fullmetaljacket|normal|0=lemat_haymaker_long_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/224" value="lemat_haymaker_long_poison|normal|0=lemat_haymaker_long_poison|normal|0"/>
+ <Attr name="ActiveSkin/225" value="lemat_haymaker_shell_dragonbreath|normal|0=lemat_haymaker_shell_dragonbreath|normal|0"/>
+ <Attr name="ActiveSkin/226" value="lemat_haymaker_shell_slug|normal|0=lemat_haymaker_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/227" value="lemat_haymaker_shell_starshell|normal|0=lemat_haymaker_shell_starshell|normal|0"/>
+ <Attr name="ActiveSkin/228" value="lemat_shell_dragonbreath|normal|0=lemat_shell_dragonbreath|normal|0"/>
+ <Attr name="ActiveSkin/229" value="lemat_shell_slug|normal|0=lemat_shell_slug|normal|0"/>
  <Attr name="ActiveSkin/23" value="big dynamite bundle|normal|0=big dynamite bundle|normal|0"/>
- <Attr name="ActiveSkin/230" value="lizard charm 007|normal|0=lizard charm 007|normal|0"/>
- <Attr name="ActiveSkin/231" value="looking glass|normal|0=looking glass|normal|0"/>
- <Attr name="ActiveSkin/232" value="looking glass charm 079|normal|0=looking glass charm 079|normal|0"/>
- <Attr name="ActiveSkin/233" value="lotus incense charm 085|normal|0=lotus incense charm 085|normal|0"/>
- <Attr name="ActiveSkin/234" value="machete|normal|0=machete|normal|0"/>
- <Attr name="ActiveSkin/235" value="mako 1895|normal|0=mako 1895|normal|0"/>
- <Attr name="ActiveSkin/236" value="mako 1895 aperture|normal|0=mako 1895 aperture|normal|0"/>
- <Attr name="ActiveSkin/237" value="mako 1895 claw|normal|0=mako 1895 claw|normal|0"/>
- <Attr name="ActiveSkin/238" value="mako_1895_carbine_long_explosive|normal|0=mako_1895_carbine_long_explosive|normal|0"/>
- <Attr name="ActiveSkin/239" value="mako_1895_carbine_long_fullmetaljacket|normal|0=mako_1895_carbine_long_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/230" value="lemat_shell_starshell|normal|0=lemat_shell_starshell|normal|0"/>
+ <Attr name="ActiveSkin/231" value="lizard charm 007|normal|0=lizard charm 007|normal|0"/>
+ <Attr name="ActiveSkin/232" value="looking glass|normal|0=looking glass|normal|0"/>
+ <Attr name="ActiveSkin/233" value="looking glass charm 079|normal|0=looking glass charm 079|normal|0"/>
+ <Attr name="ActiveSkin/234" value="lotus incense charm 085|normal|0=lotus incense charm 085|normal|0"/>
+ <Attr name="ActiveSkin/235" value="machete|normal|0=machete|normal|0"/>
+ <Attr name="ActiveSkin/236" value="mako 1895|normal|0=legendary mako 1895 - a - debates end|normal|0"/>
+ <Attr name="ActiveSkin/237" value="mako 1895 aperture|normal|0=legendary mako 1895 aperture - a - new heirloom|normal|0"/>
+ <Attr name="ActiveSkin/238" value="mako 1895 claw|normal|0=mako 1895 claw|normal|0"/>
+ <Attr name="ActiveSkin/239" value="mako_1895_carbine_long_explosive|normal|0=mako_1895_carbine_long_explosive|normal|0"/>
  <Attr name="ActiveSkin/24" value="bitter honey charm 044|normal|0=bitter honey charm 044|normal|0"/>
- <Attr name="ActiveSkin/240" value="marathon|normal|0=marathon|normal|0"/>
- <Attr name="ActiveSkin/241" value="marathon swift|normal|0=marathon swift|normal|0"/>
- <Attr name="ActiveSkin/242" value="marathon_compact_fullmetaljacket|normal|0=marathon_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/243" value="marathon_compact_high_velocity|normal|0=marathon_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/244" value="marathon_compact_incendiary|normal|0=marathon_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/245" value="marathon_compact_poison|normal|0=marathon_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/246" value="marred murex charm 002|normal|0=marred murex charm 002|normal|0"/>
- <Attr name="ActiveSkin/247" value="martini henry|normal|0=martini henry|normal|0"/>
- <Attr name="ActiveSkin/248" value="martini henry deadeye|normal|0=martini henry deadeye|normal|0"/>
- <Attr name="ActiveSkin/249" value="martini henry ironside|normal|0=martini henry ironside|normal|0"/>
+ <Attr name="ActiveSkin/240" value="mako_1895_carbine_long_fullmetaljacket|normal|0=mako_1895_carbine_long_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/241" value="marathon|normal|0=marathon|normal|0"/>
+ <Attr name="ActiveSkin/242" value="marathon swift|normal|0=marathon swift|normal|0"/>
+ <Attr name="ActiveSkin/243" value="marathon_compact_fullmetaljacket|normal|0=marathon_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/244" value="marathon_compact_high_velocity|normal|0=marathon_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/245" value="marathon_compact_incendiary|normal|0=marathon_compact_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/246" value="marathon_compact_poison|normal|0=marathon_compact_poison|normal|0"/>
+ <Attr name="ActiveSkin/247" value="marred murex charm 002|normal|0=marred murex charm 002|normal|0"/>
+ <Attr name="ActiveSkin/248" value="martini henry|normal|0=martini henry|normal|0"/>
+ <Attr name="ActiveSkin/249" value="martini henry deadeye|normal|0=martini henry deadeye|normal|0"/>
  <Attr name="ActiveSkin/25" value="blood bullet charm 006|normal|0=blood bullet charm 006|normal|0"/>
- <Attr name="ActiveSkin/250" value="martini henry marksman|normal|0=martini henry marksman|normal|0"/>
- <Attr name="ActiveSkin/251" value="martini henry riposte|normal|0=martini henry riposte|normal|0"/>
- <Attr name="ActiveSkin/252" value="martini_henry_ironside_long_explosive|normal|0=martini_henry_ironside_long_explosive|normal|0"/>
- <Attr name="ActiveSkin/253" value="martini_henry_ironside_long_fullmetaljacket|normal|0=martini_henry_ironside_long_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/254" value="martini_henry_ironside_long_high_velocity|normal|0=martini_henry_ironside_long_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/255" value="martini_henry_ironside_long_incendiary|normal|0=martini_henry_ironside_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/256" value="martini_henry_long_explosive|normal|0=martini_henry_long_explosive|normal|0"/>
- <Attr name="ActiveSkin/257" value="martini_henry_long_fullmetaljacket|normal|0=martini_henry_long_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/258" value="martini_henry_long_high_velocity|normal|0=martini_henry_long_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/259" value="martini_henry_long_incendiary|normal|0=martini_henry_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/26" value="bomb lance|normal|0=bomb lance|normal|0"/>
- <Attr name="ActiveSkin/260" value="maynard sniper|normal|0=maynard sniper|normal|0"/>
- <Attr name="ActiveSkin/261" value="maynard sniper silencer|normal|0=maynard sniper silencer|normal|0"/>
- <Attr name="ActiveSkin/262" value="maynard_medium_dumdum|normal|0=maynard_medium_dumdum|normal|0"/>
- <Attr name="ActiveSkin/263" value="maynard_medium_high_velocity|normal|0=maynard_medium_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/264" value="maynard_medium_subsonic|normal|0=maynard_medium_subsonic|normal|0"/>
- <Attr name="ActiveSkin/265" value="medical pack|normal|0=medical pack|normal|0"/>
- <Attr name="ActiveSkin/266" value="molted curio charm 048|normal|0=molted curio charm 048|normal|0"/>
- <Attr name="ActiveSkin/267" value="moondial charm 032|normal|0=moondial charm 032|normal|0"/>
- <Attr name="ActiveSkin/268" value="mosin nagant|normal|0=mosin nagant|normal|0"/>
- <Attr name="ActiveSkin/269" value="mosin nagant avtomat|normal|0=mosin nagant avtomat|normal|0"/>
+ <Attr name="ActiveSkin/250" value="martini henry ironside|normal|0=martini henry ironside|normal|0"/>
+ <Attr name="ActiveSkin/251" value="martini henry marksman|normal|0=martini henry marksman|normal|0"/>
+ <Attr name="ActiveSkin/252" value="martini henry riposte|normal|0=martini henry riposte|normal|0"/>
+ <Attr name="ActiveSkin/253" value="martini_henry_ironside_long_explosive|normal|0=martini_henry_ironside_long_explosive|normal|0"/>
+ <Attr name="ActiveSkin/254" value="martini_henry_ironside_long_fullmetaljacket|normal|0=martini_henry_ironside_long_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/255" value="martini_henry_ironside_long_high_velocity|normal|0=martini_henry_ironside_long_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/256" value="martini_henry_ironside_long_incendiary|normal|0=martini_henry_ironside_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/257" value="martini_henry_long_explosive|normal|0=martini_henry_long_explosive|normal|0"/>
+ <Attr name="ActiveSkin/258" value="martini_henry_long_fullmetaljacket|normal|0=martini_henry_long_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/259" value="martini_henry_long_high_velocity|normal|0=martini_henry_long_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/26" value="bomb lance|normal|0=legendary bomb lance - c - tooth to tail|normal|0"/>
+ <Attr name="ActiveSkin/260" value="martini_henry_long_incendiary|normal|0=martini_henry_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/261" value="maynard sniper|normal|0=maynard sniper|normal|0"/>
+ <Attr name="ActiveSkin/262" value="maynard sniper silencer|normal|0=maynard sniper silencer|normal|0"/>
+ <Attr name="ActiveSkin/263" value="maynard_medium_dumdum|normal|0=maynard_medium_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/264" value="maynard_medium_high_velocity|normal|0=maynard_medium_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/265" value="maynard_medium_subsonic|normal|0=maynard_medium_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/266" value="medical pack|normal|0=medical pack|normal|0"/>
+ <Attr name="ActiveSkin/267" value="molted curio charm 048|normal|0=molted curio charm 048|normal|0"/>
+ <Attr name="ActiveSkin/268" value="moondial charm 032|normal|0=moondial charm 032|normal|0"/>
+ <Attr name="ActiveSkin/269" value="mosin nagant|normal|0=mosin nagant|normal|0"/>
  <Attr name="ActiveSkin/27" value="bomb launcher|normal|0=bomb launcher|normal|0"/>
- <Attr name="ActiveSkin/270" value="mosin nagant bayonet|normal|0=mosin nagant bayonet|normal|0"/>
- <Attr name="ActiveSkin/271" value="mosin nagant sniper|normal|0=mosin nagant sniper|normal|0"/>
- <Attr name="ActiveSkin/272" value="mosin obrez|normal|0=mosin obrez|normal|0"/>
- <Attr name="ActiveSkin/273" value="mosin obrez extended|normal|0=mosin obrez extended|normal|0"/>
- <Attr name="ActiveSkin/274" value="mosin obrez mace|normal|0=mosin obrez mace|normal|0"/>
- <Attr name="ActiveSkin/275" value="mosin_nagant_long_incendiary|normal|0=mosin_nagant_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/276" value="mosin_nagant_long_spitzer|normal|0=mosin_nagant_long_spitzer|normal|0"/>
- <Attr name="ActiveSkin/277" value="mosin_obrez_long_incendiary|normal|0=mosin_obrez_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/278" value="mosin_obrez_long_spitzer|normal|0=mosin_obrez_long_spitzer|normal|0"/>
- <Attr name="ActiveSkin/279" value="mothers prize charm 046|normal|0=mothers prize charm 046|normal|0"/>
+ <Attr name="ActiveSkin/270" value="mosin nagant avtomat|normal|0=mosin nagant avtomat|normal|0"/>
+ <Attr name="ActiveSkin/271" value="mosin nagant bayonet|normal|0=mosin nagant bayonet|normal|0"/>
+ <Attr name="ActiveSkin/272" value="mosin nagant sniper|normal|0=mosin nagant sniper|normal|0"/>
+ <Attr name="ActiveSkin/273" value="mosin obrez|normal|0=mosin obrez|normal|0"/>
+ <Attr name="ActiveSkin/274" value="mosin obrez extended|normal|0=mosin obrez extended|normal|0"/>
+ <Attr name="ActiveSkin/275" value="mosin obrez mace|normal|0=mosin obrez mace|normal|0"/>
+ <Attr name="ActiveSkin/276" value="mosin_nagant_long_incendiary|normal|0=mosin_nagant_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/277" value="mosin_nagant_long_spitzer|normal|0=mosin_nagant_long_spitzer|normal|0"/>
+ <Attr name="ActiveSkin/278" value="mosin_obrez_long_incendiary|normal|0=mosin_obrez_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/279" value="mosin_obrez_long_spitzer|normal|0=mosin_obrez_long_spitzer|normal|0"/>
  <Attr name="ActiveSkin/28" value="bomb_lance_special_dragonbreath|normal|0=bomb_lance_special_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/280" value="mythic crop and cull charm 068|normal|0=mythic crop and cull charm 068|normal|0"/>
- <Attr name="ActiveSkin/281" value="nagant m1895|normal|0=nagant m1895|normal|0"/>
- <Attr name="ActiveSkin/282" value="nagant m1895 deadeye|normal|0=nagant m1895 deadeye|normal|0"/>
- <Attr name="ActiveSkin/283" value="nagant m1895 precision|normal|0=nagant m1895 precision|normal|0"/>
- <Attr name="ActiveSkin/284" value="nagant m1895 silencer|normal|0=nagant m1895 silencer|normal|0"/>
- <Attr name="ActiveSkin/285" value="nagant_m1895_compact_dumdum|normal|0=nagant_m1895_compact_dumdum|normal|0"/>
- <Attr name="ActiveSkin/286" value="nagant_m1895_compact_high_velocity|normal|0=nagant_m1895_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/287" value="nagant_m1895_compact_poison|normal|0=nagant_m1895_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/288" value="nagant_m1895_compact_subsonic|normal|0=nagant_m1895_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/289" value="nemean claw charm 017|normal|0=nemean claw charm 017|normal|0"/>
+ <Attr name="ActiveSkin/280" value="mothers prize charm 046|normal|0=mothers prize charm 046|normal|0"/>
+ <Attr name="ActiveSkin/281" value="mythic crop and cull charm 068|normal|0=mythic crop and cull charm 068|normal|0"/>
+ <Attr name="ActiveSkin/282" value="nagant m1895|normal|0=legendary nagant m1895 - c - red azimuth|normal|0"/>
+ <Attr name="ActiveSkin/283" value="nagant m1895 deadeye|normal|0=nagant m1895 deadeye|normal|0"/>
+ <Attr name="ActiveSkin/284" value="nagant m1895 precision|normal|0=nagant m1895 precision|normal|0"/>
+ <Attr name="ActiveSkin/285" value="nagant m1895 silencer|normal|0=legendary nagant m1895 silencer - e - spare dime|normal|0"/>
+ <Attr name="ActiveSkin/286" value="nagant_m1895_compact_dumdum|normal|0=nagant_m1895_compact_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/287" value="nagant_m1895_compact_high_velocity|normal|0=nagant_m1895_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/288" value="nagant_m1895_compact_poison|normal|0=nagant_m1895_compact_poison|normal|0"/>
+ <Attr name="ActiveSkin/289" value="nagant_m1895_compact_subsonic|normal|0=nagant_m1895_compact_subsonic|normal|0"/>
  <Attr name="ActiveSkin/29" value="bomb_lance_special_harpoon|normal|0=bomb_lance_special_harpoon|normal|0"/>
- <Attr name="ActiveSkin/290" value="new army|normal|0=new army|normal|0"/>
- <Attr name="ActiveSkin/291" value="new army swift|normal|0=new army swift|normal|0"/>
- <Attr name="ActiveSkin/292" value="new_army_compact_dumdum|normal|0=new_army_compact_dumdum|normal|0"/>
- <Attr name="ActiveSkin/293" value="new_army_compact_fullmetaljacket|normal|0=new_army_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/294" value="nitro express|normal|0=nitro express|normal|0"/>
- <Attr name="ActiveSkin/295" value="nitro_special_dumdum|normal|0=nitro_special_dumdum|normal|0"/>
- <Attr name="ActiveSkin/296" value="nitro_special_explosive|normal|0=nitro_special_explosive|normal|0"/>
- <Attr name="ActiveSkin/297" value="officer|normal|0=officer|normal|0"/>
- <Attr name="ActiveSkin/298" value="officer brawler|normal|0=officer brawler|normal|0"/>
- <Attr name="ActiveSkin/299" value="officer carbine|normal|0=officer carbine|normal|0"/>
+ <Attr name="ActiveSkin/290" value="nemean claw charm 017|normal|0=nemean claw charm 017|normal|0"/>
+ <Attr name="ActiveSkin/291" value="new army|normal|0=legendary new army - a - ochenkovs heart|normal|0"/>
+ <Attr name="ActiveSkin/292" value="new army swift|normal|0=new army swift|normal|0"/>
+ <Attr name="ActiveSkin/293" value="new_army_compact_dumdum|normal|0=new_army_compact_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/294" value="new_army_compact_fullmetaljacket|normal|0=new_army_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/295" value="nitro express|normal|0=nitro express|normal|0"/>
+ <Attr name="ActiveSkin/296" value="nitro_special_dumdum|normal|0=nitro_special_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/297" value="nitro_special_explosive|normal|0=nitro_special_explosive|normal|0"/>
+ <Attr name="ActiveSkin/298" value="officer|normal|0=legendary officer - c - undertakers ally|normal|0"/>
+ <Attr name="ActiveSkin/299" value="officer brawler|normal|0=officer brawler|normal|0"/>
  <Attr name="ActiveSkin/3" value="1865_carbine_medium_fullmetaljacket|normal|0=1865_carbine_medium_fullmetaljacket|normal|0"/>
  <Attr name="ActiveSkin/30" value="bomb_lance_special_steelball|normal|0=bomb_lance_special_steelball|normal|0"/>
- <Attr name="ActiveSkin/300" value="officer carbine deadeye|normal|0=officer carbine deadeye|normal|0"/>
- <Attr name="ActiveSkin/301" value="officer_compact_dumdum|normal|0=officer_compact_dumdum|normal|0"/>
- <Attr name="ActiveSkin/302" value="officer_compact_high_velocity|normal|0=officer_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/303" value="officer_compact_poison|normal|0=officer_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/304" value="officer_compact_subsonic|normal|0=officer_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/305" value="omamori charm 069|normal|0=omamori charm 069|normal|0"/>
- <Attr name="ActiveSkin/306" value="pans head charm 015|normal|0=pans head charm 015|normal|0"/>
- <Attr name="ActiveSkin/307" value="pax|normal|0=pax|normal|0"/>
- <Attr name="ActiveSkin/308" value="pax claw|normal|0=pax claw|normal|0"/>
- <Attr name="ActiveSkin/309" value="pax trueshot|normal|0=pax trueshot|normal|0"/>
+ <Attr name="ActiveSkin/300" value="officer carbine|normal|0=legendary officer carbine - f - the cordwainer|normal|0"/>
+ <Attr name="ActiveSkin/301" value="officer carbine deadeye|normal|0=officer carbine deadeye|normal|0"/>
+ <Attr name="ActiveSkin/302" value="officer_compact_dumdum|normal|0=officer_compact_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/303" value="officer_compact_high_velocity|normal|0=officer_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/304" value="officer_compact_poison|normal|0=officer_compact_poison|normal|0"/>
+ <Attr name="ActiveSkin/305" value="officer_compact_subsonic|normal|0=officer_compact_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/306" value="omamori charm 069|normal|0=omamori charm 069|normal|0"/>
+ <Attr name="ActiveSkin/307" value="pans head charm 015|normal|0=pans head charm 015|normal|0"/>
+ <Attr name="ActiveSkin/308" value="pax|normal|0=legendary pax - a - certain victory|normal|0"/>
+ <Attr name="ActiveSkin/309" value="pax claw|normal|0=pax claw|normal|0"/>
  <Attr name="ActiveSkin/31" value="bomb_lance_special_waxedfrag|normal|0=bomb_lance_special_waxedfrag|normal|0"/>
- <Attr name="ActiveSkin/310" value="pax_medium_dumdum|normal|0=pax_medium_dumdum|normal|0"/>
- <Attr name="ActiveSkin/311" value="pax_medium_fullmetaljacket|normal|0=pax_medium_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/312" value="pax_medium_high_velocity|normal|0=pax_medium_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/313" value="pax_medium_incendiary|normal|0=pax_medium_incendiary|normal|0"/>
- <Attr name="ActiveSkin/314" value="pax_medium_poison|normal|0=pax_medium_poison|normal|0"/>
- <Attr name="ActiveSkin/315" value="poison bomb|normal|0=poison bomb|normal|0"/>
- <Attr name="ActiveSkin/316" value="poison trip mine|normal|0=poison trip mine|normal|0"/>
- <Attr name="ActiveSkin/317" value="quad derringer|normal|0=quad derringer|normal|0"/>
- <Attr name="ActiveSkin/318" value="railroad hammer|normal|0=railroad hammer|normal|0"/>
- <Attr name="ActiveSkin/319" value="ranger 73|normal|0=ranger 73|normal|0"/>
+ <Attr name="ActiveSkin/310" value="pax trueshot|normal|0=legendary pax trueshot - a - last line|normal|0"/>
+ <Attr name="ActiveSkin/311" value="pax_medium_dumdum|normal|0=pax_medium_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/312" value="pax_medium_fullmetaljacket|normal|0=pax_medium_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/313" value="pax_medium_high_velocity|normal|0=pax_medium_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/314" value="pax_medium_incendiary|normal|0=pax_medium_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/315" value="pax_medium_poison|normal|0=pax_medium_poison|normal|0"/>
+ <Attr name="ActiveSkin/316" value="poison bomb|normal|0=poison bomb|normal|0"/>
+ <Attr name="ActiveSkin/317" value="poison trip mine|normal|0=poison trip mine|normal|0"/>
+ <Attr name="ActiveSkin/318" value="quad derringer|normal|0=legendary quad derringer - b - storied past|normal|0"/>
+ <Attr name="ActiveSkin/319" value="railroad hammer|normal|0=railroad hammer|normal|0"/>
  <Attr name="ActiveSkin/32" value="bomb_launcher_special_dragonbreath|normal|0=bomb_launcher_special_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/320" value="ranger 73 aperture|normal|0=ranger 73 aperture|normal|0"/>
- <Attr name="ActiveSkin/321" value="ranger 73 swift|normal|0=ranger 73 swift|normal|0"/>
- <Attr name="ActiveSkin/322" value="ranger 73 talon|normal|0=ranger 73 talon|normal|0"/>
- <Attr name="ActiveSkin/323" value="ranger_73_compact_fullmetaljacket|normal|0=ranger_73_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/324" value="ranger_73_compact_high_velocity|normal|0=ranger_73_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/325" value="ranger_73_compact_incendiary|normal|0=ranger_73_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/326" value="ranger_73_compact_poison|normal|0=ranger_73_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/327" value="ranger_73_compact_subsonic|normal|0=ranger_73_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/328" value="rare blood bullet charm 006|normal|0=rare blood bullet charm 006|normal|0"/>
- <Attr name="ActiveSkin/329" value="rare carnassial wills charm 020|normal|0=rare carnassial wills charm 020|normal|0"/>
+ <Attr name="ActiveSkin/320" value="ranger 73|normal|0=ranger 73|normal|0"/>
+ <Attr name="ActiveSkin/321" value="ranger 73 aperture|normal|0=ranger 73 aperture|normal|0"/>
+ <Attr name="ActiveSkin/322" value="ranger 73 swift|normal|0=legendary ranger 73 swift - c - last gust|normal|0"/>
+ <Attr name="ActiveSkin/323" value="ranger 73 talon|normal|0=ranger 73 talon|normal|0"/>
+ <Attr name="ActiveSkin/324" value="ranger_73_compact_fullmetaljacket|normal|0=ranger_73_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/325" value="ranger_73_compact_high_velocity|normal|0=ranger_73_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/326" value="ranger_73_compact_incendiary|normal|0=ranger_73_compact_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/327" value="ranger_73_compact_poison|normal|0=ranger_73_compact_poison|normal|0"/>
+ <Attr name="ActiveSkin/328" value="ranger_73_compact_subsonic|normal|0=ranger_73_compact_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/329" value="rare blood bullet charm 006|normal|0=rare blood bullet charm 006|normal|0"/>
  <Attr name="ActiveSkin/33" value="bomb_launcher_special_harpoon|normal|0=bomb_launcher_special_harpoon|normal|0"/>
- <Attr name="ActiveSkin/330" value="rare gator eye charm 019|normal|0=rare gator eye charm 019|normal|0"/>
- <Attr name="ActiveSkin/331" value="rare halloween charm 008|normal|0=rare halloween charm 008|normal|0"/>
- <Attr name="ActiveSkin/332" value="rare hay effigy charm 004|normal|0=rare hay effigy charm 004|normal|0"/>
- <Attr name="ActiveSkin/333" value="rare heras gift charm 018|normal|0=rare heras gift charm 018|normal|0"/>
- <Attr name="ActiveSkin/334" value="rare iron arrowhead charm 001|normal|0=rare iron arrowhead charm 001|normal|0"/>
- <Attr name="ActiveSkin/335" value="rare lizard charm 007|normal|0=rare lizard charm 007|normal|0"/>
- <Attr name="ActiveSkin/336" value="rare marred murex charm 002|normal|0=rare marred murex charm 002|normal|0"/>
- <Attr name="ActiveSkin/337" value="rare moondial charm 032|normal|0=rare moondial charm 032|normal|0"/>
- <Attr name="ActiveSkin/338" value="rare second chance charm 066|normal|0=rare second chance charm 066|normal|0"/>
- <Attr name="ActiveSkin/339" value="rare sinners hope charm 037|normal|0=rare sinners hope charm 037|normal|0"/>
+ <Attr name="ActiveSkin/330" value="rare carnassial wills charm 020|normal|0=rare carnassial wills charm 020|normal|0"/>
+ <Attr name="ActiveSkin/331" value="rare gator eye charm 019|normal|0=rare gator eye charm 019|normal|0"/>
+ <Attr name="ActiveSkin/332" value="rare halloween charm 008|normal|0=rare halloween charm 008|normal|0"/>
+ <Attr name="ActiveSkin/333" value="rare hay effigy charm 004|normal|0=rare hay effigy charm 004|normal|0"/>
+ <Attr name="ActiveSkin/334" value="rare heras gift charm 018|normal|0=rare heras gift charm 018|normal|0"/>
+ <Attr name="ActiveSkin/335" value="rare iron arrowhead charm 001|normal|0=rare iron arrowhead charm 001|normal|0"/>
+ <Attr name="ActiveSkin/336" value="rare lizard charm 007|normal|0=rare lizard charm 007|normal|0"/>
+ <Attr name="ActiveSkin/337" value="rare marred murex charm 002|normal|0=rare marred murex charm 002|normal|0"/>
+ <Attr name="ActiveSkin/338" value="rare molted curio charm 048|normal|0=rare molted curio charm 048|normal|0"/>
+ <Attr name="ActiveSkin/339" value="rare moondial charm 032|normal|0=rare moondial charm 032|normal|0"/>
  <Attr name="ActiveSkin/34" value="bomb_launcher_special_steelball|normal|0=bomb_launcher_special_steelball|normal|0"/>
- <Attr name="ActiveSkin/340" value="rare the knight charm 005|normal|0=rare the knight charm 005|normal|0"/>
- <Attr name="ActiveSkin/341" value="rare tooth blossom charm 070|normal|0=rare tooth blossom charm 070|normal|0"/>
- <Attr name="ActiveSkin/342" value="rare witch scratcher charm 067|normal|0=rare witch scratcher charm 067|normal|0"/>
- <Attr name="ActiveSkin/343" value="recovery shot|normal|0=recovery shot|normal|0"/>
- <Attr name="ActiveSkin/344" value="rival 78|normal|0=rival 78|normal|0"/>
- <Attr name="ActiveSkin/345" value="rival 78 mace|normal|0=rival 78 mace|normal|0"/>
- <Attr name="ActiveSkin/346" value="rival 78 shorty|normal|0=rival 78 shorty|normal|0"/>
- <Attr name="ActiveSkin/347" value="rival 78 trauma|normal|0=rival 78 trauma|normal|0"/>
- <Attr name="ActiveSkin/348" value="rival_78_shell_dragonbreath|normal|0=rival_78_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/349" value="rival_78_shell_flechette|normal|0=rival_78_shell_flechette|normal|0"/>
+ <Attr name="ActiveSkin/340" value="rare second chance charm 066|normal|0=rare second chance charm 066|normal|0"/>
+ <Attr name="ActiveSkin/341" value="rare sinners hope charm 037|normal|0=rare sinners hope charm 037|normal|0"/>
+ <Attr name="ActiveSkin/342" value="rare the knight charm 005|normal|0=rare the knight charm 005|normal|0"/>
+ <Attr name="ActiveSkin/343" value="rare tooth blossom charm 070|normal|0=rare tooth blossom charm 070|normal|0"/>
+ <Attr name="ActiveSkin/344" value="rare witch scratcher charm 067|normal|0=rare witch scratcher charm 067|normal|0"/>
+ <Attr name="ActiveSkin/345" value="recovery shot|normal|0=recovery shot|normal|0"/>
+ <Attr name="ActiveSkin/346" value="rival 78|normal|0=rival 78|normal|0"/>
+ <Attr name="ActiveSkin/347" value="rival 78 mace|normal|0=rival 78 mace|normal|0"/>
+ <Attr name="ActiveSkin/348" value="rival 78 shorty|normal|0=rival 78 shorty|normal|0"/>
+ <Attr name="ActiveSkin/349" value="rival 78 trauma|normal|0=rival 78 trauma|normal|0"/>
  <Attr name="ActiveSkin/35" value="bomb_launcher_special_waxedfrag|normal|0=bomb_launcher_special_waxedfrag|normal|0"/>
- <Attr name="ActiveSkin/350" value="rival_78_shell_pennyshot|normal|0=rival_78_shell_pennyshot|normal|0"/>
- <Attr name="ActiveSkin/351" value="rival_78_shell_slug|normal|0=rival_78_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/352" value="romero 77|normal|0=romero 77|normal|0"/>
- <Attr name="ActiveSkin/353" value="romero 77 alamo|normal|0=romero 77 alamo|normal|0"/>
- <Attr name="ActiveSkin/354" value="romero 77 hatchet|normal|0=romero 77 hatchet|normal|0"/>
- <Attr name="ActiveSkin/355" value="romero 77 shorty|normal|0=romero 77 shorty|normal|0"/>
- <Attr name="ActiveSkin/356" value="romero 77 talon|normal|0=romero 77 talon|normal|0"/>
- <Attr name="ActiveSkin/357" value="romero77_alamo_shell_dragonbreath|normal|0=romero77_alamo_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/358" value="romero77_alamo_shell_pennyshot|normal|0=romero77_alamo_shell_pennyshot|normal|0"/>
- <Attr name="ActiveSkin/359" value="romero77_alamo_shell_slug|normal|0=romero77_alamo_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/350" value="rival_78_shell_dragonbreath|normal|0=rival_78_shell_dragonbreath|normal|0"/>
+ <Attr name="ActiveSkin/351" value="rival_78_shell_flechette|normal|0=rival_78_shell_flechette|normal|0"/>
+ <Attr name="ActiveSkin/352" value="rival_78_shell_pennyshot|normal|0=rival_78_shell_pennyshot|normal|0"/>
+ <Attr name="ActiveSkin/353" value="rival_78_shell_slug|normal|0=rival_78_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/354" value="romero 77|normal|0=romero 77|normal|0"/>
+ <Attr name="ActiveSkin/355" value="romero 77 alamo|normal|0=romero 77 alamo|normal|0"/>
+ <Attr name="ActiveSkin/356" value="romero 77 hatchet|normal|0=legendary romero 77 hatchet - a - sins of the son|normal|0"/>
+ <Attr name="ActiveSkin/357" value="romero 77 shorty|normal|0=romero 77 shorty|normal|0"/>
+ <Attr name="ActiveSkin/358" value="romero 77 talon|normal|0=romero 77 talon|normal|0"/>
+ <Attr name="ActiveSkin/359" value="romero77_alamo_shell_dragonbreath|normal|0=romero77_alamo_shell_dragonbreath|normal|0"/>
  <Attr name="ActiveSkin/36" value="boreal point charm 049|normal|0=boreal point charm 049|normal|0"/>
- <Attr name="ActiveSkin/360" value="romero77_alamo_shell_starshell|normal|0=romero77_alamo_shell_starshell|normal|0"/>
- <Attr name="ActiveSkin/361" value="romero77_shell_dragonbreath|normal|0=romero77_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/362" value="romero77_shell_pennyshot|normal|0=romero77_shell_pennyshot|normal|0"/>
- <Attr name="ActiveSkin/363" value="romero77_shell_slug|normal|0=romero77_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/364" value="romero77_shell_starshell|normal|0=romero77_shell_starshell|normal|0"/>
- <Attr name="ActiveSkin/365" value="rubys favor charm 014|normal|0=rubys favor charm 014|normal|0"/>
- <Attr name="ActiveSkin/366" value="scaled peak charm 061|normal|0=scaled peak charm 061|normal|0"/>
- <Attr name="ActiveSkin/367" value="scottfield|normal|0=scottfield|normal|0"/>
- <Attr name="ActiveSkin/368" value="scottfield brawler|normal|0=scottfield brawler|normal|0"/>
- <Attr name="ActiveSkin/369" value="scottfield precision|normal|0=legendary scottfield precision - b - forest sting|normal|0"/>
+ <Attr name="ActiveSkin/360" value="romero77_alamo_shell_pennyshot|normal|0=romero77_alamo_shell_pennyshot|normal|0"/>
+ <Attr name="ActiveSkin/361" value="romero77_alamo_shell_slug|normal|0=romero77_alamo_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/362" value="romero77_alamo_shell_starshell|normal|0=romero77_alamo_shell_starshell|normal|0"/>
+ <Attr name="ActiveSkin/363" value="romero77_shell_dragonbreath|normal|0=romero77_shell_dragonbreath|normal|0"/>
+ <Attr name="ActiveSkin/364" value="romero77_shell_pennyshot|normal|0=romero77_shell_pennyshot|normal|0"/>
+ <Attr name="ActiveSkin/365" value="romero77_shell_slug|normal|0=romero77_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/366" value="romero77_shell_starshell|normal|0=romero77_shell_starshell|normal|0"/>
+ <Attr name="ActiveSkin/367" value="rubys favor charm 014|normal|0=rubys favor charm 014|normal|0"/>
+ <Attr name="ActiveSkin/368" value="scaled peak charm 061|normal|0=scaled peak charm 061|normal|0"/>
+ <Attr name="ActiveSkin/369" value="scottfield|normal|0=scottfield|normal|0"/>
  <Attr name="ActiveSkin/37" value="bornheim no.3|normal|0=bornheim no.3|normal|0"/>
- <Attr name="ActiveSkin/370" value="scottfield spitfire|normal|0=scottfield spitfire|normal|0"/>
- <Attr name="ActiveSkin/371" value="scottfield swift|normal|0=scottfield swift|normal|0"/>
- <Attr name="ActiveSkin/372" value="scottfield_medium_dumdum|normal|0=scottfield_medium_dumdum|normal|0"/>
- <Attr name="ActiveSkin/373" value="scottfield_medium_fullmetaljacket|normal|0=scottfield_medium_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/374" value="scottfield_medium_high_velocity|normal|0=scottfield_medium_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/375" value="scottfield_medium_incendiary|normal|0=scottfield_medium_incendiary|normal|0"/>
- <Attr name="ActiveSkin/376" value="second chance charm 066|normal|0=second chance charm 066|normal|0"/>
- <Attr name="ActiveSkin/377" value="selenes lock charm 011|normal|0=selenes lock charm 011|normal|0"/>
- <Attr name="ActiveSkin/378" value="serpent moon memento charm 016|normal|0=serpent moon memento charm 016|normal|0"/>
- <Attr name="ActiveSkin/379" value="shredder|normal|0=shredder|normal|0"/>
+ <Attr name="ActiveSkin/370" value="scottfield brawler|normal|0=scottfield brawler|normal|0"/>
+ <Attr name="ActiveSkin/371" value="scottfield precision|normal|0=scottfield precision|normal|0"/>
+ <Attr name="ActiveSkin/372" value="scottfield spitfire|normal|0=scottfield spitfire|normal|0"/>
+ <Attr name="ActiveSkin/373" value="scottfield swift|normal|0=scottfield swift|normal|0"/>
+ <Attr name="ActiveSkin/374" value="scottfield_medium_dumdum|normal|0=scottfield_medium_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/375" value="scottfield_medium_fullmetaljacket|normal|0=scottfield_medium_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/376" value="scottfield_medium_high_velocity|normal|0=scottfield_medium_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/377" value="scottfield_medium_incendiary|normal|0=scottfield_medium_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/378" value="second chance charm 066|normal|0=second chance charm 066|normal|0"/>
+ <Attr name="ActiveSkin/379" value="selenes lock charm 011|normal|0=selenes lock charm 011|normal|0"/>
  <Attr name="ActiveSkin/38" value="bornheim no.3 extended|normal|0=bornheim no.3 extended|normal|0"/>
- <Attr name="ActiveSkin/380" value="shredder_frag_blade|normal|0=shredder_frag_blade|normal|0"/>
- <Attr name="ActiveSkin/381" value="siege bond charm 039|normal|0=siege bond charm 039|normal|0"/>
- <Attr name="ActiveSkin/382" value="sinners hope charm 037|normal|0=sinners hope charm 037|normal|0"/>
- <Attr name="ActiveSkin/383" value="slate|normal|0=slate|normal|0"/>
- <Attr name="ActiveSkin/384" value="slate riposte|normal|0=slate riposte|normal|0"/>
- <Attr name="ActiveSkin/385" value="slate_shell_pennyshot|normal|0=slate_shell_pennyshot|normal|0"/>
- <Attr name="ActiveSkin/386" value="slate_shell_slug|normal|0=slate_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/387" value="snake bell charm 082|normal|0=snake bell charm 082|normal|0"/>
- <Attr name="ActiveSkin/388" value="sorrows lock charm 071|normal|0=sorrows lock charm 071|normal|0"/>
- <Attr name="ActiveSkin/389" value="sparks|normal|0=legendary sparks - f - cadaver song|normal|0"/>
- <Attr name="ActiveSkin/39" value="bornheim no.3 match|normal|0=bornheim no.3 match|normal|0"/>
- <Attr name="ActiveSkin/390" value="sparks pistol|normal|0=sparks pistol|normal|0"/>
- <Attr name="ActiveSkin/391" value="sparks pistol silencer|normal|0=sparks pistol silencer|normal|0"/>
- <Attr name="ActiveSkin/392" value="sparks silencer|normal|0=sparks silencer|normal|0"/>
- <Attr name="ActiveSkin/393" value="sparks sniper|normal|0=sparks sniper|normal|0"/>
- <Attr name="ActiveSkin/394" value="sparks_long_fullmetaljacket|normal|0=sparks_long_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/395" value="sparks_long_incendiary|normal|0=sparks_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/396" value="sparks_long_poison|normal|0=sparks_long_poison|normal|0"/>
- <Attr name="ActiveSkin/397" value="sparks_long_subsonic|normal|0=sparks_long_subsonic|normal|0"/>
- <Attr name="ActiveSkin/398" value="specter 1882|normal|0=specter 1882|normal|0"/>
- <Attr name="ActiveSkin/399" value="specter 1882 bayonet|normal|0=specter 1882 bayonet|normal|0"/>
+ <Attr name="ActiveSkin/380" value="serpent moon memento charm 016|normal|0=serpent moon memento charm 016|normal|0"/>
+ <Attr name="ActiveSkin/381" value="shredder|normal|0=shredder|normal|0"/>
+ <Attr name="ActiveSkin/382" value="shredder_frag_blade|normal|0=shredder_frag_blade|normal|0"/>
+ <Attr name="ActiveSkin/383" value="siege bond charm 039|normal|0=siege bond charm 039|normal|0"/>
+ <Attr name="ActiveSkin/384" value="sinners hope charm 037|normal|0=sinners hope charm 037|normal|0"/>
+ <Attr name="ActiveSkin/385" value="slate|normal|0=legendary slate - c - eulogy|normal|0"/>
+ <Attr name="ActiveSkin/386" value="slate riposte|normal|0=legendary slate riposte - a - no quarter|normal|0"/>
+ <Attr name="ActiveSkin/387" value="slate_shell_pennyshot|normal|0=slate_shell_pennyshot|normal|0"/>
+ <Attr name="ActiveSkin/388" value="slate_shell_slug|normal|0=slate_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/389" value="snake bell charm 082|normal|0=snake bell charm 082|normal|0"/>
+ <Attr name="ActiveSkin/39" value="bornheim no.3 match|normal|0=legendary bornheim no.3 match - a - mockingbird|normal|0"/>
+ <Attr name="ActiveSkin/390" value="sorrows lock charm 071|normal|0=sorrows lock charm 071|normal|0"/>
+ <Attr name="ActiveSkin/391" value="sparks|normal|0=legendary sparks - f - cadaver song|normal|0"/>
+ <Attr name="ActiveSkin/392" value="sparks pistol|normal|0=legendary sparks pistol - b - last transaction|normal|0"/>
+ <Attr name="ActiveSkin/393" value="sparks pistol silencer|normal|0=legendary sparks pistol silencer - a - post mortem|normal|0"/>
+ <Attr name="ActiveSkin/394" value="sparks silencer|normal|0=sparks silencer|normal|0"/>
+ <Attr name="ActiveSkin/395" value="sparks sniper|normal|0=legendary sparks sniper - b - seven sights|normal|0"/>
+ <Attr name="ActiveSkin/396" value="sparks_long_fullmetaljacket|normal|0=sparks_long_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/397" value="sparks_long_incendiary|normal|0=sparks_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/398" value="sparks_long_poison|normal|0=sparks_long_poison|normal|0"/>
+ <Attr name="ActiveSkin/399" value="sparks_long_subsonic|normal|0=sparks_long_subsonic|normal|0"/>
  <Attr name="ActiveSkin/4" value="abyssal anchor charm 045|normal|0=abyssal anchor charm 045|normal|0"/>
- <Attr name="ActiveSkin/40" value="bornheim no.3 silencer|normal|0=bornheim no.3 silencer|normal|0"/>
- <Attr name="ActiveSkin/400" value="specter 1882 shorty|normal|0=specter 1882 shorty|normal|0"/>
- <Attr name="ActiveSkin/401" value="specter_shell_dragonbreath|normal|0=specter_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/402" value="specter_shell_flechette|normal|0=specter_shell_flechette|normal|0"/>
- <Attr name="ActiveSkin/403" value="specter_shell_pennyshot|normal|0=specter_shell_pennyshot|normal|0"/>
- <Attr name="ActiveSkin/404" value="specter_shell_slug|normal|0=specter_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/405" value="splintered crook charm 058|normal|0=splintered crook charm 058|normal|0"/>
- <Attr name="ActiveSkin/406" value="springfield 1866|normal|0=springfield 1866|normal|0"/>
- <Attr name="ActiveSkin/407" value="springfield 1866 bayonet|normal|0=springfield 1866 bayonet|normal|0"/>
- <Attr name="ActiveSkin/408" value="springfield 1866 marksman|normal|0=springfield 1866 marksman|normal|0"/>
- <Attr name="ActiveSkin/409" value="springfield 1866 shorty|normal|0=springfield 1866 shorty|normal|0"/>
+ <Attr name="ActiveSkin/40" value="bornheim no.3 silencer|normal|0=legendary bornheim no.3 silencer - b - silent sting|normal|0"/>
+ <Attr name="ActiveSkin/400" value="specter 1882|normal|0=legendary specter 1882 - c - eleventh hour|normal|0"/>
+ <Attr name="ActiveSkin/401" value="specter 1882 bayonet|normal|0=legendary specter 1882 bayonet - c - tartufai|normal|0"/>
+ <Attr name="ActiveSkin/402" value="specter 1882 shorty|normal|0=specter 1882 shorty|normal|0"/>
+ <Attr name="ActiveSkin/403" value="specter_shell_dragonbreath|normal|0=specter_shell_dragonbreath|normal|0"/>
+ <Attr name="ActiveSkin/404" value="specter_shell_flechette|normal|0=specter_shell_flechette|normal|0"/>
+ <Attr name="ActiveSkin/405" value="specter_shell_pennyshot|normal|0=specter_shell_pennyshot|normal|0"/>
+ <Attr name="ActiveSkin/406" value="specter_shell_slug|normal|0=specter_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/407" value="splintered crook charm 058|normal|0=splintered crook charm 058|normal|0"/>
+ <Attr name="ActiveSkin/408" value="springfield 1866|normal|0=springfield 1866|normal|0"/>
+ <Attr name="ActiveSkin/409" value="springfield 1866 bayonet|normal|0=springfield 1866 bayonet|normal|0"/>
  <Attr name="ActiveSkin/41" value="bornheim_compact_high_velocity|normal|0=bornheim_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/410" value="springfield 1866 shorty bullseye|normal|0=springfield 1866 shorty bullseye|normal|0"/>
- <Attr name="ActiveSkin/411" value="springfield 1866 striker|normal|0=springfield 1866 striker|normal|0"/>
- <Attr name="ActiveSkin/412" value="springfield_1866_medium_dumdum|normal|0=springfield_1866_medium_dumdum|normal|0"/>
- <Attr name="ActiveSkin/413" value="springfield_1866_medium_explosive|normal|0=springfield_1866_medium_explosive|normal|0"/>
- <Attr name="ActiveSkin/414" value="springfield_1866_medium_high_velocity|normal|0=springfield_1866_medium_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/415" value="springfield_1866_medium_poison|normal|0=springfield_1866_medium_poison|normal|0"/>
- <Attr name="ActiveSkin/416" value="stalker beetle|normal|0=stalker beetle|normal|0"/>
- <Attr name="ActiveSkin/417" value="stamina shot|normal|0=stamina shot|normal|0"/>
- <Attr name="ActiveSkin/418" value="sticky bomb|normal|0=sticky bomb|normal|0"/>
- <Attr name="ActiveSkin/419" value="tarnished wing charm 013|normal|0=tarnished wing charm 013|normal|0"/>
+ <Attr name="ActiveSkin/410" value="springfield 1866 marksman|normal|0=legendary springfield 1866 marksman - c - archangel|normal|0"/>
+ <Attr name="ActiveSkin/411" value="springfield 1866 shorty|normal|0=springfield 1866 shorty|normal|0"/>
+ <Attr name="ActiveSkin/412" value="springfield 1866 shorty bullseye|normal|0=legendary springfield 1866 shorty bullseye - a - blister|normal|0"/>
+ <Attr name="ActiveSkin/413" value="springfield 1866 striker|normal|0=springfield 1866 striker|normal|0"/>
+ <Attr name="ActiveSkin/414" value="springfield_1866_medium_dumdum|normal|0=springfield_1866_medium_dumdum|normal|0"/>
+ <Attr name="ActiveSkin/415" value="springfield_1866_medium_explosive|normal|0=springfield_1866_medium_explosive|normal|0"/>
+ <Attr name="ActiveSkin/416" value="springfield_1866_medium_high_velocity|normal|0=springfield_1866_medium_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/417" value="springfield_1866_medium_poison|normal|0=springfield_1866_medium_poison|normal|0"/>
+ <Attr name="ActiveSkin/418" value="stalker beetle|normal|0=stalker beetle|normal|0"/>
+ <Attr name="ActiveSkin/419" value="stamina shot|normal|0=legendary stamina shot - a - ksusha|normal|0"/>
  <Attr name="ActiveSkin/42" value="bornheim_compact_incendiary|normal|0=bornheim_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/420" value="terminus|normal|0=terminus|normal|0"/>
- <Attr name="ActiveSkin/421" value="terminus shorty|normal|0=terminus shorty|normal|0"/>
- <Attr name="ActiveSkin/422" value="terminus_shell_dragonbreath|normal|0=terminus_shell_dragonbreath|normal|0"/>
- <Attr name="ActiveSkin/423" value="terminus_shell_flechette|normal|0=terminus_shell_flechette|normal|0"/>
- <Attr name="ActiveSkin/424" value="terminus_shell_penny_shot|normal|0=terminus_shell_penny_shot|normal|0"/>
- <Attr name="ActiveSkin/425" value="terminus_shell_slug|normal|0=terminus_shell_slug|normal|0"/>
- <Attr name="ActiveSkin/426" value="the knight charm 005|normal|0=the knight charm 005|normal|0"/>
- <Attr name="ActiveSkin/427" value="throwing axes|normal|0=throwing axes|normal|0"/>
- <Attr name="ActiveSkin/428" value="throwing knives|normal|0=throwing knives|normal|0"/>
- <Attr name="ActiveSkin/429" value="throwing spear|normal|0=throwing spear|normal|0"/>
+ <Attr name="ActiveSkin/420" value="sticky bomb|normal|0=legendary sticky bomb - b - equine heart|normal|0"/>
+ <Attr name="ActiveSkin/421" value="tarnished wing charm 013|normal|0=tarnished wing charm 013|normal|0"/>
+ <Attr name="ActiveSkin/422" value="terminus|normal|0=terminus|normal|0"/>
+ <Attr name="ActiveSkin/423" value="terminus shorty|normal|0=terminus shorty|normal|0"/>
+ <Attr name="ActiveSkin/424" value="terminus_shell_dragonbreath|normal|0=terminus_shell_dragonbreath|normal|0"/>
+ <Attr name="ActiveSkin/425" value="terminus_shell_flechette|normal|0=terminus_shell_flechette|normal|0"/>
+ <Attr name="ActiveSkin/426" value="terminus_shell_penny_shot|normal|0=terminus_shell_penny_shot|normal|0"/>
+ <Attr name="ActiveSkin/427" value="terminus_shell_slug|normal|0=terminus_shell_slug|normal|0"/>
+ <Attr name="ActiveSkin/428" value="the knight charm 005|normal|0=the knight charm 005|normal|0"/>
+ <Attr name="ActiveSkin/429" value="throwing axes|normal|0=legendary throwing axe - b -  tomahawk|normal|0"/>
  <Attr name="ActiveSkin/43" value="bornheim_compact_subsonic|normal|0=bornheim_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/430" value="times pour charm 053|normal|0=times pour charm 053|normal|0"/>
- <Attr name="ActiveSkin/431" value="tool box|normal|0=tool box|normal|0"/>
- <Attr name="ActiveSkin/432" value="tooth blossom charm 070|normal|0=tooth blossom charm 070|normal|0"/>
- <Attr name="ActiveSkin/433" value="trench knife|normal|0=legendary trench knife - f - savage comeback|normal|0"/>
- <Attr name="ActiveSkin/434" value="uncommon rubys favor charm 014|normal|0=uncommon rubys favor charm 014|normal|0"/>
- <Attr name="ActiveSkin/435" value="uppercut|normal|0=uppercut|normal|0"/>
- <Attr name="ActiveSkin/436" value="uppercut deadeye|normal|0=uppercut deadeye|normal|0"/>
- <Attr name="ActiveSkin/437" value="uppercut precision|normal|0=uppercut precision|normal|0"/>
- <Attr name="ActiveSkin/438" value="uppercut_long_explosive|normal|0=uppercut_long_explosive|normal|0"/>
- <Attr name="ActiveSkin/439" value="uppercut_long_fmj|normal|0=uppercut_long_fmj|normal|0"/>
+ <Attr name="ActiveSkin/430" value="throwing knives|normal|0=legendary throwing knives - f - swarm cutter|normal|0"/>
+ <Attr name="ActiveSkin/431" value="throwing spear|normal|0=legendary throwing spear - b - watchmans arm|normal|0"/>
+ <Attr name="ActiveSkin/432" value="times pour charm 053|normal|0=times pour charm 053|normal|0"/>
+ <Attr name="ActiveSkin/433" value="tool box|normal|0=tool box|normal|0"/>
+ <Attr name="ActiveSkin/434" value="tooth blossom charm 070|normal|0=tooth blossom charm 070|normal|0"/>
+ <Attr name="ActiveSkin/435" value="trench knife|normal|0=legendary trench knife - f - savage comeback|normal|0"/>
+ <Attr name="ActiveSkin/436" value="uncommon rubys favor charm 014|normal|0=uncommon rubys favor charm 014|normal|0"/>
+ <Attr name="ActiveSkin/437" value="uppercut|normal|0=legendary uppercut - e - snake eyes|normal|0"/>
+ <Attr name="ActiveSkin/438" value="uppercut deadeye|normal|0=uppercut deadeye|normal|0"/>
+ <Attr name="ActiveSkin/439" value="uppercut precision|normal|0=uppercut precision|normal|0"/>
  <Attr name="ActiveSkin/44" value="cardinal icarus charm 010|normal|0=cardinal icarus charm 010|normal|0"/>
- <Attr name="ActiveSkin/440" value="uppercut_long_incendiary|normal|0=uppercut_long_incendiary|normal|0"/>
- <Attr name="ActiveSkin/441" value="vandal 73c|normal|0=vandal 73c|normal|0"/>
- <Attr name="ActiveSkin/442" value="vandal 73c bullseye|normal|0=vandal 73c bullseye|normal|0"/>
- <Attr name="ActiveSkin/443" value="vandal 73c striker|normal|0=vandal 73c striker|normal|0"/>
- <Attr name="ActiveSkin/444" value="vandal_73c_compact_fullmetaljacket|normal|0=vandal_73c_compact_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/445" value="vandal_73c_compact_high_velocity|normal|0=vandal_73c_compact_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/446" value="vandal_73c_compact_incendiary|normal|0=vandal_73c_compact_incendiary|normal|0"/>
- <Attr name="ActiveSkin/447" value="vandal_73c_compact_poison|normal|0=vandal_73c_compact_poison|normal|0"/>
- <Attr name="ActiveSkin/448" value="vandal_73c_compact_subsonic|normal|0=vandal_73c_compact_subsonic|normal|0"/>
- <Attr name="ActiveSkin/449" value="vetterli 71|normal|0=vetterli 71|normal|0"/>
+ <Attr name="ActiveSkin/440" value="uppercut_long_explosive|normal|0=uppercut_long_explosive|normal|0"/>
+ <Attr name="ActiveSkin/441" value="uppercut_long_fmj|normal|0=uppercut_long_fmj|normal|0"/>
+ <Attr name="ActiveSkin/442" value="uppercut_long_incendiary|normal|0=uppercut_long_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/443" value="vandal 73c|normal|0=vandal 73c|normal|0"/>
+ <Attr name="ActiveSkin/444" value="vandal 73c bullseye|normal|0=vandal 73c bullseye|normal|0"/>
+ <Attr name="ActiveSkin/445" value="vandal 73c striker|normal|0=vandal 73c striker|normal|0"/>
+ <Attr name="ActiveSkin/446" value="vandal_73c_compact_fullmetaljacket|normal|0=vandal_73c_compact_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/447" value="vandal_73c_compact_high_velocity|normal|0=vandal_73c_compact_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/448" value="vandal_73c_compact_incendiary|normal|0=vandal_73c_compact_incendiary|normal|0"/>
+ <Attr name="ActiveSkin/449" value="vandal_73c_compact_poison|normal|0=vandal_73c_compact_poison|normal|0"/>
  <Attr name="ActiveSkin/45" value="carnassial wills charm 020|normal|0=carnassial wills charm 020|normal|0"/>
- <Attr name="ActiveSkin/450" value="vetterli 71 bayonet|normal|0=vetterli 71 bayonet|normal|0"/>
- <Attr name="ActiveSkin/451" value="vetterli 71 cyclone|normal|0=vetterli 71 cyclone|normal|0"/>
- <Attr name="ActiveSkin/452" value="vetterli 71 deadeye|normal|0=vetterli 71 deadeye|normal|0"/>
- <Attr name="ActiveSkin/453" value="vetterli 71 marksman|normal|0=vetterli 71 marksman|normal|0"/>
- <Attr name="ActiveSkin/454" value="vetterli 71 silencer|normal|0=vetterli 71 silencer|normal|0"/>
- <Attr name="ActiveSkin/455" value="vetterli_medium_fullmetaljacket|normal|0=vetterli_medium_fullmetaljacket|normal|0"/>
- <Attr name="ActiveSkin/456" value="vetterli_medium_high_velocity|normal|0=vetterli_medium_high_velocity|normal|0"/>
- <Attr name="ActiveSkin/457" value="vetterli_medium_incendiary|normal|0=vetterli_medium_incendiary|normal|0"/>
- <Attr name="ActiveSkin/458" value="vetterli_medium_subsonic|normal|0=vetterli_medium_subsonic|normal|0"/>
- <Attr name="ActiveSkin/459" value="vitality regeneration shot|normal|0=vitality regeneration shot|normal|0"/>
+ <Attr name="ActiveSkin/450" value="vandal_73c_compact_subsonic|normal|0=vandal_73c_compact_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/451" value="vetterli 71|normal|0=vetterli 71|normal|0"/>
+ <Attr name="ActiveSkin/452" value="vetterli 71 bayonet|normal|0=vetterli 71 bayonet|normal|0"/>
+ <Attr name="ActiveSkin/453" value="vetterli 71 cyclone|normal|0=vetterli 71 cyclone|normal|0"/>
+ <Attr name="ActiveSkin/454" value="vetterli 71 deadeye|normal|0=vetterli 71 deadeye|normal|0"/>
+ <Attr name="ActiveSkin/455" value="vetterli 71 marksman|normal|0=vetterli 71 marksman|normal|0"/>
+ <Attr name="ActiveSkin/456" value="vetterli 71 silencer|normal|0=legendary vetterli 71 silencer - c - masquerade|normal|0"/>
+ <Attr name="ActiveSkin/457" value="vetterli_medium_fullmetaljacket|normal|0=vetterli_medium_fullmetaljacket|normal|0"/>
+ <Attr name="ActiveSkin/458" value="vetterli_medium_high_velocity|normal|0=vetterli_medium_high_velocity|normal|0"/>
+ <Attr name="ActiveSkin/459" value="vetterli_medium_incendiary|normal|0=vetterli_medium_incendiary|normal|0"/>
  <Attr name="ActiveSkin/46" value="cavalry saber|normal|0=legendary cavalry saber - a - cypress thorn|normal|0"/>
- <Attr name="ActiveSkin/460" value="vitality shot|normal|0=vitality shot|normal|0"/>
- <Attr name="ActiveSkin/461" value="vitality weak regeneration shot|normal|0=legendary weak vitality regeneration shot - a - thorax brew|normal|0"/>
- <Attr name="ActiveSkin/462" value="wakes whistle charm 055|normal|0=wakes whistle charm 055|normal|0"/>
- <Attr name="ActiveSkin/463" value="waster honor charm 060|normal|0=waster honor charm 060|normal|0"/>
- <Attr name="ActiveSkin/464" value="weak antidote shot|normal|0=weak antidote shot|normal|0"/>
- <Attr name="ActiveSkin/465" value="weak stamina shot|normal|0=legendary weak stamina shot - aa - rosewater weak|normal|0"/>
- <Attr name="ActiveSkin/466" value="weak vitality shot|normal|0=weak vitality shot|normal|0"/>
- <Attr name="ActiveSkin/467" value="whirlybird charm 081|normal|0=whirlybird charm 081|normal|0"/>
- <Attr name="ActiveSkin/468" value="whittled fang charm 056|normal|0=whittled fang charm 056|normal|0"/>
- <Attr name="ActiveSkin/469" value="witch scratcher charm 067|normal|0=witch scratcher charm 067|normal|0"/>
+ <Attr name="ActiveSkin/460" value="vetterli_medium_subsonic|normal|0=vetterli_medium_subsonic|normal|0"/>
+ <Attr name="ActiveSkin/461" value="vitality regeneration shot|normal|0=legendary vitality regeneration shot - a - false sacrament|normal|0"/>
+ <Attr name="ActiveSkin/462" value="vitality shot|normal|0=vitality shot|normal|0"/>
+ <Attr name="ActiveSkin/463" value="vitality weak regeneration shot|normal|0=legendary weak vitality regeneration shot - a - thorax brew|normal|0"/>
+ <Attr name="ActiveSkin/464" value="wakes whistle charm 055|normal|0=wakes whistle charm 055|normal|0"/>
+ <Attr name="ActiveSkin/465" value="waster honor charm 060|normal|0=waster honor charm 060|normal|0"/>
+ <Attr name="ActiveSkin/466" value="weak antidote shot|normal|0=weak antidote shot|normal|0"/>
+ <Attr name="ActiveSkin/467" value="weak stamina shot|normal|0=legendary weak stamina shot - aa - rosewater weak|normal|0"/>
+ <Attr name="ActiveSkin/468" value="weak vitality shot|normal|0=legendary weak vitality shot - a - sanguis christi|normal|0"/>
+ <Attr name="ActiveSkin/469" value="whirlybird charm 081|normal|0=whirlybird charm 081|normal|0"/>
  <Attr name="ActiveSkin/47" value="celestial south charm 029|normal|0=celestial south charm 029|normal|0"/>
+ <Attr name="ActiveSkin/470" value="whittled fang charm 056|normal|0=whittled fang charm 056|normal|0"/>
+ <Attr name="ActiveSkin/471" value="witch scratcher charm 067|normal|0=witch scratcher charm 067|normal|0"/>
  <Attr name="ActiveSkin/48" value="centennial|normal|0=centennial|normal|0"/>
- <Attr name="ActiveSkin/49" value="centennial pointman|normal|0=centennial pointman|normal|0"/>
+ <Attr name="ActiveSkin/49" value="centennial pointman|normal|0=legendary centennial pointman - a - fates friend pointman|normal|0"/>
  <Attr name="ActiveSkin/5" value="alert trip mine|normal|0=alert trip mine|normal|0"/>
- <Attr name="ActiveSkin/50" value="centennial shorty|normal|0=centennial shorty|normal|0"/>
- <Attr name="ActiveSkin/51" value="centennial shorty silencer|normal|0=centennial shorty silencer|normal|0"/>
+ <Attr name="ActiveSkin/50" value="centennial shorty|normal|0=legendary centennial shorty - aa - fates friend shorty|normal|0"/>
+ <Attr name="ActiveSkin/51" value="centennial shorty silencer|normal|0=legendary centennial shorty silencer - b - burial hymn|normal|0"/>
  <Attr name="ActiveSkin/52" value="centennial sniper|normal|0=centennial sniper|normal|0"/>
  <Attr name="ActiveSkin/53" value="centennial trauma|normal|0=centennial trauma|normal|0"/>
  <Attr name="ActiveSkin/54" value="centennial_medium_dumdum|normal|0=centennial_medium_dumdum|normal|0"/>
@@ -426,9 +427,9 @@
  <Attr name="ActiveSkin/57" value="centennial_medium_poison|normal|0=centennial_medium_poison|normal|0"/>
  <Attr name="ActiveSkin/58" value="centennial_medium_subsonic|normal|0=centennial_medium_subsonic|normal|0"/>
  <Attr name="ActiveSkin/59" value="chaos bomb|normal|0=chaos bomb|normal|0"/>
- <Attr name="ActiveSkin/6" value="ammo box|normal|0=legendary ammo box - c - bullet coffin|normal|0"/>
+ <Attr name="ActiveSkin/6" value="ammo box|normal|0=legendary ammo box - a - red cask|normal|0"/>
  <Attr name="ActiveSkin/60" value="choke beetle|normal|0=choke beetle|normal|0"/>
- <Attr name="ActiveSkin/61" value="choke bombs|normal|0=legendary choke bombs - e - smoke out|normal|0"/>
+ <Attr name="ActiveSkin/61" value="choke bombs|normal|0=legendary choke bombs - a - cicada|normal|0"/>
  <Attr name="ActiveSkin/62" value="chu ko nu|normal|0=chu ko nu|normal|0"/>
  <Attr name="ActiveSkin/63" value="chu_ko_nu_explosive|normal|0=chu_ko_nu_explosive|normal|0"/>
  <Attr name="ActiveSkin/64" value="chu_ko_nu_incendiary|normal|0=chu_ko_nu_incendiary|normal|0"/>
@@ -438,17 +439,17 @@
  <Attr name="ActiveSkin/68" value="concertina bomb|normal|0=concertina bomb|normal|0"/>
  <Attr name="ActiveSkin/69" value="concertina trip mine|normal|0=concertina trip mine|normal|0"/>
  <Attr name="ActiveSkin/7" value="ante up charm 052|normal|0=ante up charm 052|normal|0"/>
- <Attr name="ActiveSkin/70" value="conversion|normal|0=conversion|normal|0"/>
- <Attr name="ActiveSkin/71" value="conversion chain pistol|normal|0=conversion chain pistol|normal|0"/>
+ <Attr name="ActiveSkin/70" value="conversion|normal|0=legendary conversion - c - spite|normal|0"/>
+ <Attr name="ActiveSkin/71" value="conversion chain pistol|normal|0=legendary caldwell chain pistol - i - dark miasma|normal|0"/>
  <Attr name="ActiveSkin/72" value="conversion_compact_dumdum|normal|0=conversion_compact_dumdum|normal|0"/>
  <Attr name="ActiveSkin/73" value="conversion_compact_fullmetaljacket|normal|0=conversion_compact_fullmetaljacket|normal|0"/>
  <Attr name="ActiveSkin/74" value="corn cob bowl charm 059|normal|0=corn cob bowl charm 059|normal|0"/>
  <Attr name="ActiveSkin/75" value="crop and cull charm 068|normal|0=crop and cull charm 068|normal|0"/>
- <Attr name="ActiveSkin/76" value="crossbow|normal|0=crossbow|normal|0"/>
- <Attr name="ActiveSkin/77" value="crossbow deadeye|normal|0=crossbow deadeye|normal|0"/>
+ <Attr name="ActiveSkin/76" value="crossbow|normal|0=legendary crossbow - a - snake seer|normal|0"/>
+ <Attr name="ActiveSkin/77" value="crossbow deadeye|normal|0=legendary crossbow deadeye - a - shootists joy|normal|0"/>
  <Attr name="ActiveSkin/78" value="crossbow_special_bolt_explosive|normal|0=crossbow_special_bolt_explosive|normal|0"/>
  <Attr name="ActiveSkin/79" value="crossbow_special_bolt_shotbolt|normal|0=crossbow_special_bolt_shotbolt|normal|0"/>
- <Attr name="ActiveSkin/8" value="antidote shot|normal|0=antidote shot|normal|0"/>
+ <Attr name="ActiveSkin/8" value="antidote shot|normal|0=legendary antidote shot - b - blood of the nile|normal|0"/>
  <Attr name="ActiveSkin/80" value="crossbow_special_bolt_steel_bolt|normal|0=crossbow_special_bolt_steel_bolt|normal|0"/>
  <Attr name="ActiveSkin/81" value="dark dynamite satchel|normal|0=dark dynamite satchel|normal|0"/>
  <Attr name="ActiveSkin/82" value="dawns offering charm 065|normal|0=dawns offering charm 065|normal|0"/>
@@ -456,47 +457,60 @@
  <Attr name="ActiveSkin/84" value="decoys|normal|0=decoys|normal|0"/>
  <Attr name="ActiveSkin/85" value="decoys blankfire|normal|0=decoys blankfire|normal|0"/>
  <Attr name="ActiveSkin/86" value="defiled ornament charm 047|normal|0=defiled ornament charm 047|normal|0"/>
- <Attr name="ActiveSkin/87" value="derringer pennyshot|normal|0=legendary derringer pennyshot - b - gold reliable|normal|0"/>
+ <Attr name="ActiveSkin/87" value="derringer pennyshot|normal|0=legendary derringer pennyshot - a - gold standard|normal|0"/>
  <Attr name="ActiveSkin/88" value="diamond capped charm 076|normal|0=diamond capped charm 076|normal|0"/>
  <Attr name="ActiveSkin/89" value="dire divination charm 057|normal|0=dire divination charm 057|normal|0"/>
  <Attr name="ActiveSkin/9" value="argent crown charm 041|normal|0=argent crown charm 041|normal|0"/>
  <Attr name="ActiveSkin/90" value="dolch 96|normal|0=dolch 96|normal|0"/>
- <Attr name="ActiveSkin/91" value="dolch 96 bullseye|normal|0=dolch 96 bullseye|normal|0"/>
- <Attr name="ActiveSkin/92" value="dolch 96 claw|normal|0=dolch 96 claw|normal|0"/>
+ <Attr name="ActiveSkin/91" value="dolch 96 bullseye|normal|0=legendary dolch 96 bullseye - a - pupil brine|normal|0"/>
+ <Attr name="ActiveSkin/92" value="dolch 96 claw|normal|0=legendary dolch 96 claw - a - veil slasher|normal|0"/>
  <Attr name="ActiveSkin/93" value="dolch 96 precision|normal|0=dolch 96 precision|normal|0"/>
  <Attr name="ActiveSkin/94" value="dolch_special_dumdum|normal|0=dolch_special_dumdum|normal|0"/>
  <Attr name="ActiveSkin/95" value="dolch_special_fullmetaljacket|normal|0=dolch_special_fullmetaljacket|normal|0"/>
  <Attr name="ActiveSkin/96" value="drilling|normal|0=drilling|normal|0"/>
  <Attr name="ActiveSkin/97" value="drilling hatchet|normal|0=drilling hatchet|normal|0"/>
- <Attr name="ActiveSkin/98" value="drilling shorty|normal|0=drilling shorty|normal|0"/>
+ <Attr name="ActiveSkin/98" value="drilling shorty|normal|0=legendary drilling shorty - b - torments trio|normal|0"/>
  <Attr name="ActiveSkin/99" value="drilling_medium_dumdum|normal|0=drilling_medium_dumdum|normal|0"/>
  <Attr name="Aim Down Sights Input Switcher" value="0"/>
  <Attr name="AimMode" value="0"/>
+ <Attr name="AmmunitionAutoHide" value="1"/>
  <Attr name="Arsenal_Sorting" value="0"/>
  <Attr name="Arsenal_Sorting_IsReversed" value="0"/>
+ <Attr name="AutoInteractEnabled" value="1"/>
+ <Attr name="CensorBlood" value="1"/>
+ <Attr name="CompassOpacity" value="0"/>
+ <Attr name="ControllerAimBoostThreshold" value="0.75"/>
+ <Attr name="CrosshairOpacity" value="51"/>
  <Attr name="CrosshairPosition" value="0"/>
  <Attr name="Crouch Switcher" value="1"/>
  <Attr name="DepthOfField" value="0"/>
+ <Attr name="Details_Charms_Sort" value="0"/>
+ <Attr name="Details_Charms_Sort_IsReversed" value="0"/>
  <Attr name="Details_Skins_Sort" value="0"/>
  <Attr name="Details_Skins_Sort_IsReversed" value="0"/>
+ <Attr name="DialogueSubtitles" value="0"/>
  <Attr name="DialogueVolume" value="1"/>
+ <Attr name="DoNotShowHealthNotFullSuggestion" value="1"/>
  <Attr name="DoNotShowItemsNotEquipped1Suggestion" value="1"/>
+ <Attr name="DoNotShowLargestEmptySlotHasSizeSuggestion" value="1"/>
+ <Attr name="DoNotShowNoTeammateSuggestion" value="1"/>
  <Attr name="DoNotShowTeamsOfThreeSuggestion" value="1"/>
- <Attr name="FieldOfView" value="68"/>
- <Attr name="FilterStates//ArsenalWeapons//BigSlot" value="0"/>
+ <Attr name="FieldOfView" value="78"/>
+ <Attr name="FieldOfViewShoulderAim" value="1"/>
+ <Attr name="FilterStates//ArsenalWeapons//BigSlot" value="1"/>
  <Attr name="FilterStates//ArsenalWeapons//CompactAmmo" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//Contrabands" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//ExplosiveAmmo" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//Favorites" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//IncendiaryAmmo" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//LongAmmo" value="0"/>
- <Attr name="FilterStates//ArsenalWeapons//MediumAmmo" value="0"/>
- <Attr name="FilterStates//ArsenalWeapons//MediumSlot" value="1"/>
+ <Attr name="FilterStates//ArsenalWeapons//MediumAmmo" value="1"/>
+ <Attr name="FilterStates//ArsenalWeapons//MediumSlot" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//OwnedOrUnlocked" value="1"/>
  <Attr name="FilterStates//ArsenalWeapons//PoisonAmmo" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//Searchbar" value="0"/>
  <Attr name="FilterStates//ArsenalWeapons//ShellAmmo" value="0"/>
- <Attr name="FilterStates//ArsenalWeapons//SmallSlot" value="0"/>
+ <Attr name="FilterStates//ArsenalWeapons//SmallSlot" value="1"/>
  <Attr name="FilterStates//ArsenalWeapons//SpecialAmmo" value="0"/>
  <Attr name="FilterStates//Arsenal_Ammo//Favorites" value="0"/>
  <Attr name="FilterStates//Arsenal_Ammo//OwnedOrUnlocked" value="1"/>
@@ -508,7 +522,7 @@
  <Attr name="FilterStates//Arsenal_Tools//HealingTools" value="0"/>
  <Attr name="FilterStates//Arsenal_Tools//LightTools" value="0"/>
  <Attr name="FilterStates//Arsenal_Tools//NoiseTools" value="0"/>
- <Attr name="FilterStates//Arsenal_Tools//OwnedOrUnlocked" value="1"/>
+ <Attr name="FilterStates//Arsenal_Tools//OwnedOrUnlocked" value="0"/>
  <Attr name="FilterStates//Arsenal_Tools//PlaceableTools" value="0"/>
  <Attr name="FilterStates//Arsenal_Tools//PoisonConsumables" value="0"/>
  <Attr name="FilterStates//Arsenal_Tools//RendingConsumables" value="0"/>
@@ -518,6 +532,10 @@
  <Attr name="FilterStates//CharmsFilter//Discounted" value="0"/>
  <Attr name="FilterStates//CharmsFilter//New" value="0"/>
  <Attr name="FilterStates//CharmsFilter//Searchbar" value="0"/>
+ <Attr name="FilterStates//CharmsFilters//Discounted" value="0"/>
+ <Attr name="FilterStates//CharmsFilters//Favorites" value="0"/>
+ <Attr name="FilterStates//CharmsFilters//HideLocked" value="1"/>
+ <Attr name="FilterStates//CharmsFilters//New" value="0"/>
  <Attr name="FilterStates//CombatLog//CombatLogAi" value="0"/>
  <Attr name="FilterStates//CombatLog//CombatLogIn" value="0"/>
  <Attr name="FilterStates//CombatLog//CombatLogOut" value="0"/>
@@ -529,7 +547,7 @@
  <Attr name="FilterStates//Filter_DLC//New" value="0"/>
  <Attr name="FilterStates//Filter_DLC//Searchbar" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Ammo/Favorites" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Arsenal_Ammo/OwnedOrUnlocked" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Arsenal_Ammo/OwnedOrUnlocked" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Ammo/Searchbar" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Consumables/Contrabands" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Consumables/ExplosiveConsumables" value="0"/>
@@ -553,7 +571,7 @@
  <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/LightTools" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/MeleeTools" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/NoiseTools" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/OwnedOrUnlocked" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/OwnedOrUnlocked" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/PlaceableTools" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/PoisonConsumables" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Tools/RendingConsumables" value="0"/>
@@ -575,9 +593,13 @@
  <Attr name="FilterStates//FilterbarScript/Arsenal_Weapons/ShellAmmo" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Weapons/SmallSlot" value="1"/>
  <Attr name="FilterStates//FilterbarScript/Arsenal_Weapons/SpecialAmmo" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Details_Charms/Discounted" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Details_Charms/Favorites" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Details_Charms/HideLocked" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Details_Charms/New" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Details_Skins/Discounted" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Details_Skins/Favorites" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Details_Skins/HideLocked" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Details_Skins/HideLocked" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Details_Skins/New" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Details_WeaponAnimations/Discounted" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Details_WeaponAnimations/Favorites" value="0"/>
@@ -587,16 +609,22 @@
  <Attr name="FilterStates//FilterbarScript/Recruits_Legendary/Favorites" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Recruits_Legendary/New" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Recruits_Legendary/Owned" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Recruits_Legendary/Searchbar" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Recruits_Legendary/Searchbar" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Store_General/Discounted" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Store_General/New" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Store_General/Searchbar" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Store_Legendary_Hunter/Discounted" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Store_Legendary_Hunter/New" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Store_Legendary_Hunter/Searchbar" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_Skins/Consumables" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Store_Skins/Discounted" value="0"/>
+ <Attr name="FilterStates//FilterbarScript/Store_Skins/Discounted" value="1"/>
  <Attr name="FilterStates//FilterbarScript/Store_Skins/New" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Store_Skins/Searchbar" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Store_Skins/Searchbar" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_Skins/Tools" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Store_Skins/Weapons" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Store_Skins/Weapons" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/Consumables" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/Discounted" value="0"/>
- <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/New" value="1"/>
+ <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/New" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/Searchbar" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/Tools" value="0"/>
  <Attr name="FilterStates//FilterbarScript/Store_WeaponAnimations/Weapons" value="0"/>
@@ -611,13 +639,13 @@
  <Attr name="FilterStates//FilterbarScript/Traits/SupportTraits" value="0"/>
  <Attr name="FilterStates//HunterSelectionGridFilter//Favorites" value="0"/>
  <Attr name="FilterStates//HunterSelectionGridFilter//Searchbar" value="0"/>
- <Attr name="FilterStates//LegendaryHuntersFilter//Discounted" value="1"/>
+ <Attr name="FilterStates//LegendaryHuntersFilter//Discounted" value="0"/>
  <Attr name="FilterStates//LegendaryHuntersFilter//Favorites" value="0"/>
  <Attr name="FilterStates//LegendaryHuntersFilter//New" value="0"/>
  <Attr name="FilterStates//LegendaryHuntersFilter//Owned" value="0"/>
  <Attr name="FilterStates//LegendaryHuntersFilter//Searchbar" value="0"/>
  <Attr name="FilterStates//SkinFilters//Consumables" value="0"/>
- <Attr name="FilterStates//SkinFilters//Discounted" value="0"/>
+ <Attr name="FilterStates//SkinFilters//Discounted" value="1"/>
  <Attr name="FilterStates//SkinFilters//Favorites" value="0"/>
  <Attr name="FilterStates//SkinFilters//HideLocked" value="1"/>
  <Attr name="FilterStates//SkinFilters//New" value="0"/>
@@ -633,21 +661,22 @@
  <Attr name="FilterStates//Traits//Searchbar" value="0"/>
  <Attr name="FilterStates//Traits//SoloTraits" value="0"/>
  <Attr name="FilterStates//Traits//SupportTraits" value="0"/>
- <Attr name="GPUTessellation" value="1"/>
  <Attr name="Gamma" value="1.2"/>
  <Attr name="HDR Checkbox" value="0"/>
  <Attr name="HDRContrast" value="1"/>
+ <Attr name="HasOptedOutOfRevive" value="1"/>
  <Attr name="HasSeenAudioSettings" value="1"/>
  <Attr name="HasSeenBrightness" value="1"/>
  <Attr name="HasSeenRegionSelection" value="1"/>
  <Attr name="HasSeenSafeZoneOver" value="1"/>
- <Attr name="HipMouseSensitivity" value="1.49"/>
+ <Attr name="HighlightMode" value="0"/>
+ <Attr name="HipMouseSensitivity" value="1.46"/>
  <Attr name="Hunter_Selected_Grid_Sort" value="6"/>
  <Attr name="Hunter_Selected_Grid_Sort_IsReversed" value="0"/>
- <Attr name="Hunter_Upgrades_Sort" value="0"/>
+ <Attr name="Hunter_Upgrades_Sort" value="8"/>
  <Attr name="Hunter_Upgrades_Sort_IsReversed" value="0"/>
  <Attr name="IgnoreWindowFocus" value="1"/>
- <Attr name="IronSightsMouseSensitivity" value="1.39"/>
+ <Attr name="IronSightsMouseSensitivity" value="1.36"/>
  <Attr name="ItemsUserData/Favorited/12370625661436196" value="0"/>
  <Attr name="ItemsUserData/Favorited/12370625661632806" value="0"/>
  <Attr name="ItemsUserData/Favorited/13209620978419463" value="0"/>
@@ -1692,20 +1721,21 @@
  <Attr name="ItemsUserData/Favorited/47914746826520040" value="0"/>
  <Attr name="ItemsUserData/Favorited/52732727500167410" value="0"/>
  <Attr name="ItemsUserData/Favorited/68648052142441069" value="0"/>
+ <Attr name="KeepLowered" value="1"/>
  <Attr name="Loadout/Favorite_0" value="false"/>
  <Attr name="Loadout/Favorite_1" value="false"/>
  <Attr name="Loadout/Favorite_10" value="false"/>
  <Attr name="Loadout/Favorite_11" value="false"/>
- <Attr name="Loadout/Favorite_12" value="false"/>
+ <Attr name="Loadout/Favorite_12" value="true"/>
  <Attr name="Loadout/Favorite_13" value="false"/>
- <Attr name="Loadout/Favorite_14" value="false"/>
+ <Attr name="Loadout/Favorite_14" value="true"/>
  <Attr name="Loadout/Favorite_2" value="false"/>
- <Attr name="Loadout/Favorite_3" value="false"/>
+ <Attr name="Loadout/Favorite_3" value="true"/>
  <Attr name="Loadout/Favorite_4" value="false"/>
  <Attr name="Loadout/Favorite_5" value="false"/>
- <Attr name="Loadout/Favorite_6" value="false"/>
+ <Attr name="Loadout/Favorite_6" value="true"/>
  <Attr name="Loadout/Favorite_7" value="false"/>
- <Attr name="Loadout/Favorite_8" value="false"/>
+ <Attr name="Loadout/Favorite_8" value="true"/>
  <Attr name="Loadout/Favorite_9" value="false"/>
  <Attr name="Loadout/FilterActivated_0_0" value="1"/>
  <Attr name="Loadout/FilterActivated_0_1" value="1"/>
@@ -1714,11 +1744,11 @@
  <Attr name="Loadout/FilterActivated_0_4" value="0"/>
  <Attr name="Loadout/FilterActivated_10_0" value="0"/>
  <Attr name="Loadout/FilterActivated_10_1" value="0"/>
- <Attr name="Loadout/FilterActivated_10_2" value="1"/>
+ <Attr name="Loadout/FilterActivated_10_2" value="0"/>
  <Attr name="Loadout/FilterActivated_10_3" value="1"/>
  <Attr name="Loadout/FilterActivated_10_4" value="0"/>
- <Attr name="Loadout/FilterActivated_11_0" value="1"/>
- <Attr name="Loadout/FilterActivated_11_1" value="1"/>
+ <Attr name="Loadout/FilterActivated_11_0" value="0"/>
+ <Attr name="Loadout/FilterActivated_11_1" value="0"/>
  <Attr name="Loadout/FilterActivated_11_2" value="1"/>
  <Attr name="Loadout/FilterActivated_11_3" value="1"/>
  <Attr name="Loadout/FilterActivated_11_4" value="0"/>
@@ -1732,19 +1762,19 @@
  <Attr name="Loadout/FilterActivated_13_2" value="1"/>
  <Attr name="Loadout/FilterActivated_13_3" value="1"/>
  <Attr name="Loadout/FilterActivated_13_4" value="0"/>
- <Attr name="Loadout/FilterActivated_14_0" value="1"/>
- <Attr name="Loadout/FilterActivated_14_1" value="1"/>
+ <Attr name="Loadout/FilterActivated_14_0" value="0"/>
+ <Attr name="Loadout/FilterActivated_14_1" value="0"/>
  <Attr name="Loadout/FilterActivated_14_2" value="1"/>
  <Attr name="Loadout/FilterActivated_14_3" value="1"/>
  <Attr name="Loadout/FilterActivated_14_4" value="0"/>
  <Attr name="Loadout/FilterActivated_1_0" value="1"/>
  <Attr name="Loadout/FilterActivated_1_1" value="1"/>
  <Attr name="Loadout/FilterActivated_1_2" value="1"/>
- <Attr name="Loadout/FilterActivated_1_3" value="0"/>
+ <Attr name="Loadout/FilterActivated_1_3" value="1"/>
  <Attr name="Loadout/FilterActivated_1_4" value="0"/>
- <Attr name="Loadout/FilterActivated_2_0" value="1"/>
- <Attr name="Loadout/FilterActivated_2_1" value="1"/>
- <Attr name="Loadout/FilterActivated_2_2" value="1"/>
+ <Attr name="Loadout/FilterActivated_2_0" value="0"/>
+ <Attr name="Loadout/FilterActivated_2_1" value="0"/>
+ <Attr name="Loadout/FilterActivated_2_2" value="0"/>
  <Attr name="Loadout/FilterActivated_2_3" value="1"/>
  <Attr name="Loadout/FilterActivated_2_4" value="0"/>
  <Attr name="Loadout/FilterActivated_3_0" value="1"/>
@@ -1757,24 +1787,24 @@
  <Attr name="Loadout/FilterActivated_4_2" value="1"/>
  <Attr name="Loadout/FilterActivated_4_3" value="1"/>
  <Attr name="Loadout/FilterActivated_4_4" value="0"/>
- <Attr name="Loadout/FilterActivated_5_0" value="1"/>
+ <Attr name="Loadout/FilterActivated_5_0" value="0"/>
  <Attr name="Loadout/FilterActivated_5_1" value="0"/>
  <Attr name="Loadout/FilterActivated_5_2" value="1"/>
  <Attr name="Loadout/FilterActivated_5_3" value="1"/>
  <Attr name="Loadout/FilterActivated_5_4" value="0"/>
  <Attr name="Loadout/FilterActivated_6_0" value="0"/>
  <Attr name="Loadout/FilterActivated_6_1" value="0"/>
- <Attr name="Loadout/FilterActivated_6_2" value="1"/>
+ <Attr name="Loadout/FilterActivated_6_2" value="0"/>
  <Attr name="Loadout/FilterActivated_6_3" value="1"/>
  <Attr name="Loadout/FilterActivated_6_4" value="0"/>
- <Attr name="Loadout/FilterActivated_7_0" value="1"/>
+ <Attr name="Loadout/FilterActivated_7_0" value="0"/>
  <Attr name="Loadout/FilterActivated_7_1" value="0"/>
  <Attr name="Loadout/FilterActivated_7_2" value="1"/>
  <Attr name="Loadout/FilterActivated_7_3" value="1"/>
  <Attr name="Loadout/FilterActivated_7_4" value="0"/>
  <Attr name="Loadout/FilterActivated_8_0" value="1"/>
- <Attr name="Loadout/FilterActivated_8_1" value="0"/>
- <Attr name="Loadout/FilterActivated_8_2" value="1"/>
+ <Attr name="Loadout/FilterActivated_8_1" value="1"/>
+ <Attr name="Loadout/FilterActivated_8_2" value="0"/>
  <Attr name="Loadout/FilterActivated_8_3" value="1"/>
  <Attr name="Loadout/FilterActivated_8_4" value="0"/>
  <Attr name="Loadout/FilterActivated_9_0" value="1"/>
@@ -1783,25 +1813,28 @@
  <Attr name="Loadout/FilterActivated_9_3" value="1"/>
  <Attr name="Loadout/FilterActivated_9_4" value="0"/>
  <Attr name="Loadout/LastSelectedLoadoutIndex" value="0"/>
- <Attr name="LongScopeMouseSensitivity" value="0.83"/>
+ <Attr name="LongScopeMouseSensitivity" value="0.38"/>
  <Attr name="Map Switcher" value="1"/>
  <Attr name="MasterVolume" value="1"/>
  <Attr name="MaxFPS" value="100"/>
- <Attr name="MediumScopeMouseSensitivity" value="0.96"/>
- <Attr name="MenuAmbienceVolume" value="1"/>
+ <Attr name="MediumScopeMouseSensitivity" value="0.71"/>
+ <Attr name="MenuAmbienceVolume" value="0.1"/>
  <Attr name="MotionBlur" value="0"/>
- <Attr name="MouseSensitivity" value="1.64"/>
+ <Attr name="MouseSensitivity" value="1.63"/>
  <Attr name="MouseSensitivityX" value="1"/>
  <Attr name="MouseSensitivityY" value="1"/>
- <Attr name="MusicVolume" value="0.09"/>
- <Attr name="NVidiaSuperRes" value="1"/>
+ <Attr name="MusicVolume" value="0.04"/>
+ <Attr name="NVidiaSuperRes" value="4"/>
  <Attr name="NewRecruitHealthAutoApply" value="1"/>
  <Attr name="NewRecruitHealthSetup" value="50,25,25,25,25"/>
+ <Attr name="NewsFeed/Item_ID117901" value="true"/>
+ <Attr name="NewsFeed/Item_ID118925" value="false"/>
+ <Attr name="NewsFeed/Item_ID128141" value="false"/>
  <Attr name="NewsFeed/Item_ID134285" value="true"/>
  <Attr name="NewsFeed/Item_ID145549" value="true"/>
  <Attr name="NewsFeed/Item_ID146996" value="true"/>
  <Attr name="NewsFeed/Item_ID147597" value="true"/>
- <Attr name="NewsFeed/Item_ID148621" value="false"/>
+ <Attr name="NewsFeed/Item_ID148621" value="true"/>
  <Attr name="NewsFeed/Item_ID149645" value="true"/>
  <Attr name="NewsFeed/Item_ID154765" value="true"/>
  <Attr name="NewsFeed/Item_ID156212" value="true"/>
@@ -1817,11 +1850,13 @@
  <Attr name="NewsFeed/Item_ID220301" value="true"/>
  <Attr name="NewsFeed/Item_ID236685" value="true"/>
  <Attr name="NewsFeed/Item_ID246925" value="true"/>
+ <Attr name="NewsFeed/Item_ID247949" value="true"/>
  <Attr name="NewsFeed/Item_ID257165" value="true"/>
  <Attr name="NewsFeed/Item_ID269453" value="true"/>
  <Attr name="NewsFeed/Item_ID277645" value="true"/>
  <Attr name="NewsFeed/Item_ID287885" value="true"/>
  <Attr name="NewsFeed/Item_ID288909" value="true"/>
+ <Attr name="NewsFeed/Item_ID289933" value="true"/>
  <Attr name="NewsFeed/Item_ID290356" value="true"/>
  <Attr name="NewsFeed/Item_ID290957" value="true"/>
  <Attr name="NewsFeed/Item_ID291981" value="true"/>
@@ -1844,6 +1879,7 @@
  <Attr name="NewsFeed/Item_ID337037" value="true"/>
  <Attr name="NewsFeed/Item_ID339085" value="false"/>
  <Attr name="NewsFeed/Item_ID349325" value="true"/>
+ <Attr name="NewsFeed/Item_ID359565" value="true"/>
  <Attr name="NewsFeed/Item_ID361613" value="true"/>
  <Attr name="NewsFeed/Item_ID362637" value="true"/>
  <Attr name="NewsFeed/Item_ID369805" value="true"/>
@@ -1853,6 +1889,7 @@
  <Attr name="NewsFeed/Item_ID382093" value="true"/>
  <Attr name="NewsFeed/Item_ID400525" value="true"/>
  <Attr name="NewsFeed/Item_ID401549" value="true"/>
+ <Attr name="NewsFeed/Item_ID410765" value="true"/>
  <Attr name="NewsFeed/Item_ID421005" value="true"/>
  <Attr name="NewsFeed/Item_ID422029" value="true"/>
  <Attr name="NewsFeed/Item_ID423053" value="true"/>
@@ -1864,16 +1901,20 @@
  <Attr name="NewsFeed/Item_ID430221" value="true"/>
  <Attr name="NewsFeed/Item_ID431245" value="true"/>
  <Attr name="NewsFeed/Item_ID432269" value="true"/>
+ <Attr name="NewsFeed/Item_ID435341" value="true"/>
  <Attr name="NewsFeed/Item_ID437389" value="true"/>
  <Attr name="NewsFeed/Item_ID438413" value="true"/>
  <Attr name="NewsFeed/Item_ID439437" value="true"/>
  <Attr name="NewsFeed/Item_ID440461" value="true"/>
  <Attr name="NewsFeed/Item_ID441485" value="true"/>
- <Attr name="NumActiveSkins" value="470"/>
- <Attr name="OptionBPIntroPopupLastShownTime" value="1737728757"/>
- <Attr name="PCLevelLoadingTimeCemetery" value="31"/>
+ <Attr name="NumActiveSkins" value="472"/>
+ <Attr name="ObjectivesOpacity" value="50"/>
+ <Attr name="OptOutFromStats" value="1"/>
+ <Attr name="OptionBPIntroPopupLastShownTime" value="1736790087"/>
+ <Attr name="OverscanScaling" value="80"/>
+ <Attr name="PCLevelLoadingTimeCemetery" value="32"/>
  <Attr name="PCLevelLoadingTimeCivilWar" value="30"/>
- <Attr name="PCLevelLoadingTimeMissionUnload" value="31"/>
+ <Attr name="PCLevelLoadingTimeMissionUnload" value="30"/>
  <Attr name="PC_aim_1" value="257"/>
  <Attr name="PC_aim_2" value="-1"/>
  <Attr name="PC_aim_ToggleMode" value="1"/>
@@ -1900,13 +1941,13 @@
  <Attr name="PC_darkvision_ToggleMode" value="1"/>
  <Attr name="PC_descent_1" value="28"/>
  <Attr name="PC_descent_2" value="-1"/>
- <Attr name="PC_inspect_1" value="22"/>
+ <Attr name="PC_inspect_1" value="45"/>
  <Attr name="PC_inspect_2" value="-1"/>
  <Attr name="PC_interact_1" value="32"/>
  <Attr name="PC_interact_2" value="-1"/>
- <Attr name="PC_item1_1" value="3"/>
+ <Attr name="PC_item1_1" value="260"/>
  <Attr name="PC_item1_2" value="-1"/>
- <Attr name="PC_item2_1" value="4"/>
+ <Attr name="PC_item2_1" value="14"/>
  <Attr name="PC_item2_2" value="-1"/>
  <Attr name="PC_item3_1" value="5"/>
  <Attr name="PC_item3_2" value="-1"/>
@@ -1922,7 +1963,7 @@
  <Attr name="PC_item8_2" value="-1"/>
  <Attr name="PC_jump_1" value="56"/>
  <Attr name="PC_jump_2" value="-1"/>
- <Attr name="PC_map_1" value="14"/>
+ <Attr name="PC_map_1" value="15"/>
  <Attr name="PC_map_2" value="-1"/>
  <Attr name="PC_map_ToggleMode" value="2"/>
  <Attr name="PC_meleeattack_1" value="46"/>
@@ -1945,7 +1986,7 @@
  <Attr name="PC_ping_marker_2" value="-1"/>
  <Attr name="PC_prevSlot_1" value="264"/>
  <Attr name="PC_prevSlot_2" value="-1"/>
- <Attr name="PC_pushtotalk_1" value="55"/>
+ <Attr name="PC_pushtotalk_1" value="43"/>
  <Attr name="PC_pushtotalk_2" value="-1"/>
  <Attr name="PC_pushtotalk_proximity_1" value="33"/>
  <Attr name="PC_pushtotalk_proximity_2" value="-1"/>
@@ -1970,7 +2011,7 @@
  <Attr name="PC_weapon2_2" value="-1"/>
  <Attr name="PC_weaponlight_1" value="44"/>
  <Attr name="PC_weaponlight_2" value="-1"/>
- <Attr name="PC_weaponnext_1" value="15"/>
+ <Attr name="PC_weaponnext_1" value="100"/>
  <Attr name="PC_weaponnext_2" value="-1"/>
  <Attr name="PS4_aim_1" value="1031"/>
  <Attr name="PS4_aim_2" value="-1"/>
@@ -2032,7 +2073,7 @@
  <Attr name="PVEModeLastSelected/cemetery" value="-1"/>
  <Attr name="PVEModeLastSelected/civilwar" value="-1"/>
  <Attr name="PVEModeLastSelected/creek" value="-1"/>
- <Attr name="PeepholeMouseSensitivity" value="1.21"/>
+ <Attr name="PeepholeMouseSensitivity" value="1.37"/>
  <Attr name="PerformanceStatVerbosity" value="2"/>
  <Attr name="Primary Region Switcher" value="eu"/>
  <Attr name="RealDialogueVolume" value="1"/>
@@ -2042,11 +2083,11 @@
  <Attr name="Resolution" value="16"/>
  <Attr name="SFXVolume" value="1"/>
  <Attr name="SceneBrightness" value="1"/>
- <Attr name="ShortScopeMouseSensitivity" value="1.21"/>
+ <Attr name="ShortScopeMouseSensitivity" value="0.7"/>
  <Attr name="Shoulder Aim Input Switcher" value="0"/>
  <Attr name="ShowAdditionalHintBanners" value="0"/>
  <Attr name="Sprint Switcher" value="0"/>
- <Attr name="SuperResolutionMode" value="2"/>
+ <Attr name="SuperResolutionSharpness" value="1"/>
  <Attr name="SysSpec" value="0"/>
  <Attr name="SysSpecEffects" value="2"/>
  <Attr name="SysSpecFog" value="2"/>
@@ -2068,15 +2109,15 @@
  <Attr name="UIHuntersTabSeenBefore" value="1"/>
  <Attr name="UISkipTraitApplyConfirm" value="1"/>
  <Attr name="UIStoreTabSeenBefore" value="1"/>
- <Attr name="Unlocks/0/12370625661436196" value="0"/>
+ <Attr name="Unlocks/0/12370625661436196" value="16"/>
  <Attr name="Unlocks/0/12370625661632806" value="0"/>
  <Attr name="Unlocks/0/13209620978419463" value="8"/>
  <Attr name="Unlocks/0/13209622955837464" value="10"/>
  <Attr name="Unlocks/0/13209625510627623" value="10"/>
- <Attr name="Unlocks/0/13209626186435059" value="8"/>
+ <Attr name="Unlocks/0/13209626186435059" value="10"/>
  <Attr name="Unlocks/0/13209627508165790" value="10"/>
  <Attr name="Unlocks/0/13209628250164516" value="10"/>
- <Attr name="Unlocks/0/13209634370375292" value="10"/>
+ <Attr name="Unlocks/0/13209634370375292" value="8"/>
  <Attr name="Unlocks/0/13209634370768510" value="10"/>
  <Attr name="Unlocks/0/13209634373848704" value="10"/>
  <Attr name="Unlocks/0/13209644128228092" value="8"/>
@@ -2084,7 +2125,7 @@
  <Attr name="Unlocks/0/13209644776706910" value="10"/>
  <Attr name="Unlocks/0/1378787651026945" value="0"/>
  <Attr name="Unlocks/0/1378787651026947" value="0"/>
- <Attr name="Unlocks/0/1378787651026948" value="16"/>
+ <Attr name="Unlocks/0/1378787651026948" value="0"/>
  <Attr name="Unlocks/0/1378787651026949" value="0"/>
  <Attr name="Unlocks/0/1378787651026950" value="0"/>
  <Attr name="Unlocks/0/1378787651026952" value="0"/>
@@ -2097,7 +2138,7 @@
  <Attr name="Unlocks/0/1378787651026959" value="0"/>
  <Attr name="Unlocks/0/1378787651026960" value="0"/>
  <Attr name="Unlocks/0/1378787651026962" value="0"/>
- <Attr name="Unlocks/0/1378787651026963" value="0"/>
+ <Attr name="Unlocks/0/1378787651026963" value="16"/>
  <Attr name="Unlocks/0/1378787651092500" value="0"/>
  <Attr name="Unlocks/0/1378787651092502" value="0"/>
  <Attr name="Unlocks/0/1378787651092503" value="0"/>
@@ -2108,7 +2149,7 @@
  <Attr name="Unlocks/0/1378787651092508" value="0"/>
  <Attr name="Unlocks/0/1378787651092509" value="0"/>
  <Attr name="Unlocks/0/1378787651092510" value="0"/>
- <Attr name="Unlocks/0/1378787651092511" value="0"/>
+ <Attr name="Unlocks/0/1378787651092511" value="16"/>
  <Attr name="Unlocks/0/1378787651092512" value="0"/>
  <Attr name="Unlocks/0/1378787651092513" value="0"/>
  <Attr name="Unlocks/0/1378787651092514" value="0"/>
@@ -2122,12 +2163,12 @@
  <Attr name="Unlocks/0/1378787651092523" value="0"/>
  <Attr name="Unlocks/0/1378787651092524" value="0"/>
  <Attr name="Unlocks/0/1378787651092526" value="0"/>
- <Attr name="Unlocks/0/1378787651092527" value="0"/>
+ <Attr name="Unlocks/0/1378787651092527" value="16"/>
  <Attr name="Unlocks/0/1378787651092528" value="0"/>
  <Attr name="Unlocks/0/1378787651092530" value="0"/>
- <Attr name="Unlocks/0/1378787651092531" value="0"/>
+ <Attr name="Unlocks/0/1378787651092531" value="16"/>
  <Attr name="Unlocks/0/1378787651092534" value="0"/>
- <Attr name="Unlocks/0/1378787651092535" value="0"/>
+ <Attr name="Unlocks/0/1378787651092535" value="16"/>
  <Attr name="Unlocks/0/1378787651092536" value="0"/>
  <Attr name="Unlocks/0/1378787651092541" value="0"/>
  <Attr name="Unlocks/0/1378787651092544" value="0"/>
@@ -2137,22 +2178,22 @@
  <Attr name="Unlocks/0/1378821624169040" value="0"/>
  <Attr name="Unlocks/0/1378959885228491" value="10"/>
  <Attr name="Unlocks/0/1378959947553228" value="10"/>
- <Attr name="Unlocks/0/14132076340052607" value="0"/>
+ <Attr name="Unlocks/0/14132076340052607" value="16"/>
  <Attr name="Unlocks/0/14132108616090631" value="0"/>
  <Attr name="Unlocks/0/14132126731358031" value="0"/>
  <Attr name="Unlocks/0/14132186100554125" value="0"/>
  <Attr name="Unlocks/0/14132186100554127" value="0"/>
- <Attr name="Unlocks/0/17090976486611370" value="10"/>
+ <Attr name="Unlocks/0/17090976486611370" value="8"/>
  <Attr name="Unlocks/0/17090976584063407" value="10"/>
  <Attr name="Unlocks/0/17090976867375539" value="10"/>
  <Attr name="Unlocks/0/17090977241520566" value="10"/>
  <Attr name="Unlocks/0/17090977628772793" value="8"/>
- <Attr name="Unlocks/0/17090978300647868" value="10"/>
+ <Attr name="Unlocks/0/17090978300647868" value="8"/>
  <Attr name="Unlocks/0/17090978492209600" value="10"/>
  <Attr name="Unlocks/0/17090978858424772" value="10"/>
  <Attr name="Unlocks/0/17090979901364680" value="10"/>
  <Attr name="Unlocks/0/17883558549258362" value="0"/>
- <Attr name="Unlocks/0/17883558549258363" value="0"/>
+ <Attr name="Unlocks/0/17883558549258363" value="16"/>
  <Attr name="Unlocks/0/17883558549258364" value="0"/>
  <Attr name="Unlocks/0/17883558553190521" value="0"/>
  <Attr name="Unlocks/0/17883558553452669" value="0"/>
@@ -2160,16 +2201,16 @@
  <Attr name="Unlocks/0/17883563686887552" value="0"/>
  <Attr name="Unlocks/0/17883575485727002" value="0"/>
  <Attr name="Unlocks/0/17883576968413476" value="0"/>
- <Attr name="Unlocks/0/17883586593292857" value="0"/>
+ <Attr name="Unlocks/0/17883586593292857" value="16"/>
  <Attr name="Unlocks/0/17883598976189033" value="0"/>
  <Attr name="Unlocks/0/17883609834586746" value="0"/>
  <Attr name="Unlocks/0/17883609834586747" value="0"/>
  <Attr name="Unlocks/0/17883620208543878" value="10"/>
  <Attr name="Unlocks/0/17883620210051208" value="10"/>
  <Attr name="Unlocks/0/17883620210378890" value="10"/>
- <Attr name="Unlocks/0/17883620211951757" value="8"/>
+ <Attr name="Unlocks/0/17883620211951757" value="10"/>
  <Attr name="Unlocks/0/17883620212476047" value="0"/>
- <Attr name="Unlocks/0/17883620213196945" value="10"/>
+ <Attr name="Unlocks/0/17883620213196945" value="8"/>
  <Attr name="Unlocks/0/17883620214638739" value="10"/>
  <Attr name="Unlocks/0/17883620215163029" value="10"/>
  <Attr name="Unlocks/0/17883620215752855" value="0"/>
@@ -2180,22 +2221,22 @@
  <Attr name="Unlocks/0/17883620217850017" value="10"/>
  <Attr name="Unlocks/0/17883620218243235" value="10"/>
  <Attr name="Unlocks/0/17883620218636454" value="10"/>
- <Attr name="Unlocks/0/17883620219029671" value="10"/>
+ <Attr name="Unlocks/0/17883620219029671" value="8"/>
  <Attr name="Unlocks/0/17883633045684267" value="0"/>
  <Attr name="Unlocks/0/17883666924327534" value="0"/>
  <Attr name="Unlocks/0/20907450154549248" value="0"/>
- <Attr name="Unlocks/0/20907455825838080" value="0"/>
+ <Attr name="Unlocks/0/20907455825838080" value="16"/>
  <Attr name="Unlocks/0/20907455830622208" value="0"/>
- <Attr name="Unlocks/0/20907456089096192" value="0"/>
+ <Attr name="Unlocks/0/20907456089096192" value="16"/>
  <Attr name="Unlocks/0/25265846218611126" value="0"/>
  <Attr name="Unlocks/0/25265846220511671" value="0"/>
- <Attr name="Unlocks/0/25265849799498191" value="2"/>
+ <Attr name="Unlocks/0/25265849799498191" value="0"/>
  <Attr name="Unlocks/0/25265849799563728" value="0"/>
  <Attr name="Unlocks/0/25265853839334070" value="0"/>
  <Attr name="Unlocks/0/25265853840906936" value="0"/>
  <Attr name="Unlocks/0/25265856697490580" value="2"/>
  <Attr name="Unlocks/0/25265856697621653" value="0"/>
- <Attr name="Unlocks/0/25265856697621654" value="2"/>
+ <Attr name="Unlocks/0/25265856697621654" value="0"/>
  <Attr name="Unlocks/0/25265868399664720" value="0"/>
  <Attr name="Unlocks/0/25265868399861330" value="0"/>
  <Attr name="Unlocks/0/25265868400516695" value="0"/>
@@ -2203,63 +2244,63 @@
  <Attr name="Unlocks/0/25265868401237593" value="0"/>
  <Attr name="Unlocks/0/25265902723591478" value="0"/>
  <Attr name="Unlocks/0/26996360858174065" value="0"/>
- <Attr name="Unlocks/0/26996392855487216" value="10"/>
+ <Attr name="Unlocks/0/26996392855487216" value="8"/>
  <Attr name="Unlocks/0/26996397374129927" value="10"/>
  <Attr name="Unlocks/0/26996398509672335" value="10"/>
  <Attr name="Unlocks/0/26996399369963679" value="10"/>
  <Attr name="Unlocks/0/26996401830971619" value="10"/>
- <Attr name="Unlocks/0/26996402773183167" value="10"/>
+ <Attr name="Unlocks/0/26996402773183167" value="8"/>
  <Attr name="Unlocks/0/26996405412121894" value="10"/>
- <Attr name="Unlocks/0/26996421267248015" value="10"/>
- <Attr name="Unlocks/0/26996432483997172" value="10"/>
+ <Attr name="Unlocks/0/26996421267248015" value="8"/>
+ <Attr name="Unlocks/0/26996432483997172" value="8"/>
  <Attr name="Unlocks/0/26996433803957794" value="10"/>
  <Attr name="Unlocks/0/26996442393827437" value="10"/>
- <Attr name="Unlocks/0/26996477394770354" value="8"/>
- <Attr name="Unlocks/0/26996478056487350" value="8"/>
+ <Attr name="Unlocks/0/26996477394770354" value="10"/>
+ <Attr name="Unlocks/0/26996478056487350" value="10"/>
  <Attr name="Unlocks/0/27951858461654670" value="0"/>
- <Attr name="Unlocks/0/27951871578490276" value="10"/>
+ <Attr name="Unlocks/0/27951871578490276" value="8"/>
  <Attr name="Unlocks/0/27951871580063141" value="10"/>
- <Attr name="Unlocks/0/27951871581963686" value="10"/>
+ <Attr name="Unlocks/0/27951871581963686" value="8"/>
  <Attr name="Unlocks/0/27951871582946729" value="10"/>
  <Attr name="Unlocks/0/27951871583208874" value="10"/>
  <Attr name="Unlocks/0/27951871583405483" value="10"/>
- <Attr name="Unlocks/0/27951871583602092" value="10"/>
+ <Attr name="Unlocks/0/27951871583602092" value="26"/>
  <Attr name="Unlocks/0/27951871584781742" value="10"/>
  <Attr name="Unlocks/0/27951877519788395" value="2"/>
  <Attr name="Unlocks/0/27951878840011664" value="2"/>
  <Attr name="Unlocks/0/27951878840077201" value="2"/>
  <Attr name="Unlocks/0/27951878840142738" value="2"/>
  <Attr name="Unlocks/0/27951889292873686" value="0"/>
- <Attr name="Unlocks/0/27951889293004759" value="2"/>
+ <Attr name="Unlocks/0/27951889293004759" value="0"/>
  <Attr name="Unlocks/0/27951889293070296" value="0"/>
  <Attr name="Unlocks/0/27951889293397977" value="0"/>
  <Attr name="Unlocks/0/27951889293463514" value="0"/>
  <Attr name="Unlocks/0/27951889293463515" value="0"/>
- <Attr name="Unlocks/0/27951889293529052" value="2"/>
+ <Attr name="Unlocks/0/27951889293529052" value="0"/>
  <Attr name="Unlocks/0/27951889293594589" value="0"/>
  <Attr name="Unlocks/0/27951889293594590" value="0"/>
  <Attr name="Unlocks/0/27951889293660127" value="0"/>
  <Attr name="Unlocks/0/27951889293725665" value="0"/>
- <Attr name="Unlocks/0/27951889293791203" value="2"/>
- <Attr name="Unlocks/0/27951889293987814" value="2"/>
+ <Attr name="Unlocks/0/27951889293791203" value="0"/>
+ <Attr name="Unlocks/0/27951889293987814" value="0"/>
  <Attr name="Unlocks/0/27951889294053351" value="0"/>
  <Attr name="Unlocks/0/27951889294118889" value="0"/>
  <Attr name="Unlocks/0/27951889294184427" value="0"/>
  <Attr name="Unlocks/0/27951889294184428" value="0"/>
  <Attr name="Unlocks/0/27951889294249965" value="0"/>
- <Attr name="Unlocks/0/27951889294512113" value="2"/>
+ <Attr name="Unlocks/0/27951889294512113" value="0"/>
  <Attr name="Unlocks/0/27951889294577650" value="0"/>
- <Attr name="Unlocks/0/27951889294577651" value="2"/>
+ <Attr name="Unlocks/0/27951889294577651" value="0"/>
  <Attr name="Unlocks/0/27951889294643188" value="0"/>
  <Attr name="Unlocks/0/27951889294643189" value="0"/>
  <Attr name="Unlocks/0/27951889294708726" value="0"/>
- <Attr name="Unlocks/0/27951889294708727" value="2"/>
- <Attr name="Unlocks/0/27951889294774264" value="2"/>
- <Attr name="Unlocks/0/27951889294774265" value="2"/>
+ <Attr name="Unlocks/0/27951889294708727" value="0"/>
+ <Attr name="Unlocks/0/27951889294774264" value="0"/>
+ <Attr name="Unlocks/0/27951889294774265" value="0"/>
  <Attr name="Unlocks/0/27951889294905341" value="0"/>
  <Attr name="Unlocks/0/27951889295298562" value="0"/>
- <Attr name="Unlocks/0/27951889295364099" value="16"/>
- <Attr name="Unlocks/0/27951889295364100" value="2"/>
+ <Attr name="Unlocks/0/27951889295364099" value="0"/>
+ <Attr name="Unlocks/0/27951889295364100" value="0"/>
  <Attr name="Unlocks/0/27951889295429637" value="0"/>
  <Attr name="Unlocks/0/27951889295429638" value="0"/>
  <Attr name="Unlocks/0/27951889295495175" value="0"/>
@@ -2275,18 +2316,18 @@
  <Attr name="Unlocks/0/27951889296412691" value="0"/>
  <Attr name="Unlocks/0/27951889296412692" value="0"/>
  <Attr name="Unlocks/0/27951889296478229" value="0"/>
- <Attr name="Unlocks/0/27951889296478230" value="2"/>
- <Attr name="Unlocks/0/27951889485549663" value="2"/>
- <Attr name="Unlocks/0/27951889485549664" value="2"/>
- <Attr name="Unlocks/0/27951889492758625" value="2"/>
- <Attr name="Unlocks/0/27951889492824162" value="2"/>
- <Attr name="Unlocks/0/27951890157752659" value="10"/>
- <Attr name="Unlocks/0/27951890157752660" value="10"/>
+ <Attr name="Unlocks/0/27951889296478230" value="0"/>
+ <Attr name="Unlocks/0/27951889485549663" value="0"/>
+ <Attr name="Unlocks/0/27951889485549664" value="0"/>
+ <Attr name="Unlocks/0/27951889492758625" value="0"/>
+ <Attr name="Unlocks/0/27951889492824162" value="0"/>
+ <Attr name="Unlocks/0/27951890157752659" value="8"/>
+ <Attr name="Unlocks/0/27951890157752660" value="8"/>
  <Attr name="Unlocks/0/27951890158276951" value="10"/>
  <Attr name="Unlocks/0/27951890158276952" value="10"/>
  <Attr name="Unlocks/0/27951890158473562" value="10"/>
  <Attr name="Unlocks/0/27951890158473563" value="10"/>
- <Attr name="Unlocks/0/27951894883816044" value="2"/>
+ <Attr name="Unlocks/0/27951894883816044" value="0"/>
  <Attr name="Unlocks/0/27951894883816045" value="0"/>
  <Attr name="Unlocks/0/27951898830459888" value="0"/>
  <Attr name="Unlocks/0/27951898830590961" value="0"/>
@@ -2297,7 +2338,7 @@
  <Attr name="Unlocks/0/27951902520988789" value="10"/>
  <Attr name="Unlocks/0/27951902523872376" value="10"/>
  <Attr name="Unlocks/0/27951904020124885" value="10"/>
- <Attr name="Unlocks/0/27951904020387030" value="10"/>
+ <Attr name="Unlocks/0/27951904020387030" value="8"/>
  <Attr name="Unlocks/0/27951904020583639" value="10"/>
  <Attr name="Unlocks/0/27951904020714712" value="10"/>
  <Attr name="Unlocks/0/27951904020845785" value="10"/>
@@ -2306,7 +2347,7 @@
  <Attr name="Unlocks/0/27951910065624704" value="0"/>
  <Attr name="Unlocks/0/27951910645749423" value="0"/>
  <Attr name="Unlocks/0/27951910645880498" value="0"/>
- <Attr name="Unlocks/0/27951910646273716" value="2"/>
+ <Attr name="Unlocks/0/27951910646273716" value="0"/>
  <Attr name="Unlocks/0/27951910646404790" value="0"/>
  <Attr name="Unlocks/0/27951910646601400" value="0"/>
  <Attr name="Unlocks/0/27951910646732474" value="0"/>
@@ -2330,7 +2371,7 @@
  <Attr name="Unlocks/0/27951924494096528" value="0"/>
  <Attr name="Unlocks/0/27951924497701012" value="2"/>
  <Attr name="Unlocks/0/27951924497766549" value="0"/>
- <Attr name="Unlocks/0/27951925092702360" value="10"/>
+ <Attr name="Unlocks/0/27951925092702360" value="8"/>
  <Attr name="Unlocks/0/27951925092833433" value="10"/>
  <Attr name="Unlocks/0/27951925824084127" value="10"/>
  <Attr name="Unlocks/0/27951925824280736" value="10"/>
@@ -2344,9 +2385,9 @@
  <Attr name="Unlocks/0/27951927621867701" value="10"/>
  <Attr name="Unlocks/0/27951927703722169" value="10"/>
  <Attr name="Unlocks/0/27951927711717562" value="0"/>
- <Attr name="Unlocks/0/27951927711914171" value="8"/>
- <Attr name="Unlocks/0/27951927712110780" value="10"/>
- <Attr name="Unlocks/0/27951927712372925" value="10"/>
+ <Attr name="Unlocks/0/27951927711914171" value="10"/>
+ <Attr name="Unlocks/0/27951927712110780" value="8"/>
+ <Attr name="Unlocks/0/27951927712372925" value="8"/>
  <Attr name="Unlocks/0/27951927893317826" value="10"/>
  <Attr name="Unlocks/0/27951930918394080" value="0"/>
  <Attr name="Unlocks/0/27951930918590689" value="0"/>
@@ -2360,31 +2401,31 @@
  <Attr name="Unlocks/0/27951931586140395" value="2"/>
  <Attr name="Unlocks/0/27951931586402540" value="2"/>
  <Attr name="Unlocks/0/27951931861719279" value="10"/>
- <Attr name="Unlocks/0/27951931881576689" value="8"/>
- <Attr name="Unlocks/0/27951931881773298" value="10"/>
+ <Attr name="Unlocks/0/27951931881576689" value="10"/>
+ <Attr name="Unlocks/0/27951931881773298" value="8"/>
  <Attr name="Unlocks/0/27951931881904371" value="2"/>
  <Attr name="Unlocks/0/27951931882428660" value="10"/>
  <Attr name="Unlocks/0/27951933202651391" value="0"/>
- <Attr name="Unlocks/0/27951933202651392" value="2"/>
- <Attr name="Unlocks/0/27951933750335743" value="10"/>
+ <Attr name="Unlocks/0/27951933202651392" value="0"/>
+ <Attr name="Unlocks/0/27951933750335743" value="8"/>
  <Attr name="Unlocks/0/27951936865065278" value="10"/>
- <Attr name="Unlocks/0/27951936865392959" value="10"/>
+ <Attr name="Unlocks/0/27951936865392959" value="8"/>
  <Attr name="Unlocks/0/27951936865851712" value="10"/>
  <Attr name="Unlocks/0/27951936867424578" value="10"/>
- <Attr name="Unlocks/0/27951936867424579" value="8"/>
- <Attr name="Unlocks/0/27951936869718340" value="10"/>
+ <Attr name="Unlocks/0/27951936867424579" value="10"/>
+ <Attr name="Unlocks/0/27951936869718340" value="8"/>
  <Attr name="Unlocks/0/27951936883218757" value="10"/>
  <Attr name="Unlocks/0/27951937237113164" value="10"/>
  <Attr name="Unlocks/0/27951937237244237" value="10"/>
- <Attr name="Unlocks/0/27951939603093859" value="10"/>
+ <Attr name="Unlocks/0/27951939603093859" value="8"/>
  <Attr name="Unlocks/0/27951940365539694" value="8"/>
  <Attr name="Unlocks/0/27951940445362545" value="10"/>
  <Attr name="Unlocks/0/27951940445821298" value="10"/>
  <Attr name="Unlocks/0/27951940446083443" value="10"/>
- <Attr name="Unlocks/0/27951944215452023" value="10"/>
+ <Attr name="Unlocks/0/27951944215452023" value="8"/>
  <Attr name="Unlocks/0/27951944215583096" value="10"/>
  <Attr name="Unlocks/0/27951944215779705" value="10"/>
- <Attr name="Unlocks/0/27951944315722108" value="10"/>
+ <Attr name="Unlocks/0/27951944315722108" value="8"/>
  <Attr name="Unlocks/0/27951944316049789" value="10"/>
  <Attr name="Unlocks/0/27951944335251838" value="0"/>
  <Attr name="Unlocks/0/27951944408324481" value="0"/>
@@ -2412,23 +2453,23 @@
  <Attr name="Unlocks/0/34002557286504836" value="2"/>
  <Attr name="Unlocks/0/34002563616233891" value="2"/>
  <Attr name="Unlocks/0/34002563641530790" value="2"/>
- <Attr name="Unlocks/0/34002571153201807" value="2"/>
- <Attr name="Unlocks/0/34002571153398416" value="2"/>
- <Attr name="Unlocks/0/34002571153529489" value="2"/>
- <Attr name="Unlocks/0/34002571153857170" value="2"/>
+ <Attr name="Unlocks/0/34002571153201807" value="0"/>
+ <Attr name="Unlocks/0/34002571153398416" value="0"/>
+ <Attr name="Unlocks/0/34002571153529489" value="0"/>
+ <Attr name="Unlocks/0/34002571153857170" value="0"/>
  <Attr name="Unlocks/0/34002587420155470" value="0"/>
  <Attr name="Unlocks/0/34002589088243298" value="0"/>
  <Attr name="Unlocks/0/34002589088243299" value="0"/>
- <Attr name="Unlocks/0/34002605730393988" value="0"/>
+ <Attr name="Unlocks/0/34002605730393988" value="16"/>
  <Attr name="Unlocks/0/34002621550812850" value="0"/>
- <Attr name="Unlocks/0/34002633546203136" value="16"/>
+ <Attr name="Unlocks/0/34002633546203136" value="0"/>
  <Attr name="Unlocks/0/34002636680986624" value="0"/>
  <Attr name="Unlocks/0/34002636741410816" value="0"/>
  <Attr name="Unlocks/0/34002636742590464" value="0"/>
  <Attr name="Unlocks/0/34002636742983680" value="0"/>
  <Attr name="Unlocks/0/34002637173555200" value="0"/>
- <Attr name="Unlocks/0/34002637973487616" value="2"/>
- <Attr name="Unlocks/0/34615958782935634" value="16"/>
+ <Attr name="Unlocks/0/34002637973487616" value="0"/>
+ <Attr name="Unlocks/0/34615958782935634" value="0"/>
  <Attr name="Unlocks/0/34615959357424211" value="0"/>
  <Attr name="Unlocks/0/34615960216404564" value="0"/>
  <Attr name="Unlocks/0/34615962013336149" value="0"/>
@@ -2439,20 +2480,20 @@
  <Attr name="Unlocks/0/34616004847681789" value="0"/>
  <Attr name="Unlocks/0/34616004847812863" value="0"/>
  <Attr name="Unlocks/0/34616004848337153" value="0"/>
- <Attr name="Unlocks/0/34616007206650228" value="10"/>
+ <Attr name="Unlocks/0/34616007206650228" value="8"/>
  <Attr name="Unlocks/0/34616007506739642" value="0"/>
- <Attr name="Unlocks/0/34616007781204480" value="10"/>
+ <Attr name="Unlocks/0/34616007781204480" value="8"/>
  <Attr name="Unlocks/0/34616008894137142" value="10"/>
  <Attr name="Unlocks/0/34616009088779132" value="10"/>
  <Attr name="Unlocks/0/34616009481077699" value="10"/>
- <Attr name="Unlocks/0/34616009763406786" value="10"/>
+ <Attr name="Unlocks/0/34616009763406786" value="8"/>
  <Attr name="Unlocks/0/34616010339599369" value="10"/>
  <Attr name="Unlocks/0/34616010509468748" value="10"/>
  <Attr name="Unlocks/0/34616010807854293" value="0"/>
- <Attr name="Unlocks/0/34616010887546138" value="8"/>
- <Attr name="Unlocks/0/34616011159389535" value="8"/>
+ <Attr name="Unlocks/0/34616010887546138" value="10"/>
+ <Attr name="Unlocks/0/34616011159389535" value="10"/>
  <Attr name="Unlocks/0/34616011752228471" value="8"/>
- <Attr name="Unlocks/0/34616011756881531" value="10"/>
+ <Attr name="Unlocks/0/34616011756881531" value="8"/>
  <Attr name="Unlocks/0/34616011757143677" value="10"/>
  <Attr name="Unlocks/0/34616011825825473" value="0"/>
  <Attr name="Unlocks/0/34616011826022083" value="8"/>
@@ -2476,7 +2517,7 @@
  <Attr name="Unlocks/0/34616030079373578" value="10"/>
  <Attr name="Unlocks/0/34616030080684299" value="2"/>
  <Attr name="Unlocks/0/34616030123413839" value="10"/>
- <Attr name="Unlocks/0/34616030125510993" value="10"/>
+ <Attr name="Unlocks/0/34616030125510993" value="8"/>
  <Attr name="Unlocks/0/34616031282418149" value="0"/>
  <Attr name="Unlocks/0/34616033349423657" value="10"/>
  <Attr name="Unlocks/0/34616036547449643" value="0"/>
@@ -2484,7 +2525,7 @@
  <Attr name="Unlocks/0/34616036941648832" value="10"/>
  <Attr name="Unlocks/0/34616053049743179" value="10"/>
  <Attr name="Unlocks/0/34616055219115900" value="10"/>
- <Attr name="Unlocks/0/34616055219115901" value="10"/>
+ <Attr name="Unlocks/0/34616055219115901" value="8"/>
  <Attr name="Unlocks/0/34616055219115902" value="10"/>
  <Attr name="Unlocks/0/34616057427744836" value="10"/>
  <Attr name="Unlocks/0/34616064281630853" value="0"/>
@@ -2496,7 +2537,7 @@
  <Attr name="Unlocks/0/34616072621742328" value="10"/>
  <Attr name="Unlocks/0/34616072927074556" value="10"/>
  <Attr name="Unlocks/0/34616077035788617" value="10"/>
- <Attr name="Unlocks/0/3894645680921286" value="10"/>
+ <Attr name="Unlocks/0/3894645680921286" value="8"/>
  <Attr name="Unlocks/0/3894645681773259" value="8"/>
  <Attr name="Unlocks/0/3894646513359567" value="10"/>
  <Attr name="Unlocks/0/3894646513490640" value="10"/>
@@ -2505,26 +2546,26 @@
  <Attr name="Unlocks/0/3894646513621715" value="10"/>
  <Attr name="Unlocks/0/3894646520765144" value="8"/>
  <Attr name="Unlocks/0/3894646521027292" value="8"/>
- <Attr name="Unlocks/0/3894646521092830" value="10"/>
+ <Attr name="Unlocks/0/3894646521092830" value="8"/>
  <Attr name="Unlocks/0/3894646602029795" value="0"/>
- <Attr name="Unlocks/0/3894646602029797" value="2"/>
- <Attr name="Unlocks/0/3894647072709354" value="10"/>
- <Attr name="Unlocks/0/3894647923628792" value="2"/>
+ <Attr name="Unlocks/0/3894646602029797" value="0"/>
+ <Attr name="Unlocks/0/3894647072709354" value="8"/>
+ <Attr name="Unlocks/0/3894647923628792" value="0"/>
  <Attr name="Unlocks/0/3894647923628793" value="0"/>
- <Attr name="Unlocks/0/3894647929527035" value="10"/>
- <Attr name="Unlocks/0/3894647929658109" value="10"/>
+ <Attr name="Unlocks/0/3894647929527035" value="8"/>
+ <Attr name="Unlocks/0/3894647929658109" value="8"/>
  <Attr name="Unlocks/0/3894647929723647" value="10"/>
  <Attr name="Unlocks/0/3894647930247937" value="10"/>
  <Attr name="Unlocks/0/3894647930379011" value="8"/>
- <Attr name="Unlocks/0/3894647930706693" value="10"/>
- <Attr name="Unlocks/0/3894647953644308" value="10"/>
+ <Attr name="Unlocks/0/3894647930706693" value="8"/>
+ <Attr name="Unlocks/0/3894647953644308" value="8"/>
  <Attr name="Unlocks/0/3894647953971992" value="10"/>
  <Attr name="Unlocks/0/3894647954168602" value="10"/>
  <Attr name="Unlocks/0/3894647954299676" value="10"/>
  <Attr name="Unlocks/0/3894647954430751" value="10"/>
  <Attr name="Unlocks/0/3894647954430752" value="10"/>
- <Attr name="Unlocks/0/3894648226994991" value="10"/>
- <Attr name="Unlocks/0/3894648227584818" value="10"/>
+ <Attr name="Unlocks/0/3894648226994991" value="8"/>
+ <Attr name="Unlocks/0/3894648227584818" value="8"/>
  <Attr name="Unlocks/0/3894648301574979" value="10"/>
  <Attr name="Unlocks/0/3894648500476754" value="10"/>
  <Attr name="Unlocks/0/3894648979151919" value="10"/>
@@ -2542,8 +2583,8 @@
  <Attr name="Unlocks/0/3894653518634277" value="0"/>
  <Attr name="Unlocks/0/3894653521255718" value="0"/>
  <Attr name="Unlocks/0/3894653898153332" value="8"/>
- <Attr name="Unlocks/0/3894653898349942" value="10"/>
- <Attr name="Unlocks/0/3894653898415480" value="10"/>
+ <Attr name="Unlocks/0/3894653898349942" value="8"/>
+ <Attr name="Unlocks/0/3894653898415480" value="8"/>
  <Attr name="Unlocks/0/3894653898546554" value="10"/>
  <Attr name="Unlocks/0/3894653898808700" value="10"/>
  <Attr name="Unlocks/0/3894653899005310" value="10"/>
@@ -2551,11 +2592,11 @@
  <Attr name="Unlocks/0/3894657661623697" value="10"/>
  <Attr name="Unlocks/0/3894658231328207" value="10"/>
  <Attr name="Unlocks/0/3894658231459281" value="10"/>
- <Attr name="Unlocks/0/3894658231852537" value="10"/>
+ <Attr name="Unlocks/0/3894658231852537" value="8"/>
  <Attr name="Unlocks/0/3894658231918075" value="10"/>
  <Attr name="Unlocks/0/3894658232376829" value="10"/>
- <Attr name="Unlocks/0/3894658232573439" value="10"/>
- <Attr name="Unlocks/0/3894658233687555" value="10"/>
+ <Attr name="Unlocks/0/3894658232573439" value="8"/>
+ <Attr name="Unlocks/0/3894658233687555" value="8"/>
  <Attr name="Unlocks/0/3894658234015269" value="10"/>
  <Attr name="Unlocks/0/3894658884525637" value="10"/>
  <Attr name="Unlocks/0/3894660971978314" value="0"/>
@@ -2567,14 +2608,14 @@
  <Attr name="Unlocks/0/3894662845455991" value="0"/>
  <Attr name="Unlocks/0/3894662945005180" value="10"/>
  <Attr name="Unlocks/0/3894662950706830" value="10"/>
- <Attr name="Unlocks/0/3894662951886480" value="8"/>
- <Attr name="Unlocks/0/3894662956015289" value="10"/>
+ <Attr name="Unlocks/0/3894662951886480" value="10"/>
+ <Attr name="Unlocks/0/3894662956015289" value="8"/>
  <Attr name="Unlocks/0/3894662956146363" value="8"/>
- <Attr name="Unlocks/0/3894662956277437" value="10"/>
- <Attr name="Unlocks/0/3894663034134214" value="10"/>
+ <Attr name="Unlocks/0/3894662956277437" value="8"/>
+ <Attr name="Unlocks/0/3894663034134214" value="8"/>
  <Attr name="Unlocks/0/3894663038590664" value="8"/>
  <Attr name="Unlocks/0/3894663038787274" value="10"/>
- <Attr name="Unlocks/0/3894663039114956" value="10"/>
+ <Attr name="Unlocks/0/3894663039114956" value="8"/>
  <Attr name="Unlocks/0/3894663039311566" value="8"/>
  <Attr name="Unlocks/0/3894663039508176" value="10"/>
  <Attr name="Unlocks/0/3894663039704786" value="10"/>
@@ -2586,7 +2627,7 @@
  <Attr name="Unlocks/0/3894663051894526" value="10"/>
  <Attr name="Unlocks/0/3894663052091136" value="10"/>
  <Attr name="Unlocks/0/3894663052156674" value="0"/>
- <Attr name="Unlocks/0/3894663052418820" value="10"/>
+ <Attr name="Unlocks/0/3894663052418820" value="8"/>
  <Attr name="Unlocks/0/3894664066326297" value="0"/>
  <Attr name="Unlocks/0/3894664348786468" value="10"/>
  <Attr name="Unlocks/0/3894664348917543" value="10"/>
@@ -2610,7 +2651,7 @@
  <Attr name="Unlocks/0/3894670692999343" value="0"/>
  <Attr name="Unlocks/0/3894670783963316" value="0"/>
  <Attr name="Unlocks/0/3894670784290998" value="0"/>
- <Attr name="Unlocks/0/3894671443976458" value="8"/>
+ <Attr name="Unlocks/0/3894671443976458" value="10"/>
  <Attr name="Unlocks/0/3894671520653585" value="10"/>
  <Attr name="Unlocks/0/3894671521440019" value="10"/>
  <Attr name="Unlocks/0/3894671522881813" value="10"/>
@@ -2618,17 +2659,17 @@
  <Attr name="Unlocks/0/3894671523930393" value="8"/>
  <Attr name="Unlocks/0/3894671524585755" value="8"/>
  <Attr name="Unlocks/0/3894671529238818" value="8"/>
- <Attr name="Unlocks/0/3894671529763108" value="10"/>
+ <Attr name="Unlocks/0/3894671529763108" value="8"/>
  <Attr name="Unlocks/0/3894671530680614" value="10"/>
- <Attr name="Unlocks/0/3894671531204904" value="10"/>
- <Attr name="Unlocks/0/3894671630361069" value="10"/>
+ <Attr name="Unlocks/0/3894671531204904" value="8"/>
+ <Attr name="Unlocks/0/3894671630361069" value="8"/>
  <Attr name="Unlocks/0/3894671630557679" value="8"/>
  <Attr name="Unlocks/0/3894671630688753" value="8"/>
- <Attr name="Unlocks/0/3894671632720560" value="10"/>
- <Attr name="Unlocks/0/3894671632786098" value="10"/>
- <Attr name="Unlocks/0/3894671632917173" value="10"/>
+ <Attr name="Unlocks/0/3894671632720560" value="8"/>
+ <Attr name="Unlocks/0/3894671632786098" value="8"/>
+ <Attr name="Unlocks/0/3894671632917173" value="8"/>
  <Attr name="Unlocks/0/3894671634293700" value="8"/>
- <Attr name="Unlocks/0/3894671634424774" value="10"/>
+ <Attr name="Unlocks/0/3894671634424774" value="8"/>
  <Attr name="Unlocks/0/3894671634490312" value="8"/>
  <Attr name="Unlocks/0/3894671638160720" value="10"/>
  <Attr name="Unlocks/0/3894671638291793" value="10"/>
@@ -2636,13 +2677,13 @@
  <Attr name="Unlocks/0/3894671638422867" value="10"/>
  <Attr name="Unlocks/0/3894671640061269" value="10"/>
  <Attr name="Unlocks/0/3894671640192343" value="10"/>
- <Attr name="Unlocks/0/3894671640388953" value="10"/>
+ <Attr name="Unlocks/0/3894671640388953" value="8"/>
  <Attr name="Unlocks/0/3894671640585563" value="10"/>
  <Attr name="Unlocks/0/3894671640651101" value="10"/>
- <Attr name="Unlocks/0/3894671640847711" value="10"/>
+ <Attr name="Unlocks/0/3894671640847711" value="8"/>
  <Attr name="Unlocks/0/3894671710774639" value="8"/>
  <Attr name="Unlocks/0/3894672005686653" value="10"/>
- <Attr name="Unlocks/0/3894672005948799" value="8"/>
+ <Attr name="Unlocks/0/3894672005948799" value="10"/>
  <Attr name="Unlocks/0/3894672293258637" value="0"/>
  <Attr name="Unlocks/0/3894672293258639" value="10"/>
  <Attr name="Unlocks/0/3894672840746397" value="0"/>
@@ -2658,33 +2699,33 @@
  <Attr name="Unlocks/0/3894678785781637" value="0"/>
  <Attr name="Unlocks/0/3894678794039245" value="0"/>
  <Attr name="Unlocks/0/3894678802755605" value="0"/>
- <Attr name="Unlocks/0/3894678892736605" value="0"/>
- <Attr name="Unlocks/0/3894678892933215" value="2"/>
- <Attr name="Unlocks/0/3894678919934120" value="2"/>
+ <Attr name="Unlocks/0/3894678892736605" value="2"/>
+ <Attr name="Unlocks/0/3894678892933215" value="0"/>
+ <Attr name="Unlocks/0/3894678919934120" value="0"/>
  <Attr name="Unlocks/0/3894678920655017" value="0"/>
- <Attr name="Unlocks/0/3894678975967472" value="8"/>
+ <Attr name="Unlocks/0/3894678975967472" value="10"/>
  <Attr name="Unlocks/0/3894678976295154" value="8"/>
  <Attr name="Unlocks/0/3894678976950518" value="8"/>
  <Attr name="Unlocks/0/3894678977212664" value="8"/>
  <Attr name="Unlocks/0/3894678978064638" value="8"/>
  <Attr name="Unlocks/0/3894678978261248" value="10"/>
- <Attr name="Unlocks/0/3894678978523394" value="0"/>
+ <Attr name="Unlocks/0/3894678978523394" value="2"/>
  <Attr name="Unlocks/0/3894678985601354" value="0"/>
- <Attr name="Unlocks/0/3894678986387788" value="10"/>
+ <Attr name="Unlocks/0/3894678986387788" value="8"/>
  <Attr name="Unlocks/0/3894678986453325" value="0"/>
- <Attr name="Unlocks/0/3894678986584399" value="8"/>
+ <Attr name="Unlocks/0/3894678986584399" value="10"/>
  <Attr name="Unlocks/0/3894678986781010" value="0"/>
  <Attr name="Unlocks/0/3894678986846549" value="0"/>
  <Attr name="Unlocks/0/3894678987043159" value="0"/>
  <Attr name="Unlocks/0/3894678987108696" value="0"/>
- <Attr name="Unlocks/0/3894678987174234" value="0"/>
+ <Attr name="Unlocks/0/3894678987174234" value="2"/>
  <Attr name="Unlocks/0/3894678987370844" value="0"/>
  <Attr name="Unlocks/0/3894678988288350" value="0"/>
  <Attr name="Unlocks/0/3894678988812640" value="0"/>
  <Attr name="Unlocks/0/3894678989009250" value="0"/>
  <Attr name="Unlocks/0/3894678989992362" value="10"/>
- <Attr name="Unlocks/0/3894678993596914" value="8"/>
- <Attr name="Unlocks/0/3894678993859060" value="8"/>
+ <Attr name="Unlocks/0/3894678993596914" value="10"/>
+ <Attr name="Unlocks/0/3894678993859060" value="10"/>
  <Attr name="Unlocks/0/3894678993990134" value="8"/>
  <Attr name="Unlocks/0/3894678996677182" value="8"/>
  <Attr name="Unlocks/0/3894678996742720" value="8"/>
@@ -2693,7 +2734,7 @@
  <Attr name="Unlocks/0/3894678998053516" value="8"/>
  <Attr name="Unlocks/0/3894678998119054" value="8"/>
  <Attr name="Unlocks/0/3894679004410586" value="2"/>
- <Attr name="Unlocks/0/3894679004476123" value="2"/>
+ <Attr name="Unlocks/0/3894679004476123" value="0"/>
  <Attr name="Unlocks/0/3894679004541660" value="2"/>
  <Attr name="Unlocks/0/3894679004607197" value="10"/>
  <Attr name="Unlocks/0/3894679004672734" value="8"/>
@@ -2702,11 +2743,11 @@
  <Attr name="Unlocks/0/3894685298244480" value="8"/>
  <Attr name="Unlocks/0/3894685298834306" value="10"/>
  <Attr name="Unlocks/0/3894685299489819" value="10"/>
- <Attr name="Unlocks/0/3894685299948573" value="10"/>
- <Attr name="Unlocks/0/3894685301521590" value="10"/>
+ <Attr name="Unlocks/0/3894685299948573" value="8"/>
+ <Attr name="Unlocks/0/3894685301521590" value="8"/>
  <Attr name="Unlocks/0/3894685306567864" value="10"/>
- <Attr name="Unlocks/0/3894685306764474" value="8"/>
- <Attr name="Unlocks/0/3894685307157692" value="10"/>
+ <Attr name="Unlocks/0/3894685306764474" value="10"/>
+ <Attr name="Unlocks/0/3894685307157692" value="8"/>
  <Attr name="Unlocks/0/3894685316398421" value="10"/>
  <Attr name="Unlocks/0/3894685316529495" value="10"/>
  <Attr name="Unlocks/0/3894685316660569" value="8"/>
@@ -2719,10 +2760,10 @@
  <Attr name="Unlocks/0/3894685887872790" value="0"/>
  <Attr name="Unlocks/0/3894685888069400" value="0"/>
  <Attr name="Unlocks/0/3894685888331546" value="0"/>
- <Attr name="Unlocks/0/3894685889052586" value="0"/>
+ <Attr name="Unlocks/0/3894685889052586" value="2"/>
  <Attr name="Unlocks/0/3894685890232236" value="8"/>
- <Attr name="Unlocks/0/3894685890363310" value="10"/>
- <Attr name="Unlocks/0/3894685895868478" value="2"/>
+ <Attr name="Unlocks/0/3894685890363310" value="8"/>
+ <Attr name="Unlocks/0/3894685895868478" value="0"/>
  <Attr name="Unlocks/0/3894685967892686" value="0"/>
  <Attr name="Unlocks/0/3894686076813616" value="0"/>
  <Attr name="Unlocks/0/3894686081663378" value="0"/>
@@ -2735,9 +2776,9 @@
  <Attr name="Unlocks/0/3894686264050468" value="0"/>
  <Attr name="Unlocks/0/3894686265033511" value="0"/>
  <Attr name="Unlocks/0/3894686265164584" value="0"/>
- <Attr name="Unlocks/0/3894686265426729" value="10"/>
+ <Attr name="Unlocks/0/3894686265426729" value="8"/>
  <Attr name="Unlocks/0/3894686265492267" value="0"/>
- <Attr name="Unlocks/0/3894686265688877" value="2"/>
+ <Attr name="Unlocks/0/3894686265688877" value="0"/>
  <Attr name="Unlocks/0/3894692477458054" value="2"/>
  <Attr name="Unlocks/0/3894692477523592" value="0"/>
  <Attr name="Unlocks/0/3894693800564464" value="8"/>
@@ -2745,18 +2786,18 @@
  <Attr name="Unlocks/0/3894693803120699" value="8"/>
  <Attr name="Unlocks/0/3894693805348926" value="8"/>
  <Attr name="Unlocks/0/3894693806004389" value="8"/>
- <Attr name="Unlocks/0/3894693810395348" value="8"/>
+ <Attr name="Unlocks/0/3894693810395348" value="10"/>
  <Attr name="Unlocks/0/3894693810985174" value="8"/>
- <Attr name="Unlocks/0/3894693811312856" value="10"/>
+ <Attr name="Unlocks/0/3894693811312856" value="8"/>
  <Attr name="Unlocks/0/3894693813213648" value="8"/>
  <Attr name="Unlocks/0/3894693814196696" value="8"/>
  <Attr name="Unlocks/0/3894693814458843" value="8"/>
  <Attr name="Unlocks/0/3894693819570755" value="0"/>
  <Attr name="Unlocks/0/3894693820095045" value="0"/>
- <Attr name="Unlocks/0/3894693820422727" value="0"/>
+ <Attr name="Unlocks/0/3894693820422727" value="2"/>
  <Attr name="Unlocks/0/3894693820684873" value="0"/>
  <Attr name="Unlocks/0/3894693820881483" value="0"/>
- <Attr name="Unlocks/0/3894693880781491" value="0"/>
+ <Attr name="Unlocks/0/3894693880781491" value="2"/>
  <Attr name="Unlocks/0/3894693881043637" value="0"/>
  <Attr name="Unlocks/0/3894693881698999" value="0"/>
  <Attr name="Unlocks/0/3894693882026681" value="0"/>
@@ -2768,8 +2809,8 @@
  <Attr name="Unlocks/0/3894693888056657" value="2"/>
  <Attr name="Unlocks/0/3894693888056658" value="2"/>
  <Attr name="Unlocks/0/3894693888187732" value="2"/>
- <Attr name="Unlocks/0/3894693898345834" value="10"/>
- <Attr name="Unlocks/0/3894693898345836" value="10"/>
+ <Attr name="Unlocks/0/3894693898345834" value="8"/>
+ <Attr name="Unlocks/0/3894693898345836" value="8"/>
  <Attr name="Unlocks/0/3894693991734744" value="0"/>
  <Attr name="Unlocks/0/3894694084402756" value="0"/>
  <Attr name="Unlocks/0/3894694641655472" value="0"/>
@@ -2780,35 +2821,35 @@
  <Attr name="Unlocks/0/3894695613755877" value="0"/>
  <Attr name="Unlocks/0/3894695614280166" value="0"/>
  <Attr name="Unlocks/0/3894695614607853" value="2"/>
- <Attr name="Unlocks/0/3894695614738926" value="2"/>
- <Attr name="Unlocks/0/3894695614804463" value="2"/>
- <Attr name="Unlocks/0/3894695614935536" value="2"/>
+ <Attr name="Unlocks/0/3894695614738926" value="0"/>
+ <Attr name="Unlocks/0/3894695614804463" value="0"/>
+ <Attr name="Unlocks/0/3894695614935536" value="0"/>
  <Attr name="Unlocks/0/3894695770649191" value="0"/>
  <Attr name="Unlocks/0/3894695882978124" value="0"/>
  <Attr name="Unlocks/0/3894696178545767" value="8"/>
  <Attr name="Unlocks/0/3894696179463279" value="8"/>
- <Attr name="Unlocks/0/3894696179725427" value="10"/>
+ <Attr name="Unlocks/0/3894696179725427" value="8"/>
  <Attr name="Unlocks/0/3894697216374017" value="0"/>
  <Attr name="Unlocks/0/3894697216439554" value="0"/>
- <Attr name="Unlocks/0/3894697216439555" value="2"/>
- <Attr name="Unlocks/0/3894697216767240" value="2"/>
- <Attr name="Unlocks/0/3894697216767241" value="2"/>
+ <Attr name="Unlocks/0/3894697216439555" value="0"/>
+ <Attr name="Unlocks/0/3894697216767240" value="0"/>
+ <Attr name="Unlocks/0/3894697216767241" value="0"/>
  <Attr name="Unlocks/0/3894697216767242" value="0"/>
  <Attr name="Unlocks/0/3894697216767243" value="2"/>
  <Attr name="Unlocks/0/3894697217094927" value="0"/>
- <Attr name="Unlocks/0/3894697217094928" value="2"/>
- <Attr name="Unlocks/0/3894697495819643" value="2"/>
- <Attr name="Unlocks/0/3894697496868221" value="2"/>
- <Attr name="Unlocks/0/3894697496933759" value="2"/>
- <Attr name="Unlocks/0/3894699463800299" value="2"/>
- <Attr name="Unlocks/0/3894699463865836" value="2"/>
- <Attr name="Unlocks/0/3894705130174405" value="10"/>
+ <Attr name="Unlocks/0/3894697217094928" value="0"/>
+ <Attr name="Unlocks/0/3894697495819643" value="0"/>
+ <Attr name="Unlocks/0/3894697496868221" value="0"/>
+ <Attr name="Unlocks/0/3894697496933759" value="0"/>
+ <Attr name="Unlocks/0/3894699463800299" value="0"/>
+ <Attr name="Unlocks/0/3894699463865836" value="0"/>
+ <Attr name="Unlocks/0/3894705130174405" value="8"/>
  <Attr name="Unlocks/0/3894705130305479" value="8"/>
  <Attr name="Unlocks/0/3894705130764233" value="8"/>
- <Attr name="Unlocks/0/3894705131288620" value="10"/>
+ <Attr name="Unlocks/0/3894705131288620" value="8"/>
  <Attr name="Unlocks/0/3894705131419694" value="8"/>
- <Attr name="Unlocks/0/3894705131616304" value="8"/>
- <Attr name="Unlocks/0/3894705135810798" value="8"/>
+ <Attr name="Unlocks/0/3894705131616304" value="10"/>
+ <Attr name="Unlocks/0/3894705135810798" value="10"/>
  <Attr name="Unlocks/0/3894705135876336" value="10"/>
  <Attr name="Unlocks/0/3894705136072946" value="10"/>
  <Attr name="Unlocks/0/3894705218255192" value="8"/>
@@ -2839,7 +2880,7 @@
  <Attr name="Unlocks/0/3894706721980416" value="0"/>
  <Attr name="Unlocks/0/3894706722308096" value="0"/>
  <Attr name="Unlocks/0/3894706819825664" value="8"/>
- <Attr name="Unlocks/0/3894706819891200" value="8"/>
+ <Attr name="Unlocks/0/3894706819891200" value="10"/>
  <Attr name="Unlocks/0/3894706819956736" value="8"/>
  <Attr name="Unlocks/0/3894706820087808" value="8"/>
  <Attr name="Unlocks/0/3894706821398528" value="8"/>
@@ -2851,32 +2892,32 @@
  <Attr name="Unlocks/0/3894711154114560" value="8"/>
  <Attr name="Unlocks/0/3894711154769920" value="8"/>
  <Attr name="Unlocks/0/3894711161126912" value="2"/>
- <Attr name="Unlocks/0/3894711161257984" value="2"/>
+ <Attr name="Unlocks/0/3894711161257984" value="0"/>
  <Attr name="Unlocks/0/3894711161323520" value="10"/>
  <Attr name="Unlocks/0/3894711161389056" value="2"/>
- <Attr name="Unlocks/0/3894711161585664" value="2"/>
+ <Attr name="Unlocks/0/3894711161585664" value="0"/>
  <Attr name="Unlocks/0/3894711163224064" value="0"/>
  <Attr name="Unlocks/0/3894711163486208" value="2"/>
  <Attr name="Unlocks/0/3894711163682816" value="0"/>
  <Attr name="Unlocks/0/3894711163748352" value="0"/>
  <Attr name="Unlocks/0/3894711164403712" value="0"/>
  <Attr name="Unlocks/0/3894711164731392" value="0"/>
- <Attr name="Unlocks/0/3894711164862464" value="2"/>
- <Attr name="Unlocks/0/3894711165059072" value="2"/>
+ <Attr name="Unlocks/0/3894711164862464" value="0"/>
+ <Attr name="Unlocks/0/3894711165059072" value="0"/>
  <Attr name="Unlocks/0/3894711165386752" value="0"/>
- <Attr name="Unlocks/0/3894711165976576" value="0"/>
- <Attr name="Unlocks/0/3894711169712128" value="10"/>
+ <Attr name="Unlocks/0/3894711165976576" value="2"/>
+ <Attr name="Unlocks/0/3894711169712128" value="8"/>
  <Attr name="Unlocks/0/3894711170433024" value="10"/>
  <Attr name="Unlocks/0/3894711174889472" value="2"/>
- <Attr name="Unlocks/0/3894711175086080" value="2"/>
+ <Attr name="Unlocks/0/3894711175086080" value="0"/>
  <Attr name="Unlocks/0/3894711182491648" value="0"/>
- <Attr name="Unlocks/0/3894711182557184" value="0"/>
+ <Attr name="Unlocks/0/3894711182557184" value="16"/>
  <Attr name="Unlocks/0/3894711182753792" value="0"/>
- <Attr name="Unlocks/0/3894711247634432" value="0"/>
- <Attr name="Unlocks/0/3894711247765504" value="2"/>
+ <Attr name="Unlocks/0/3894711247634432" value="2"/>
+ <Attr name="Unlocks/0/3894711247765504" value="0"/>
  <Attr name="Unlocks/0/3894711256940544" value="0"/>
- <Attr name="Unlocks/0/3894711257071616" value="0"/>
- <Attr name="Unlocks/0/3894711257268224" value="2"/>
+ <Attr name="Unlocks/0/3894711257071616" value="2"/>
+ <Attr name="Unlocks/0/3894711257268224" value="0"/>
  <Attr name="Unlocks/0/3894711264870400" value="8"/>
  <Attr name="Unlocks/0/3894711264935936" value="8"/>
  <Attr name="Unlocks/0/3894711265001472" value="8"/>
@@ -2886,33 +2927,33 @@
  <Attr name="Unlocks/0/3894711268605952" value="0"/>
  <Attr name="Unlocks/0/3894711268671488" value="0"/>
  <Attr name="Unlocks/0/3894711269523456" value="2"/>
- <Attr name="Unlocks/0/3894711271882752" value="10"/>
+ <Attr name="Unlocks/0/3894711271882752" value="8"/>
  <Attr name="Unlocks/0/3894711272144896" value="10"/>
- <Attr name="Unlocks/0/3894711274766336" value="2"/>
+ <Attr name="Unlocks/0/3894711274766336" value="0"/>
  <Attr name="Unlocks/0/3894711352426496" value="0"/>
- <Attr name="Unlocks/0/3894711632199680" value="10"/>
- <Attr name="Unlocks/0/3894711632265216" value="10"/>
+ <Attr name="Unlocks/0/3894711632199680" value="8"/>
+ <Attr name="Unlocks/0/3894711632265216" value="8"/>
  <Attr name="Unlocks/0/3894711635279872" value="8"/>
  <Attr name="Unlocks/0/3894711639932928" value="10"/>
  <Attr name="Unlocks/0/3894711644913664" value="0"/>
  <Attr name="Unlocks/0/3894711644979200" value="0"/>
- <Attr name="Unlocks/0/3894711646355456" value="2"/>
+ <Attr name="Unlocks/0/3894711646355456" value="0"/>
  <Attr name="Unlocks/0/3894711646420992" value="2"/>
  <Attr name="Unlocks/0/3894713605029888" value="0"/>
  <Attr name="Unlocks/0/3894713605488640" value="0"/>
  <Attr name="Unlocks/0/3894713605619712" value="8"/>
- <Attr name="Unlocks/0/3894713621020672" value="2"/>
+ <Attr name="Unlocks/0/3894713621020672" value="0"/>
  <Attr name="Unlocks/0/3894713637732352" value="0"/>
  <Attr name="Unlocks/0/3894713637928960" value="0"/>
- <Attr name="Unlocks/0/3894713700646912" value="2"/>
+ <Attr name="Unlocks/0/3894713700646912" value="0"/>
  <Attr name="Unlocks/0/3894713704316928" value="0"/>
- <Attr name="Unlocks/0/3894713709821952" value="2"/>
- <Attr name="Unlocks/0/3894713726402560" value="2"/>
- <Attr name="Unlocks/0/3894713726599168" value="2"/>
- <Attr name="Unlocks/0/3894713726730240" value="2"/>
- <Attr name="Unlocks/0/3894713726795776" value="2"/>
+ <Attr name="Unlocks/0/3894713709821952" value="0"/>
+ <Attr name="Unlocks/0/3894713726402560" value="0"/>
+ <Attr name="Unlocks/0/3894713726599168" value="0"/>
+ <Attr name="Unlocks/0/3894713726730240" value="0"/>
+ <Attr name="Unlocks/0/3894713726795776" value="0"/>
  <Attr name="Unlocks/0/3894715119239168" value="0"/>
- <Attr name="Unlocks/0/3894715134050304" value="2"/>
+ <Attr name="Unlocks/0/3894715134050304" value="0"/>
  <Attr name="Unlocks/0/3894715158102016" value="8"/>
  <Attr name="Unlocks/0/39563754022109739" value="0"/>
  <Attr name="Unlocks/0/39563754022371884" value="0"/>
@@ -2926,25 +2967,25 @@
  <Attr name="Unlocks/0/39563754054156856" value="0"/>
  <Attr name="Unlocks/0/39563763939082845" value="16"/>
  <Attr name="Unlocks/0/39563763939148382" value="0"/>
- <Attr name="Unlocks/0/39563763939148383" value="0"/>
- <Attr name="Unlocks/0/39563763939213920" value="0"/>
+ <Attr name="Unlocks/0/39563763939148383" value="16"/>
+ <Attr name="Unlocks/0/39563763939213920" value="16"/>
  <Attr name="Unlocks/0/39563777832977014" value="0"/>
  <Attr name="Unlocks/0/39563787532371432" value="2"/>
  <Attr name="Unlocks/0/39563788016223855" value="0"/>
  <Attr name="Unlocks/0/39563788017272433" value="10"/>
  <Attr name="Unlocks/0/39563788017403507" value="8"/>
- <Attr name="Unlocks/0/39563788019238583" value="10"/>
+ <Attr name="Unlocks/0/39563788019238583" value="8"/>
  <Attr name="Unlocks/0/39563788019369657" value="10"/>
  <Attr name="Unlocks/0/39563788019500731" value="10"/>
  <Attr name="Unlocks/0/39563788019566270" value="8"/>
- <Attr name="Unlocks/0/39563788019566271" value="10"/>
- <Attr name="Unlocks/0/39563788021991115" value="10"/>
- <Attr name="Unlocks/0/39563788022253261" value="10"/>
+ <Attr name="Unlocks/0/39563788019566271" value="8"/>
+ <Attr name="Unlocks/0/39563788021991115" value="8"/>
+ <Attr name="Unlocks/0/39563788022253261" value="8"/>
  <Attr name="Unlocks/0/39563788022318800" value="8"/>
  <Attr name="Unlocks/0/39563788022318801" value="8"/>
- <Attr name="Unlocks/0/39563788022646483" value="10"/>
+ <Attr name="Unlocks/0/39563788022646483" value="8"/>
  <Attr name="Unlocks/0/39563788022777557" value="10"/>
- <Attr name="Unlocks/0/39563788022908631" value="10"/>
+ <Attr name="Unlocks/0/39563788022908631" value="8"/>
  <Attr name="Unlocks/0/39563788022908633" value="8"/>
  <Attr name="Unlocks/0/39563788023170781" value="10"/>
  <Attr name="Unlocks/0/39563788023170782" value="10"/>
@@ -2961,7 +3002,7 @@
  <Attr name="Unlocks/0/39563792049113471" value="10"/>
  <Attr name="Unlocks/0/39563792049375887" value="10"/>
  <Attr name="Unlocks/0/39563792049572901" value="8"/>
- <Attr name="Unlocks/0/39563795445386487" value="2"/>
+ <Attr name="Unlocks/0/39563795445386487" value="0"/>
  <Attr name="Unlocks/0/39563798587642002" value="2"/>
  <Attr name="Unlocks/0/39563798587707593" value="2"/>
  <Attr name="Unlocks/0/39563798587707648" value="2"/>
@@ -2979,51 +3020,51 @@
  <Attr name="Unlocks/0/39563798588562070" value="2"/>
  <Attr name="Unlocks/0/39563798588562266" value="2"/>
  <Attr name="Unlocks/0/39563798589021564" value="10"/>
- <Attr name="Unlocks/0/39563798600360778" value="0"/>
+ <Attr name="Unlocks/0/39563798600360778" value="16"/>
  <Attr name="Unlocks/0/39563798600360959" value="0"/>
  <Attr name="Unlocks/0/39563798600361005" value="0"/>
  <Attr name="Unlocks/0/39563798600361051" value="0"/>
  <Attr name="Unlocks/0/39563798600361097" value="0"/>
- <Attr name="Unlocks/0/39563798680320651" value="10"/>
+ <Attr name="Unlocks/0/39563798680320651" value="8"/>
  <Attr name="Unlocks/0/39563798687595618" value="10"/>
  <Attr name="Unlocks/0/39563889933244814" value="10"/>
- <Attr name="Unlocks/0/39563889939339665" value="10"/>
- <Attr name="Unlocks/0/39563889939667346" value="10"/>
- <Attr name="Unlocks/0/39563889941043603" value="10"/>
+ <Attr name="Unlocks/0/39563889939339665" value="8"/>
+ <Attr name="Unlocks/0/39563889939667346" value="8"/>
+ <Attr name="Unlocks/0/39563889941043603" value="8"/>
  <Attr name="Unlocks/0/39563889943271828" value="10"/>
  <Attr name="Unlocks/0/39563889944582549" value="8"/>
  <Attr name="Unlocks/0/39563890121464217" value="10"/>
- <Attr name="Unlocks/0/39563890689595804" value="10"/>
+ <Attr name="Unlocks/0/39563890689595804" value="8"/>
  <Attr name="Unlocks/0/39563891077306783" value="10"/>
- <Attr name="Unlocks/0/39563896718055878" value="10"/>
- <Attr name="Unlocks/0/39563899264260722" value="10"/>
+ <Attr name="Unlocks/0/39563896718055878" value="8"/>
+ <Attr name="Unlocks/0/39563899264260722" value="8"/>
  <Attr name="Unlocks/0/39563899264719475" value="8"/>
- <Attr name="Unlocks/0/39563899265047156" value="10"/>
+ <Attr name="Unlocks/0/39563899265047156" value="8"/>
  <Attr name="Unlocks/0/39563899265243765" value="10"/>
  <Attr name="Unlocks/0/39563899266620022" value="8"/>
  <Attr name="Unlocks/0/39563899267144311" value="10"/>
  <Attr name="Unlocks/0/39563899269700216" value="10"/>
  <Attr name="Unlocks/0/39563899269962361" value="10"/>
- <Attr name="Unlocks/0/39563899275074170" value="10"/>
+ <Attr name="Unlocks/0/39563899275074170" value="8"/>
  <Attr name="Unlocks/0/39563899275401851" value="10"/>
  <Attr name="Unlocks/0/39563899751455361" value="10"/>
  <Attr name="Unlocks/0/39563899751455362" value="8"/>
  <Attr name="Unlocks/0/39563899751455363" value="10"/>
  <Attr name="Unlocks/0/39563899751520900" value="10"/>
- <Attr name="Unlocks/0/39563899751520901" value="10"/>
+ <Attr name="Unlocks/0/39563899751520901" value="8"/>
  <Attr name="Unlocks/0/39563899762727560" value="10"/>
  <Attr name="Unlocks/0/46525974423820430" value="10"/>
  <Attr name="Unlocks/0/46525974424606863" value="10"/>
  <Attr name="Unlocks/0/46525989540223335" value="10"/>
  <Attr name="Unlocks/0/46525989549463912" value="10"/>
  <Attr name="Unlocks/0/46525989550184809" value="10"/>
- <Attr name="Unlocks/0/46525989552347498" value="10"/>
+ <Attr name="Unlocks/0/46525989552347498" value="8"/>
  <Attr name="Unlocks/0/46525989552609643" value="10"/>
  <Attr name="Unlocks/0/47143881378977127" value="10"/>
  <Attr name="Unlocks/0/47143882065925527" value="10"/>
  <Attr name="Unlocks/0/47143883362751942" value="8"/>
  <Attr name="Unlocks/0/47143884216161826" value="10"/>
- <Attr name="Unlocks/0/47143884592207440" value="10"/>
+ <Attr name="Unlocks/0/47143884592207440" value="8"/>
  <Attr name="Unlocks/0/47143886761121408" value="10"/>
  <Attr name="Unlocks/0/47143902438774949" value="10"/>
  <Attr name="Unlocks/0/47143902612707499" value="10"/>
@@ -3032,11 +3073,11 @@
  <Attr name="Unlocks/0/47143942336109841" value="8"/>
  <Attr name="Unlocks/0/47143947443395978" value="10"/>
  <Attr name="Unlocks/0/47143947546025360" value="0"/>
- <Attr name="Unlocks/0/47143948096527776" value="10"/>
+ <Attr name="Unlocks/0/47143948096527776" value="8"/>
  <Attr name="Unlocks/0/47143953381875470" value="10"/>
  <Attr name="Unlocks/0/47914686495152570" value="0"/>
  <Attr name="Unlocks/0/47914746826520040" value="0"/>
- <Attr name="Unlocks/0/52732727500167410" value="10"/>
+ <Attr name="Unlocks/0/52732727500167410" value="8"/>
  <Attr name="Unlocks/0/68648052142441069" value="2"/>
  <Attr name="Unlocks/1/100009476292300137" value="2"/>
  <Attr name="Unlocks/1/100009476292365674" value="2"/>
@@ -3132,21 +3173,21 @@
  <Attr name="Unlocks/10/35" value="2"/>
  <Attr name="Unlocks/10/36" value="2"/>
  <Attr name="Unlocks/16/1" value="0"/>
- <Attr name="Unlocks/16/2" value="2"/>
- <Attr name="Unlocks/16/3" value="2"/>
- <Attr name="Unlocks/16/4" value="2"/>
+ <Attr name="Unlocks/16/2" value="0"/>
+ <Attr name="Unlocks/16/3" value="16"/>
+ <Attr name="Unlocks/16/4" value="0"/>
  <Attr name="Unlocks/16/5" value="0"/>
- <Attr name="Unlocks/16/6" value="0"/>
+ <Attr name="Unlocks/16/6" value="16"/>
  <Attr name="Unlocks/2/289609164187107418" value="2"/>
  <Attr name="Unlocks/2/289609164187107424" value="2"/>
  <Attr name="Unlocks/2/289609164189270114" value="2"/>
- <Attr name="Unlocks/2/289609164189270115" value="2"/>
- <Attr name="Unlocks/2/289609164189270116" value="18"/>
- <Attr name="Unlocks/2/289609164189270117" value="2"/>
+ <Attr name="Unlocks/2/289609164189270115" value="18"/>
+ <Attr name="Unlocks/2/289609164189270116" value="2"/>
+ <Attr name="Unlocks/2/289609164189270117" value="18"/>
  <Attr name="Unlocks/2/289609164189270123" value="2"/>
  <Attr name="Unlocks/2/289609164253233262" value="2"/>
  <Attr name="Unlocks/2/289609164253233263" value="2"/>
- <Attr name="Unlocks/2/289609164253233265" value="2"/>
+ <Attr name="Unlocks/2/289609164253233265" value="18"/>
  <Attr name="Unlocks/2/289609164253233266" value="2"/>
  <Attr name="Unlocks/2/289609164253233267" value="2"/>
  <Attr name="Unlocks/2/289609164253233268" value="2"/>
@@ -3156,16 +3197,16 @@
  <Attr name="Unlocks/2/361666912779852130" value="2"/>
  <Attr name="Unlocks/2/364182681815482368" value="2"/>
  <Attr name="Unlocks/2/364182682009075712" value="2"/>
- <Attr name="Unlocks/2/378171545772491041" value="2"/>
- <Attr name="Unlocks/2/385553857149694824" value="2"/>
- <Attr name="Unlocks/2/385553857155856701" value="2"/>
+ <Attr name="Unlocks/2/378171545772491041" value="18"/>
+ <Attr name="Unlocks/2/385553857149694824" value="18"/>
+ <Attr name="Unlocks/2/385553857155856701" value="18"/>
  <Attr name="Unlocks/2/388239848934951682" value="2"/>
- <Attr name="Unlocks/2/388239849036467091" value="2"/>
+ <Attr name="Unlocks/2/388239849036467091" value="18"/>
  <Attr name="Unlocks/2/388239860341821774" value="2"/>
  <Attr name="Unlocks/2/388239860341821775" value="2"/>
- <Attr name="Unlocks/2/388239886093539298" value="2"/>
+ <Attr name="Unlocks/2/388239886093539298" value="18"/>
  <Attr name="Unlocks/2/388239886761809983" value="2"/>
- <Attr name="Unlocks/2/388239898198956229" value="2"/>
+ <Attr name="Unlocks/2/388239898198956229" value="18"/>
  <Attr name="Unlocks/2/388239898199480518" value="2"/>
  <Attr name="Unlocks/2/388239898550229193" value="2"/>
  <Attr name="Unlocks/2/394290542962236072" value="2"/>
@@ -3176,7 +3217,7 @@
  <Attr name="Unlocks/2/394290559869345391" value="2"/>
  <Attr name="Unlocks/2/394290568811077824" value="2"/>
  <Attr name="Unlocks/2/394290568811208897" value="2"/>
- <Attr name="Unlocks/2/394290568812257476" value="2"/>
+ <Attr name="Unlocks/2/394290568812257476" value="18"/>
  <Attr name="Unlocks/2/394290568817959113" value="2"/>
  <Attr name="Unlocks/2/394290568818155722" value="2"/>
  <Attr name="Unlocks/2/394290568818155723" value="2"/>
@@ -3199,11 +3240,11 @@
  <Attr name="Unlocks/2/399851751117881998" value="2"/>
  <Attr name="Unlocks/2/399851751121814159" value="2"/>
  <Attr name="Unlocks/2/399851751121879696" value="2"/>
- <Attr name="Unlocks/2/399851751121879697" value="2"/>
+ <Attr name="Unlocks/2/399851751121879697" value="18"/>
  <Attr name="Unlocks/2/399851751121879698" value="2"/>
  <Attr name="Unlocks/2/399851751121879700" value="2"/>
  <Attr name="Unlocks/2/400939134904697375" value="2"/>
- <Attr name="Unlocks/2/404441282259703455" value="2"/>
+ <Attr name="Unlocks/2/404441282259703455" value="18"/>
  <Attr name="Unlocks/2/404441293561722592" value="2"/>
  <Attr name="Unlocks/2/418763512872419419" value="2"/>
  <Attr name="Unlocks/2/418763538754961408" value="2"/>
@@ -3211,86 +3252,86 @@
  <Attr name="Unlocks/2/418763540235747328" value="2"/>
  <Attr name="Unlocks/2/428935999578571296" value="18"/>
  <Attr name="Unlocks/2/428935999579030049" value="2"/>
- <Attr name="Unlocks/3/1" value="2"/>
- <Attr name="Unlocks/3/10" value="2"/>
- <Attr name="Unlocks/3/11" value="2"/>
+ <Attr name="Unlocks/3/1" value="0"/>
+ <Attr name="Unlocks/3/10" value="0"/>
+ <Attr name="Unlocks/3/11" value="0"/>
  <Attr name="Unlocks/3/12" value="0"/>
- <Attr name="Unlocks/3/13" value="2"/>
- <Attr name="Unlocks/3/14" value="2"/>
- <Attr name="Unlocks/3/15" value="2"/>
- <Attr name="Unlocks/3/16" value="2"/>
- <Attr name="Unlocks/3/17" value="2"/>
- <Attr name="Unlocks/3/18" value="2"/>
- <Attr name="Unlocks/3/20" value="2"/>
+ <Attr name="Unlocks/3/13" value="0"/>
+ <Attr name="Unlocks/3/14" value="0"/>
+ <Attr name="Unlocks/3/15" value="0"/>
+ <Attr name="Unlocks/3/16" value="0"/>
+ <Attr name="Unlocks/3/17" value="0"/>
+ <Attr name="Unlocks/3/18" value="0"/>
+ <Attr name="Unlocks/3/20" value="0"/>
  <Attr name="Unlocks/3/21" value="0"/>
- <Attr name="Unlocks/3/22" value="2"/>
- <Attr name="Unlocks/3/23" value="2"/>
- <Attr name="Unlocks/3/24" value="2"/>
- <Attr name="Unlocks/3/25" value="2"/>
- <Attr name="Unlocks/3/26" value="2"/>
- <Attr name="Unlocks/3/27" value="2"/>
- <Attr name="Unlocks/3/28" value="2"/>
- <Attr name="Unlocks/3/29" value="2"/>
- <Attr name="Unlocks/3/30" value="2"/>
- <Attr name="Unlocks/3/31" value="2"/>
+ <Attr name="Unlocks/3/22" value="0"/>
+ <Attr name="Unlocks/3/23" value="0"/>
+ <Attr name="Unlocks/3/24" value="0"/>
+ <Attr name="Unlocks/3/25" value="0"/>
+ <Attr name="Unlocks/3/26" value="0"/>
+ <Attr name="Unlocks/3/27" value="0"/>
+ <Attr name="Unlocks/3/28" value="0"/>
+ <Attr name="Unlocks/3/29" value="0"/>
+ <Attr name="Unlocks/3/30" value="0"/>
+ <Attr name="Unlocks/3/31" value="0"/>
  <Attr name="Unlocks/3/32" value="0"/>
  <Attr name="Unlocks/3/33" value="0"/>
  <Attr name="Unlocks/3/34" value="0"/>
- <Attr name="Unlocks/3/35" value="2"/>
- <Attr name="Unlocks/3/36" value="2"/>
- <Attr name="Unlocks/3/38" value="2"/>
+ <Attr name="Unlocks/3/35" value="0"/>
+ <Attr name="Unlocks/3/36" value="0"/>
+ <Attr name="Unlocks/3/38" value="0"/>
  <Attr name="Unlocks/3/39" value="2"/>
- <Attr name="Unlocks/3/41" value="2"/>
- <Attr name="Unlocks/3/42" value="2"/>
+ <Attr name="Unlocks/3/41" value="0"/>
+ <Attr name="Unlocks/3/42" value="0"/>
  <Attr name="Unlocks/3/45" value="2"/>
- <Attr name="Unlocks/3/46" value="2"/>
+ <Attr name="Unlocks/3/46" value="0"/>
  <Attr name="Unlocks/3/47" value="2"/>
  <Attr name="Unlocks/3/49" value="2"/>
- <Attr name="Unlocks/3/5" value="2"/>
- <Attr name="Unlocks/3/50" value="2"/>
- <Attr name="Unlocks/3/51" value="2"/>
+ <Attr name="Unlocks/3/5" value="0"/>
+ <Attr name="Unlocks/3/50" value="0"/>
+ <Attr name="Unlocks/3/51" value="0"/>
  <Attr name="Unlocks/3/52" value="0"/>
- <Attr name="Unlocks/3/53" value="2"/>
- <Attr name="Unlocks/3/54" value="2"/>
- <Attr name="Unlocks/3/56" value="2"/>
- <Attr name="Unlocks/3/57" value="2"/>
- <Attr name="Unlocks/3/59" value="2"/>
- <Attr name="Unlocks/3/6" value="2"/>
- <Attr name="Unlocks/3/60" value="2"/>
- <Attr name="Unlocks/3/61" value="2"/>
- <Attr name="Unlocks/3/62" value="2"/>
- <Attr name="Unlocks/3/64" value="2"/>
+ <Attr name="Unlocks/3/53" value="0"/>
+ <Attr name="Unlocks/3/54" value="0"/>
+ <Attr name="Unlocks/3/56" value="0"/>
+ <Attr name="Unlocks/3/57" value="0"/>
+ <Attr name="Unlocks/3/59" value="0"/>
+ <Attr name="Unlocks/3/6" value="0"/>
+ <Attr name="Unlocks/3/60" value="0"/>
+ <Attr name="Unlocks/3/61" value="0"/>
+ <Attr name="Unlocks/3/62" value="0"/>
+ <Attr name="Unlocks/3/64" value="0"/>
  <Attr name="Unlocks/3/65" value="0"/>
  <Attr name="Unlocks/3/67" value="0"/>
- <Attr name="Unlocks/3/68" value="2"/>
- <Attr name="Unlocks/3/69" value="2"/>
- <Attr name="Unlocks/3/7" value="2"/>
- <Attr name="Unlocks/3/71" value="2"/>
- <Attr name="Unlocks/3/8" value="2"/>
- <Attr name="Unlocks/3/9" value="2"/>
- <Attr name="Unlocks/4/1" value="2"/>
- <Attr name="Unlocks/4/10" value="2"/>
- <Attr name="Unlocks/4/100" value="2"/>
- <Attr name="Unlocks/4/101" value="2"/>
- <Attr name="Unlocks/4/102" value="2"/>
+ <Attr name="Unlocks/3/68" value="0"/>
+ <Attr name="Unlocks/3/69" value="0"/>
+ <Attr name="Unlocks/3/7" value="0"/>
+ <Attr name="Unlocks/3/71" value="0"/>
+ <Attr name="Unlocks/3/8" value="0"/>
+ <Attr name="Unlocks/3/9" value="0"/>
+ <Attr name="Unlocks/4/1" value="0"/>
+ <Attr name="Unlocks/4/10" value="0"/>
+ <Attr name="Unlocks/4/100" value="0"/>
+ <Attr name="Unlocks/4/101" value="0"/>
+ <Attr name="Unlocks/4/102" value="0"/>
  <Attr name="Unlocks/4/103" value="0"/>
  <Attr name="Unlocks/4/104" value="0"/>
- <Attr name="Unlocks/4/105" value="2"/>
+ <Attr name="Unlocks/4/105" value="0"/>
  <Attr name="Unlocks/4/106" value="0"/>
- <Attr name="Unlocks/4/107" value="2"/>
- <Attr name="Unlocks/4/108" value="2"/>
- <Attr name="Unlocks/4/11" value="2"/>
+ <Attr name="Unlocks/4/107" value="0"/>
+ <Attr name="Unlocks/4/108" value="0"/>
+ <Attr name="Unlocks/4/11" value="0"/>
  <Attr name="Unlocks/4/110" value="0"/>
  <Attr name="Unlocks/4/111" value="0"/>
- <Attr name="Unlocks/4/112" value="2"/>
- <Attr name="Unlocks/4/113" value="2"/>
- <Attr name="Unlocks/4/115" value="2"/>
- <Attr name="Unlocks/4/116" value="2"/>
- <Attr name="Unlocks/4/117" value="2"/>
+ <Attr name="Unlocks/4/112" value="0"/>
+ <Attr name="Unlocks/4/113" value="0"/>
+ <Attr name="Unlocks/4/115" value="0"/>
+ <Attr name="Unlocks/4/116" value="0"/>
+ <Attr name="Unlocks/4/117" value="0"/>
  <Attr name="Unlocks/4/119" value="0"/>
- <Attr name="Unlocks/4/12" value="2"/>
- <Attr name="Unlocks/4/120" value="2"/>
- <Attr name="Unlocks/4/121" value="2"/>
+ <Attr name="Unlocks/4/12" value="0"/>
+ <Attr name="Unlocks/4/120" value="0"/>
+ <Attr name="Unlocks/4/121" value="0"/>
  <Attr name="Unlocks/4/123" value="0"/>
  <Attr name="Unlocks/4/124" value="2"/>
  <Attr name="Unlocks/4/125" value="2"/>
@@ -3298,24 +3339,24 @@
  <Attr name="Unlocks/4/127" value="2"/>
  <Attr name="Unlocks/4/128" value="2"/>
  <Attr name="Unlocks/4/129" value="0"/>
- <Attr name="Unlocks/4/13" value="2"/>
- <Attr name="Unlocks/4/130" value="2"/>
- <Attr name="Unlocks/4/131" value="2"/>
+ <Attr name="Unlocks/4/13" value="0"/>
+ <Attr name="Unlocks/4/130" value="0"/>
+ <Attr name="Unlocks/4/131" value="0"/>
  <Attr name="Unlocks/4/132" value="0"/>
  <Attr name="Unlocks/4/135" value="0"/>
  <Attr name="Unlocks/4/136" value="2"/>
  <Attr name="Unlocks/4/137" value="2"/>
  <Attr name="Unlocks/4/138" value="0"/>
  <Attr name="Unlocks/4/139" value="2"/>
- <Attr name="Unlocks/4/14" value="2"/>
+ <Attr name="Unlocks/4/14" value="0"/>
  <Attr name="Unlocks/4/140" value="2"/>
  <Attr name="Unlocks/4/141" value="0"/>
  <Attr name="Unlocks/4/144" value="0"/>
  <Attr name="Unlocks/4/145" value="2"/>
  <Attr name="Unlocks/4/146" value="2"/>
  <Attr name="Unlocks/4/147" value="0"/>
- <Attr name="Unlocks/4/148" value="2"/>
- <Attr name="Unlocks/4/149" value="2"/>
+ <Attr name="Unlocks/4/148" value="0"/>
+ <Attr name="Unlocks/4/149" value="16"/>
  <Attr name="Unlocks/4/15" value="0"/>
  <Attr name="Unlocks/4/150" value="0"/>
  <Attr name="Unlocks/4/153" value="0"/>
@@ -3325,136 +3366,136 @@
  <Attr name="Unlocks/4/157" value="2"/>
  <Attr name="Unlocks/4/158" value="2"/>
  <Attr name="Unlocks/4/159" value="0"/>
- <Attr name="Unlocks/4/16" value="2"/>
+ <Attr name="Unlocks/4/16" value="0"/>
  <Attr name="Unlocks/4/160" value="0"/>
  <Attr name="Unlocks/4/161" value="0"/>
  <Attr name="Unlocks/4/162" value="0"/>
  <Attr name="Unlocks/4/163" value="0"/>
  <Attr name="Unlocks/4/164" value="0"/>
  <Attr name="Unlocks/4/165" value="0"/>
- <Attr name="Unlocks/4/166" value="2"/>
+ <Attr name="Unlocks/4/166" value="0"/>
  <Attr name="Unlocks/4/167" value="0"/>
- <Attr name="Unlocks/4/168" value="2"/>
- <Attr name="Unlocks/4/169" value="2"/>
- <Attr name="Unlocks/4/17" value="2"/>
- <Attr name="Unlocks/4/170" value="2"/>
+ <Attr name="Unlocks/4/168" value="0"/>
+ <Attr name="Unlocks/4/169" value="0"/>
+ <Attr name="Unlocks/4/17" value="0"/>
+ <Attr name="Unlocks/4/170" value="0"/>
  <Attr name="Unlocks/4/172" value="0"/>
- <Attr name="Unlocks/4/173" value="2"/>
- <Attr name="Unlocks/4/174" value="2"/>
+ <Attr name="Unlocks/4/173" value="0"/>
+ <Attr name="Unlocks/4/174" value="0"/>
  <Attr name="Unlocks/4/175" value="2"/>
  <Attr name="Unlocks/4/176" value="2"/>
  <Attr name="Unlocks/4/177" value="0"/>
  <Attr name="Unlocks/4/178" value="0"/>
- <Attr name="Unlocks/4/18" value="0"/>
- <Attr name="Unlocks/4/181" value="2"/>
- <Attr name="Unlocks/4/182" value="2"/>
+ <Attr name="Unlocks/4/18" value="16"/>
+ <Attr name="Unlocks/4/181" value="0"/>
+ <Attr name="Unlocks/4/182" value="0"/>
  <Attr name="Unlocks/4/183" value="0"/>
  <Attr name="Unlocks/4/184" value="0"/>
- <Attr name="Unlocks/4/185" value="2"/>
- <Attr name="Unlocks/4/186" value="2"/>
- <Attr name="Unlocks/4/187" value="2"/>
- <Attr name="Unlocks/4/188" value="2"/>
- <Attr name="Unlocks/4/190" value="2"/>
- <Attr name="Unlocks/4/191" value="2"/>
- <Attr name="Unlocks/4/192" value="2"/>
- <Attr name="Unlocks/4/193" value="2"/>
- <Attr name="Unlocks/4/194" value="2"/>
- <Attr name="Unlocks/4/195" value="2"/>
- <Attr name="Unlocks/4/196" value="2"/>
- <Attr name="Unlocks/4/197" value="2"/>
+ <Attr name="Unlocks/4/185" value="0"/>
+ <Attr name="Unlocks/4/186" value="0"/>
+ <Attr name="Unlocks/4/187" value="0"/>
+ <Attr name="Unlocks/4/188" value="0"/>
+ <Attr name="Unlocks/4/190" value="0"/>
+ <Attr name="Unlocks/4/191" value="0"/>
+ <Attr name="Unlocks/4/192" value="0"/>
+ <Attr name="Unlocks/4/193" value="0"/>
+ <Attr name="Unlocks/4/194" value="0"/>
+ <Attr name="Unlocks/4/195" value="0"/>
+ <Attr name="Unlocks/4/196" value="0"/>
+ <Attr name="Unlocks/4/197" value="0"/>
  <Attr name="Unlocks/4/198" value="0"/>
  <Attr name="Unlocks/4/199" value="0"/>
- <Attr name="Unlocks/4/2" value="2"/>
- <Attr name="Unlocks/4/20" value="16"/>
- <Attr name="Unlocks/4/200" value="0"/>
+ <Attr name="Unlocks/4/2" value="0"/>
+ <Attr name="Unlocks/4/20" value="0"/>
+ <Attr name="Unlocks/4/200" value="2"/>
  <Attr name="Unlocks/4/201" value="0"/>
- <Attr name="Unlocks/4/202" value="2"/>
- <Attr name="Unlocks/4/203" value="2"/>
+ <Attr name="Unlocks/4/202" value="0"/>
+ <Attr name="Unlocks/4/203" value="0"/>
  <Attr name="Unlocks/4/205" value="0"/>
- <Attr name="Unlocks/4/206" value="2"/>
- <Attr name="Unlocks/4/207" value="0"/>
+ <Attr name="Unlocks/4/206" value="0"/>
+ <Attr name="Unlocks/4/207" value="2"/>
  <Attr name="Unlocks/4/208" value="0"/>
  <Attr name="Unlocks/4/209" value="0"/>
- <Attr name="Unlocks/4/210" value="0"/>
- <Attr name="Unlocks/4/212" value="2"/>
- <Attr name="Unlocks/4/214" value="2"/>
- <Attr name="Unlocks/4/215" value="2"/>
- <Attr name="Unlocks/4/216" value="2"/>
- <Attr name="Unlocks/4/22" value="2"/>
- <Attr name="Unlocks/4/23" value="0"/>
- <Attr name="Unlocks/4/24" value="2"/>
- <Attr name="Unlocks/4/26" value="2"/>
- <Attr name="Unlocks/4/27" value="2"/>
- <Attr name="Unlocks/4/28" value="2"/>
+ <Attr name="Unlocks/4/210" value="2"/>
+ <Attr name="Unlocks/4/212" value="0"/>
+ <Attr name="Unlocks/4/214" value="0"/>
+ <Attr name="Unlocks/4/215" value="0"/>
+ <Attr name="Unlocks/4/216" value="0"/>
+ <Attr name="Unlocks/4/22" value="0"/>
+ <Attr name="Unlocks/4/23" value="16"/>
+ <Attr name="Unlocks/4/24" value="0"/>
+ <Attr name="Unlocks/4/26" value="0"/>
+ <Attr name="Unlocks/4/27" value="0"/>
+ <Attr name="Unlocks/4/28" value="0"/>
  <Attr name="Unlocks/4/29" value="0"/>
  <Attr name="Unlocks/4/3" value="0"/>
- <Attr name="Unlocks/4/30" value="2"/>
+ <Attr name="Unlocks/4/30" value="0"/>
  <Attr name="Unlocks/4/32" value="0"/>
- <Attr name="Unlocks/4/35" value="2"/>
- <Attr name="Unlocks/4/36" value="2"/>
- <Attr name="Unlocks/4/37" value="2"/>
+ <Attr name="Unlocks/4/35" value="0"/>
+ <Attr name="Unlocks/4/36" value="0"/>
+ <Attr name="Unlocks/4/37" value="0"/>
  <Attr name="Unlocks/4/38" value="0"/>
  <Attr name="Unlocks/4/39" value="0"/>
  <Attr name="Unlocks/4/4" value="0"/>
  <Attr name="Unlocks/4/40" value="0"/>
- <Attr name="Unlocks/4/41" value="2"/>
- <Attr name="Unlocks/4/42" value="2"/>
+ <Attr name="Unlocks/4/41" value="0"/>
+ <Attr name="Unlocks/4/42" value="0"/>
  <Attr name="Unlocks/4/43" value="2"/>
- <Attr name="Unlocks/4/44" value="2"/>
+ <Attr name="Unlocks/4/44" value="0"/>
  <Attr name="Unlocks/4/45" value="0"/>
- <Attr name="Unlocks/4/46" value="2"/>
- <Attr name="Unlocks/4/47" value="2"/>
- <Attr name="Unlocks/4/48" value="2"/>
+ <Attr name="Unlocks/4/46" value="0"/>
+ <Attr name="Unlocks/4/47" value="0"/>
+ <Attr name="Unlocks/4/48" value="0"/>
  <Attr name="Unlocks/4/49" value="0"/>
- <Attr name="Unlocks/4/5" value="2"/>
+ <Attr name="Unlocks/4/5" value="0"/>
  <Attr name="Unlocks/4/50" value="0"/>
  <Attr name="Unlocks/4/51" value="0"/>
  <Attr name="Unlocks/4/52" value="0"/>
- <Attr name="Unlocks/4/53" value="2"/>
- <Attr name="Unlocks/4/54" value="2"/>
- <Attr name="Unlocks/4/55" value="2"/>
+ <Attr name="Unlocks/4/53" value="0"/>
+ <Attr name="Unlocks/4/54" value="0"/>
+ <Attr name="Unlocks/4/55" value="0"/>
  <Attr name="Unlocks/4/56" value="0"/>
- <Attr name="Unlocks/4/57" value="2"/>
+ <Attr name="Unlocks/4/57" value="0"/>
  <Attr name="Unlocks/4/58" value="0"/>
- <Attr name="Unlocks/4/59" value="2"/>
+ <Attr name="Unlocks/4/59" value="0"/>
  <Attr name="Unlocks/4/6" value="0"/>
  <Attr name="Unlocks/4/60" value="0"/>
- <Attr name="Unlocks/4/61" value="2"/>
- <Attr name="Unlocks/4/62" value="2"/>
- <Attr name="Unlocks/4/63" value="2"/>
+ <Attr name="Unlocks/4/61" value="0"/>
+ <Attr name="Unlocks/4/62" value="0"/>
+ <Attr name="Unlocks/4/63" value="0"/>
  <Attr name="Unlocks/4/65" value="0"/>
- <Attr name="Unlocks/4/67" value="2"/>
- <Attr name="Unlocks/4/68" value="2"/>
- <Attr name="Unlocks/4/69" value="2"/>
- <Attr name="Unlocks/4/7" value="2"/>
- <Attr name="Unlocks/4/70" value="2"/>
- <Attr name="Unlocks/4/72" value="2"/>
- <Attr name="Unlocks/4/73" value="2"/>
- <Attr name="Unlocks/4/74" value="2"/>
- <Attr name="Unlocks/4/75" value="2"/>
- <Attr name="Unlocks/4/76" value="2"/>
- <Attr name="Unlocks/4/77" value="2"/>
+ <Attr name="Unlocks/4/67" value="0"/>
+ <Attr name="Unlocks/4/68" value="0"/>
+ <Attr name="Unlocks/4/69" value="0"/>
+ <Attr name="Unlocks/4/7" value="0"/>
+ <Attr name="Unlocks/4/70" value="0"/>
+ <Attr name="Unlocks/4/72" value="0"/>
+ <Attr name="Unlocks/4/73" value="0"/>
+ <Attr name="Unlocks/4/74" value="0"/>
+ <Attr name="Unlocks/4/75" value="0"/>
+ <Attr name="Unlocks/4/76" value="0"/>
+ <Attr name="Unlocks/4/77" value="0"/>
  <Attr name="Unlocks/4/78" value="0"/>
  <Attr name="Unlocks/4/79" value="0"/>
- <Attr name="Unlocks/4/8" value="2"/>
- <Attr name="Unlocks/4/81" value="2"/>
- <Attr name="Unlocks/4/82" value="2"/>
- <Attr name="Unlocks/4/83" value="2"/>
+ <Attr name="Unlocks/4/8" value="0"/>
+ <Attr name="Unlocks/4/81" value="0"/>
+ <Attr name="Unlocks/4/82" value="0"/>
+ <Attr name="Unlocks/4/83" value="0"/>
  <Attr name="Unlocks/4/84" value="2"/>
  <Attr name="Unlocks/4/85" value="2"/>
- <Attr name="Unlocks/4/86" value="2"/>
+ <Attr name="Unlocks/4/86" value="0"/>
  <Attr name="Unlocks/4/87" value="0"/>
  <Attr name="Unlocks/4/88" value="2"/>
- <Attr name="Unlocks/4/89" value="2"/>
- <Attr name="Unlocks/4/9" value="2"/>
- <Attr name="Unlocks/4/90" value="2"/>
- <Attr name="Unlocks/4/91" value="2"/>
- <Attr name="Unlocks/4/93" value="2"/>
- <Attr name="Unlocks/4/94" value="2"/>
- <Attr name="Unlocks/4/95" value="2"/>
- <Attr name="Unlocks/4/96" value="2"/>
+ <Attr name="Unlocks/4/89" value="0"/>
+ <Attr name="Unlocks/4/9" value="0"/>
+ <Attr name="Unlocks/4/90" value="0"/>
+ <Attr name="Unlocks/4/91" value="0"/>
+ <Attr name="Unlocks/4/93" value="0"/>
+ <Attr name="Unlocks/4/94" value="0"/>
+ <Attr name="Unlocks/4/95" value="0"/>
+ <Attr name="Unlocks/4/96" value="0"/>
  <Attr name="Unlocks/4/98" value="0"/>
- <Attr name="Unlocks/4/99" value="2"/>
+ <Attr name="Unlocks/4/99" value="0"/>
  <Attr name="Unlocks/5/1970324836974593" value="2"/>
  <Attr name="Unlocks/5/1970324836974594" value="2"/>
  <Attr name="Unlocks/5/1970324836974595" value="2"/>
@@ -3727,7 +3768,7 @@
  <Attr name="Unlocks/8/27951871578490276" value="10"/>
  <Attr name="Unlocks/8/27951871580063141" value="10"/>
  <Attr name="Unlocks/8/27951871581963686" value="10"/>
- <Attr name="Unlocks/8/27951871582946729" value="10"/>
+ <Attr name="Unlocks/8/27951871582946729" value="26"/>
  <Attr name="Unlocks/8/27951871583208874" value="10"/>
  <Attr name="Unlocks/8/27951871583405483" value="10"/>
  <Attr name="Unlocks/8/27951871583602092" value="10"/>
@@ -3809,7 +3850,7 @@
  <Attr name="Unlocks/8/27951904020714712" value="10"/>
  <Attr name="Unlocks/8/27951904020845785" value="10"/>
  <Attr name="Unlocks/8/27951904020976858" value="10"/>
- <Attr name="Unlocks/8/27951904118625593" value="10"/>
+ <Attr name="Unlocks/8/27951904118625593" value="26"/>
  <Attr name="Unlocks/8/27951910065624704" value="10"/>
  <Attr name="Unlocks/8/27951910645749423" value="10"/>
  <Attr name="Unlocks/8/27951910645880498" value="10"/>
@@ -4451,7 +4492,7 @@
  <Attr name="Unlocks/8/39563788022318801" value="10"/>
  <Attr name="Unlocks/8/39563788022646483" value="10"/>
  <Attr name="Unlocks/8/39563788022777557" value="10"/>
- <Attr name="Unlocks/8/39563788022908631" value="10"/>
+ <Attr name="Unlocks/8/39563788022908631" value="26"/>
  <Attr name="Unlocks/8/39563788022908633" value="10"/>
  <Attr name="Unlocks/8/39563788023170781" value="10"/>
  <Attr name="Unlocks/8/39563788023170782" value="10"/>
@@ -4546,9 +4587,9 @@
  <Attr name="Unlocks/8/52732727500167410" value="10"/>
  <Attr name="Unlocks/8/68648052142441069" value="2"/>
  <Attr name="Unlocks/UnlockRank" value="100"/>
- <Attr name="VOIPInputDevice" value="{0.0.1.00000000}.{da4fe98e-60e3-4e11-a4cd-2530e7c0583c}"/>
- <Attr name="VOIPOutputDevice" value="1"/>
- <Attr name="VRamUsage" value="70"/>
+ <Attr name="VOIPInputDevice" value="{0.0.1.00000000}.{6d22b0b3-dc45-44ed-ba73-8c634d01f8ee}"/>
+ <Attr name="VOIPOutputDevice" value="{0.0.0.00000000}.{9fdfff94-c7ac-424e-b8e9-46b3c7a61e6c}"/>
+ <Attr name="VOIP_IncomingVoiceFilterMode" value="1"/>
  <Attr name="WeaponAnimations_Sort" value="0"/>
  <Attr name="WeaponAnimations_Sort_IsReversed" value="0"/>
  <Attr name="Xbox_aim_1" value="540"/>
